@@ -1,0 +1,193 @@
+.navbar-expand-md .navbar-collapse 
+{
+    display: block !important;
+}
+.float_left_header
+{
+	float: left !important;
+}
+.float_right_header
+{
+	float: right !important;
+}
+form .form-group 
+{ 
+    float: left;
+    width: 100%;
+}
+.note_file input 
+{
+    padding: 9px 75px!important;
+}
+.text_right_rtl 
+{
+    text-align: right !important;
+}
+.text_left_rtl 
+{
+    text-align: left !important;
+}
+.margin_left_custom_field .icheckbox_flat-green
+{
+	margin-left: 0.6rem!important;
+}
+.user_created_time
+{
+	text-align: right;
+}
+.fa
+{
+	margin-left: 0.5rem!important;
+}
+#grid .k-grid-content tr td:first-child 
+{
+    border-left: 0px solid #ddd !important;
+	border-right: 1px solid #ddd !important;
+}
+#grid .k-grid-content tr td:last-child 
+{
+    border-right: 0px solid #ddd !important;
+	border-left: 1px solid #ddd !important;
+}
+#grid .k-grid-View, #grid .k-grid-View:hover,#grid .k-grid-View:active,#grid .k-grid-pageedit,#grid .k-grid-pageedit:hover, 
+#grid .k-grid-pageedit:active,#grid .k-grid-Delete,#grid .k-grid-Delete:hover,#grid .k-grid-Delete:active
+{
+	padding-left: 11px!important;
+    padding-right: 13px!important;
+    padding-bottom: 12px!important;
+    padding-top: 13px!important;
+}
+.margin_bottom_rtl
+{
+	margin-bottom: 20px!important;
+}
+.card-header-css
+{
+	float: left;
+    width: 96%;
+}
+th 
+{
+    text-align: left!important;
+}
+.asset_btn_rtl
+{
+	text-align: right!important;
+    margin-right: 0px!important;
+}
+.form-horizontal .control-label
+{
+    text-align: left!important;
+}
+#btn-add-cat,#btn-add-cats
+{
+	float: right!important;
+}	
+[class*=" ft-"], [class^=ft-]
+{
+	margin-left: 0.5rem!important;
+	text-align: right!important;
+	display: inline-block!important;
+}	
+.set_mar_left 
+{
+    margin-right: 5px!important;
+}
+@media only screen and (min-width : 766px) 
+{
+	.ft-menu
+	{
+		display:none!important;
+	}
+}
+.display_rtl_css
+{
+	display: -webkit-inline-box!important;
+}
+.user_created_time
+{
+	text-align:left !important;
+}
+.rtl_view_invoice_company_details
+{
+	float: right !important;
+    text-align: right !important;
+}
+.invoice_number_div_rtl
+{
+	float: left !important;
+    text-align: left !important;
+}
+.invoice_number_lable
+{
+	margin-right: 80%!important;
+	margin-left: 0%!important;
+}
+#invoice-company-details,#invoice-customer-details,.terms_div_invoice
+{
+	display: block!important;
+}
+#invoice-items-details
+{
+	width: 100%!important;
+    float: left!important;
+}
+.clear_both_rtl
+{
+	clear:both !important;
+}
+.invoice_total_div .text_left_rtl 
+{
+	text-align: left !important;
+}
+@media print 
+{
+	.rtl_view_invoice_company_details
+	{
+		float: right !important;
+		text-align: right !important;
+	}
+	.invoice_number_div_rtl
+	{
+		float: left !important;
+		text-align: left !important;
+	}
+	.invoice_number_lable
+	{
+		margin-right: 70%!important;
+		margin-left: 0%!important;
+	}
+	#invoice-company-details,#invoice-customer-details,.terms_div_invoice
+	{
+		display: block!important;
+	}
+	#invoice-items-details
+	{
+		width: 100%!important;
+		float: left!important;
+	}
+	.text_right_rtl 
+	{
+		text-align: right !important;
+	}
+	.text_left_rtl 
+	{
+		text-align: left !important;
+	}
+	.invoice_total_div .text_left_rtl 
+	{
+		text-align: left !important;
+	}
+	.clear_both_rtl
+	{
+		clear:both !important;
+	}
+	.float_left_header
+	{
+		float: left !important;
+	}
+	.float_right_header
+	{
+		float: right !important;
+	}
+}

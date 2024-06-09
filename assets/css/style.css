@@ -1,0 +1,2421 @@
+/* set admin side upadte church desgin start-hitesh  */
+/* .cmgt-header img{
+   width:55px;
+  height:55px; 
+} */
+.cmgt-header .cmgt-churchname {
+  display: table-cell;
+  vertical-align: middle;
+  color: #010101;
+  font-size: 15px;
+  padding-right: 25px;
+  font-weight: 700;
+}
+.cmgt-logo-mini {
+  display: table-cell;
+  vertical-align: middle;
+}
+.cmgt-message .cmgt-dropdown,
+.cmgt-notification .cmgt-dropdown,
+.cmgt-userMain .cmgt-dropdown {
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+.cmgt-dropdownmain {
+  position: relative;
+}
+.cmgt-profile-pic img{
+  border-radius: 50%;
+  object-fit: cover;
+  background-image: cover;
+  background: #e2e2e2;
+}
+.cmgt-profile-pic span{
+  color: white;
+  font-size: 15px;
+} 
+.cmgt-button-group .cmgt-btn-blue.cmgt-dropdown-toggle:hover:before {
+  border-top-color: #00bdda;
+}
+.cmgt-button-group .cmgt-dropdown-toggle:before {
+  content: '';
+  width: 0;
+  height: 0;
+  border-top: 5px solid #fff;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  position: absolute;
+  right: 0;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+}
+.cmgt-button-group .cmgt-dropdown-toggle {
+  border-radius: 0px 4px 4px 0px;
+  margin-left: -4px;
+  position: relative;
+  height: 35px;
+}
+.cmgt-dropdown-toggle {
+  cursor: pointer;
+}
+.cmgt-dropdown ul li.cmgt-checkList {
+  padding: 5px 15px;
+}
+.cmgt-dropdown .cmgt-view-all:after {
+  content: '';
+  width: 6px;
+  height: 6px;
+  border-bottom: 2px solid #54667a;
+  border-right: 2px solid #54667a;
+  transform: rotate(-45deg);
+  display: inline-block;
+}
+.cmgt-dropdown .cmgt-view-all {
+  background: #f7fafc;
+  text-align: center;
+  font-weight: 700;
+  color: #54667a;
+  font-size: 14px;
+}
+.cmgt-dropdown ul li a:hover {
+  background-color: #f5f5f5;
+}
+.cmgt-dropdown ul li a {
+  display: block;
+  color: #6c757d;
+  text-decoration: none;
+  padding: 10px 15px;
+}
+.cmgt-dropdown ul li:last-child {
+  border-bottom: none;
+}
+.cmgt-dropdown ul li {
+  display: block;
+  border-bottom: 1px solid #e1e1e1;
+  margin-bottom: 0;
+}
+.cmgt-pageHead{
+  background-color: #fff;
+  display: inline-block;
+  width: 100%;
+  box-shadow: 0 0 8px rgb(0 0 0 / 6%);
+  padding: 10px 42px;
+}
+.cmgt-left{
+   float: left;
+}
+.cmgt-pagetitle{
+  margin: 10px 0;
+  font-weight: 350;
+  font-size: 22px;
+  color: #212529;
+  text-transform: uppercase;
+}
+.cmgt-right{
+  float: right;
+}
+.cmgt-right nav ol{
+  margin: 10px 10px;
+}
+.cmgt-breadcrumb li{
+  font-size: 14px;
+}
+.cmgt-breadcrumb li a{
+  color: #212529;
+  text-decoration: none;
+  transition: all 0.4s ease-in-out;
+  box-shadow: none;
+ }
+.cmgt-breadcrumb li a:hover,
+.cmgt-breadcrumb li .active {
+    color: #00bdda
+}
+.cmgt-dropdown ul {
+  list-style: none;
+}
+.cmgt-dropdown.cmgt-dropdown-right {
+  right: 0;
+  left: inherit
+}
+.cmgt-dropdown {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  float: left;
+  min-width: 160px;
+  padding: 0;
+  margin: 0;
+  font-size: 16px;
+  color: #212529;
+  text-align: left;
+  list-style: none;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #e9ecef;
+  border-radius: 6px;
+  box-shadow: 1px 0px 20px rgba(0, 0, 0, 0.08);
+  border-color: #e9ecef;
+}
+.heder-dropdown-menu{
+  width: 180px;
+}
+ .heder-dropdown-menu li{
+  margin-bottom: 0px;
+} 
+.heder-dropdown-menu a{
+  font-size: 15px !important;
+}
+.cmgt-back-wp{
+  background: #0073aa !important;
+  color: #fff !important;
+}
+.cmgt-username{
+  vertical-align: middle;
+  font-size: 16px;
+  color: #fff;
+  padding-right: 20px;
+}
+.cmgt-userPic {
+  object-fit: cover;
+  background: #e2e2e2;
+  margin-right: 10px;
+}
+.dropdown-toggle::after{
+  border-top: 0.3em solid #fff !important;
+}
+.cmgt-sidebar {
+  height: 100%;
+  width: 100%;
+  background: #fff;
+}
+.cmgt-sidebar-head {
+  display: block;
+  height: 85px;
+  padding: 15px;
+}
+.cmgt-navigation li .sub-menu li a:hover {
+  background-color: transparent;
+  color: #0178bc;
+}
+.cmgt-navigation li .sub-menu li.active>a {
+  background-color: #e2e2e2;
+}
+.cmgt-navigation li .sub-menu li a {
+  padding: 15px;
+  font-size: 14px;
+  font-weight: 400;
+  padding-left: 40px;
+}
+.cmgt-navigation li.has-submenu.active>.sub-menu {
+  display: block;
+}
+.cmgt-navigation li .sub-menu li:before {
+  content: "-";
+  position: absolute;
+  left: 20px;
+  top: 15px;
+}
+.cmgt-navigation li .sub-menu li {
+  border-bottom: none;
+  position: relative;
+}
+.cmgt-navigation li .sub-menu {
+  display: none;
+  padding: 0;
+}
+/* .dropdown-right-icon,.dropdown-down-icon{
+  float: right;
+  margin-top: 5px;
+} */
+.dropdown-down-icon{
+  display: none!important;
+}
+.header_profile_dropdown .dropdown-toggle:after{
+  vertical-align: unset !important;
+}
+.btn-check:focus+.btn, .btn:focus{
+  box-shadow: unset!important;
+}
+.cmgt-navigation li.has-submenu .cmgt-droparrow {
+  position: absolute;
+  height: 50px;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 12;
+  cursor: pointer;
+}
+.cmgt-navigation li.has-submenu {
+  position: relative;
+}
+/* .cmgt-navigation li .icon {
+  font-size: 16px;
+  margin-right: 6px;
+  width: 18px;
+} */
+/* .cmgt-navigation li.active a {
+  background-color: #f3f3f3;
+}
+.cmgt-navigation li a:hover,
+.cmgt-navigation li .cmgt-droparrow:hover+a {
+  background-color: #f5f5f5;
+} */
+/* .cmgt-navigation li a {
+  display: block;
+  padding: 12px;
+  font-weight: 500;
+  text-decoration: none;
+  color: #54667a;
+  background: white; 
+  box-shadow: unset;
+} */
+/* .cmgt-navigation li {
+  display: block;
+  font-size: 16px;
+  color: #54667a;
+  border-bottom: 1px solid #e1e1e1; 
+  position: relative;
+  margin-bottom: 0;
+} */
+/* .general-panel-white{
+  margin: 20px;
+} */
+.cmgt-navigation {
+  margin-top: 50px;
+  padding: 0;
+}
+#sidebarCollapse{
+  width: 40px;
+  height: 40px;
+  border: none;
+  background-color: none;
+  background: none;
+  display: none;
+}
+.has-submenu .sub-menu.has-submenu .has-submenu .wpsp-droparrow:before {
+  line-height: 50px;
+}
+.has-submenu .sub-menu.has-submenu .has-submenu .wpsp-droparrow {
+  height: 50px;
+  padding-top: 0;
+}
+#wpcontent, #wpfooter {
+  margin-left: 0px;
+}
+/* .padding_0
+{
+padding:0px !important;
+} */
+/* .main_sidebar{
+	background-color: #fff;
+	height: 100%;
+}  */
+#sidebarCollapse span {
+  width: 80%;
+  height: 2px;
+  margin: 0 auto;
+  display: block;
+  background: black;
+  transition: all 0.8s cubic-bezier(0.810, -0.330, 0.345, 1.375);
+}
+#sidebarCollapse span:first-of-type {
+  transform: rotate(45deg) translate(2px, 2px);
+}
+#sidebarCollapse span:nth-of-type(2) {
+  opacity: 0;
+}
+#sidebarCollapse span:last-of-type {
+  transform: rotate(-45deg) translate(1px, -1px);
+}
+#sidebarCollapse.active span {
+  transform: none;
+  opacity: 1;
+  margin: 5px auto;
+}
+.wrapper {
+  display: flex;
+  align-items: stretch;
+  perspective: 1500px; 
+}
+#sidebar {
+  /* color: #fff; */
+}
+#sidebar.active {
+  /* margin-left: -250px;
+  transform: rotateY(100deg);  */
+  /* Rotate sidebar vertically by 100 degrees. */
+}
+/* .cmgt-footer{
+  width: 100%;
+  display: inline-block;
+} */
+/* .cmgt-footer p{
+  font-size: 15px;
+  font-weight: 400;
+  color: #54667a;
+  margin: 21px 45px;
+} */
+/* .cmgt-footer p a {
+  color: #0178bc;
+  text-decoration: none;
+} */
+/* .cmgt-footer-right{
+  float: right;
+} */
+/* set admin side upadte church desgin end -hitesh  */
+
+/* ============ desktop view .end// ============ */
+
+/* ============ small devices ============ */
+@media (max-width: 991px) 
+{
+	#sidebar .submenu, #sidebar .dropdown-menu{
+    position: relative;
+    width: 100%;
+    top: -10px;
+	}
+  .dropdown-right-icon{
+    display: none!important;
+  }
+  .dropdown-down-icon{
+    display: unset!important;
+  }
+  .has-submenu .dropdown-menu li a{
+    padding: 15px;
+    font-size: 15px;
+    font-weight: 600;
+    /* border-bottom: 1px solid #e1e1e1; */
+    /* margin-left: 25px; */
+  }
+}	
+
+
+
+
+
+/* ============ small devices .end// ============ */
+/* .Document_nameformError.parentFormdocument_form.formError {
+  top: 17.7778px!important;
+} */
+/* .document_adminformError.parentFormdocument_form.formError{
+top: 18px!important;
+} */
+/* .document_descriptionformError.parentFormdocument_form.formError{
+top:18.7778px!important;	
+} */
+/* .venue_titleformError.parentFormvanue_form.formError{
+top: -29px!important;
+}	 */
+.nav-tabs>li
+{
+margin-bottom: 0px!important;
+}
+.hospital-management-content .container-fluid
+{
+background: #364150;
+}
+.no-outline:focus {
+      outline: none;
+}
+.cmgt_ajax-ani 
+{
+background-color: #ffffff;
+display: none;
+height: 100%;
+left: 0;
+opacity: 0.8;
+position: absolute;
+top: 0;
+width: 100%;
+z-index: 100;
+}
+.cmgt_ajax-img
+{
+display: none;
+left: 40%;
+position: absolute;
+top: 20%;
+z-index: 999;
+}
+.cmgt_ajax-img > img
+{
+margin-top: 220px;
+}
+.toplevel_page_hospital:hover .wp-menu-image.dashicons-before img 
+{
+display: none;
+}
+.toplevel_page_hospital:hover .wp-menu-image.dashicons-before
+{
+min-width: 23px !important;
+}
+#wpbody-content .updated.below-h2 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  padding-left: 5px;
+}
+.main_page{
+  width: 100%;
+}
+.media-modal a:hover {text-decoration: none;}
+.wp-has-submenu.wp-has-current-submenu.wp-menu-open.menu-top.toplevel_page_cmgt-church_system {
+  background: url("../images/church-management-1.png") no-repeat scroll 8px 9px #0073AA !important;
+}
+.wp-has-submenu.wp-has-current-submenu.wp-menu-open.menu-top.toplevel_page_cmgt-church_system img {
+  display: none;
+}
+
+.info-box-title 
+{
+text-transform: capitalize;
+}
+.container-fluid.mainpage 
+{
+padding: 0;
+}
+.dashboard_margin {
+  margin-top: 50px!important;
+  padding: 0!important;
+}
+.page-inner 
+{
+  padding: 0!important;
+  /* min-height:1631px; */
+  background-color: #F9FDFF!important;
+}
+/* #main-wrapper {
+  padding: 0!important;
+  margin: 0!important;
+} */
+#main-wrapper > .row{
+  margin: 12px 12px ;
+}
+.img-circle.head_logo
+{
+  margin-right: 5px;
+}
+.nav-tab-active, .nav-tab-active:hover,a.nav-tab:hover,a.nav-tab:focus 
+{
+  background: none repeat scroll 0 0 #fff;
+  border-bottom: 0px;
+  color: #000;
+  text-decoration: none;
+}
+.wp-admin select 
+{
+  height: 32px;
+}
+updated.below-h2{text-transform: capitalize;}
+/* //OLD CSS */
+.student_name,.result_total,.result_point
+{
+text-align: center; 
+}
+.student_name {
+font-size: 20px;
+}
+.panel-body button {
+margin-right: 5px;
+}
+.school_name {
+background: none repeat scroll 0 0 #34425A;
+color: #C6C9CD;
+padding: 5px;
+}
+.hospital_left {
+background: none repeat scroll 0 0 #364150;
+/* min-height: 700px; */
+}
+.nopadding {  
+
+ padding-left:0 !important;
+ padding-right:0 !important;
+}
+.hospital_left .nav .title{color:#fff;}
+.hospital_left ul a:hover,.hospital_left ul li.active > a,.hospital_left  li > a:focus {background: #2C3542 !important;}
+.hospital_left ul a {border-top: 1px solid #3d4957;
+  color: #b4bcc8;}
+  
+
+.form-control.file 
+{
+border: medium none;
+}   
+.navbar a {
+color: #5f5f5f !important;
+}
+.dropdown-menu li a {
+padding: 7px 10px;
+color: #5f5f5f;
+font-size: 13px;
+}
+.navbar .nav li > a:hover,.navbar .nav li > a:focus {
+background-color: inherit;
+}
+.navbar ul li ul a:hover{background-color: #F3F3F3; } 
+.navbar  a:hover{
+text-decoration: none;
+}
+.panel-body.staff-member{
+text-align: center;
+}
+
+.account .personal-info {
+  margin-top: 15px;
+}
+.dashboard-stat {
+height: 100px;
+padding: 10px 5px;
+}
+.dashboard .block-orange {
+background: #F59575;
+}
+.dashboard .icon {
+float: left;
+font-size: 54px;
+margin-right: 1%;
+width: 45%;
+}
+.dashboard .number {
+font-size: 30px;
+}
+.dashboard .left_block {
+float: left;
+/* width: 75%; */
+}
+.form-horizontal h5 {
+  color: red;
+}
+.blue.btn {
+  background-color: #3598dc;
+  color: #ffffff;
+border-radius:0px;
+}
+.checkbox_field  {
+  width: 10px !important;
+}
+.attendence_list th, .attendence_list td{
+padding:10px !important;
+}
+.panel-body p .img-circle {
+margin-right: 10px;
+}
+.select_Staus {
+ 
+  padding: 25px 0;
+}
+.toshow { 
+  display:none; 
+  position: absolute; 
+  background: #f00; 
+  width: 200px; 
+
+}
+button:hover div.toshow { 
+  display:block; 
+}
+.right_part {
+  float: right;
+  margin-top: 65px;
+  width: 30%;
+}
+.calender_part{
+  width: 70%;
+}
+.seperate_part {
+  margin: 5px;
+}
+.right_side.account {
+  padding: 0px !important;
+
+}
+.profile-cover{
+  background: url("../images/school_life.jpg") repeat scroll 0 0 / cover rgba(0, 0, 0, 0);
+}
+.file_upload{
+border:none;
+}
+
+.table-responsive th {
+text-transform: capitalize;
+height: 1px;
+font: normal;
+}
+.require-field{
+color:red;
+}
+.pull-right
+{
+float:right;
+}
+.info-box .info-box-stats {
+margin-top: 0px !important;
+}
+
+
+.info-box .info-box-icon i {
+  float: right;
+  font-size: 70px !important;
+}
+
+.button-possition  input ,button{
+  margin-top: 28px;
+}
+.panel-body h2 {
+  margin-bottom: 10px !important;
+  /* margin-top: 20px; */
+   font-family: open sans;
+}
+#add-another_item{margin-left: 17%;}
+#revove_item{margin-left: 1%;}
+.marginbottom{ 
+float: left;
+  margin-bottom: 10px;
+  width: 100%;}
+.print-button {padding-top:10px;
+margin-bottom: 10px;
+}
+table.dataTable thead th, table.dataTable thead td{padding:10px 10px;}
+.icone {
+/* float: left; */
+height: 19px !important;
+/* line-height: 0px; */
+margin-right: 10px;
+overflow: hidden;
+width: 19px !important;
+text-align: center;
+vertical-align: middle!important;
+}
+.hospital-management-content .container-fluid.mainpage {
+position: fixed;
+width: 100%;
+z-index: 5;
+}
+.info-box .panel-body img{
+transition: all 0.3s ease 0s;
+}
+.page-inner .col-lg-2 a .info-box:hover .panel-body img{
+  transform: scale(1.2);
+} 
+.info-box .info-box-stats {
+position: relative;
+}
+.info-box-stats > p.counter, .info-box-stats > span.info-box-title {
+display: inline-block;
+}
+.info-box .panel-body {
+padding: 0 !important;
+}
+.info-box .patient .info-box-stats p {
+color: #F9FDFB;
+font-size: 34px; 
+float:left;
+}
+.info-box .patient .info-box-stats span.info-box-title {
+color: #F9FDFB; 
+}
+.info-box .doctor .info-box-stats p {
+color: #12AFCB;
+font-size: 34px; 
+}
+.info-box .doctor .info-box-stats span.info-box-title {
+color: #12AFCB; 
+}
+.info-box .nurse .info-box-stats p {
+color: #6A5FAC;
+font-size: 34px; 
+}
+.info-box .nurse .info-box-stats span.info-box-title {
+color: #6A5FAC; 
+}
+.info-box .accountant .info-box-stats p {
+color: #F25656;
+font-size: 34px; 
+}
+.info-box .accountant .info-box-stats span.info-box-title {
+color: #F25656; 
+}
+.info-box .receptionist .info-box-stats p {
+color: #4E5E6A;
+font-size: 34px; 
+}
+.info-box .receptionist .info-box-stats span.info-box-title {
+color: #4E5E6A; 
+margin-left:20px !important;
+}
+.info-box .pharmacist .info-box-stats p {
+color: #3B5998;
+font-size: 34px; 
+}
+.info-box .pharmacist .info-box-stats span.info-box-title {
+color: #3B5998; 
+}
+.info-box .laboratorist .info-box-stats p {
+color: #380000;
+font-size: 34px; 
+}
+.info-box .laboratorist .info-box-stats span.info-box-title {
+
+color: #380000; 
+}
+.info-box .invoice .info-box-stats p {
+color: #660033;
+font-size: 34px; 
+}
+.info-box .invoice .info-box-stats span.info-box-title {
+color: #660033;
+}
+.info-box .medicine .info-box-stats p {
+color: #CC0066;
+font-size: 34px; 
+}
+
+.info-box .medicine .info-box-stats span.info-box-title {
+color: #CC0066;
+}
+
+.info-box .operation_report .info-box-stats p {
+color: #330033;
+font-size: 34px; 
+}
+
+.info-box .operation_report .info-box-stats span.info-box-title {
+color: #330033;
+}
+
+.info-box .birthreport .info-box-stats p {
+color: #666633;
+font-size: 34px; 
+}
+
+.info-box .birthreport .info-box-stats span.info-box-title {
+color: #666633;
+}
+
+.info-box .deathreport .info-box-stats p {
+color: #CC9900;
+font-size: 34px; 
+}
+
+.info-box .deathreport .info-box-stats span.info-box-title {
+color: #CC9900;
+}
+.info-box .setting .info-box-stats p {
+color: #999933;
+font-size: 34px; 
+}
+
+.info-box .setting .info-box-stats span.info-box-title {
+color: #999933;
+}
+.info-box .treatment .info-box-stats p {
+color: #003333;
+font-size: 34px; 
+}
+
+.info-box .treatment .info-box-stats span.info-box-title {
+color: #003333;
+}
+.info-box .prescription .info-box-stats p {
+color: #0099FF;
+font-size: 34px; 
+}
+
+.info-box .prescription .info-box-stats span.info-box-title {
+color: #0099FF;
+}
+.info-box .assignbed .info-box-stats p {
+color: #996600;
+font-size: 34px; 
+}
+
+.info-box .assignbed .info-box-stats span.info-box-title {
+color: #996600;
+}
+.info-box .diagnosis .info-box-stats p {
+color: #330033;
+font-size: 34px; 
+}
+
+.info-box .diagnosis .info-box-stats span.info-box-title {
+color: #330033;
+}
+.info-box .bloodbank .info-box-stats p {
+color: #990000;
+font-size: 34px; 
+}
+
+.info-box .bloodbank .info-box-stats span.info-box-title {
+color: #990000;
+}
+.info-box .appointment .info-box-stats p {
+color: #FF9966;
+font-size: 34px; 
+}
+
+.info-box .appointment .info-box-stats span.info-box-title {
+color: #FF9966;
+}
+.info-box .eventnotice .info-box-stats p {
+color: #009933;
+font-size: 34px; 
+}
+
+.info-box .eventnotice .info-box-stats span.info-box-title {
+color: #009933;
+}
+
+.info-box-stats p {
+color: #0066FF;
+font-size: 34px; 
+}
+
+.info-box-stats span.info-box-title {
+color: #0066FF;
+}
+
+
+
+.info-box .operation-list   .info-box-stats span.info-box-title {
+color: #003333;
+}
+.info-box .operation-list .info-box-stats p {
+color: #003333;
+font-size: 34px; 
+}
+.mainpage .navbar-right {
+
+margin-right: 0px;
+}
+.mainpage .navbar-right .dropdown{float:right;}
+table.fontend-border td,
+table.fontend-border th{
+padding:0px !important;
+}
+
+
+ul.panel_tabs li{padding-left:10px;}
+/* ul.panel_tabs a {
+padding: 5px;
+} */
+ul.panel_tabs a:focus,ul.panel_tabs a:hover {
+background: #fff !important;
+
+}
+ul.panel_tabs a {
+font-size: 15px;
+font-weight: 700;
+}
+
+/*********** Hospital CSS ********************/
+.table-responsive {
+padding-top : 10px;
+}
+table a.btn {
+margin-bottom: 5px;
+}
+blockquote.diagnosis-report {
+  font-size: 12.5px;
+}
+/*.calendar-event > p {
+  float: left;
+  width: 100%;
+}*/
+.profile_data hr {
+  margin-bottom: 0;
+}
+.panel-body.prescription_popprint_content {
+margin: 25px auto;
+width: 82%;
+}
+.overlay-content .prescription_pop_content{
+height: 400px;
+overflow: scroll;
+}
+.hmsg_message_none {
+  display: none;
+}
+.hmsg_message_block {
+  display: block;
+}
+
+/** View Member***/
+.report_title {
+padding-left: 10px;
+padding-right: 10px;
+}
+
+.right_side .table th, .right_side .table td,.member_right .table th,.member_right .table td {
+color: #66707e;
+font-weight: normal;
+padding: 10px !important;
+}
+.col-md-4.member_right .table th,.col-md-4.member_right .table td{ padding: 10px !important;}
+.right_side .table i,.member_right .table i {
+padding-right: 10px;
+width:25px;
+float:left;
+margin-bottom:8px;
+}
+/* .membr_left .col-md-6.right_side {
+padding: 0;
+width: 55%;
+} */
+.member_right .table {
+float: left;
+/* margin-left: 10px; */
+width: 100%;
+}
+.title_ship {
+color: #66707e;
+float: left;
+font-size: 16px;
+font-weight: bold;
+margin-bottom: 18px;
+width: 100%;
+}
+.cutomcircle {
+border: 2px solid #66707e;
+border-radius: 50%;
+}
+.col-md-8.membr_left {
+padding: 15px;
+}
+/* .col-md-6.left_side {
+  padding-left: 0;
+  padding-right: 0;
+  width: 45%;
+} */
+.txt_color {
+color: #ed5153;
+float: left;
+font-weight: bold;
+width: 150px;
+}
+.fa-stack.cutomcircle {
+float: left;
+font-size: 18px;
+}
+.shiptitle {
+float: left;
+font-size: 24px;
+line-height: 32px;
+padding-left: 10px;
+}
+.report_title {
+float: left;
+font-size: 20px;
+margin-bottom: 10px;
+padding-top: 10px;
+width: 100%;
+}
+.col-md-6.border > div {
+float: left;
+width: 100%;
+}
+.col-md-4.member_right {
+/* margin-left: 1.5%;
+width: 31.5%; */
+padding: 15px;
+}
+.btn.right {
+float: right;
+}
+.col-md-6.borderleft {
+margin-left: 1%;
+width: 49%;
+}
+.col-md-6.border {
+border: 1px solid #dedede;
+margin-bottom: 10px;
+padding: 5px;
+}
+#s2id_member_list,#s2id_group_id {
+width: 100% ;
+}
+/* .inbox-widget .inbox-item img {
+width: 50px !important;
+} */
+/* .inbox-widget .inbox-item .inbox-item-author {
+line-height: 48px;
+} */
+.slimScrollDiv {
+overflow: auto;
+}
+.checkbox.child {
+
+float: left;
+width: 100%;
+padding-top: 0px !important;
+}
+.activity_list .activity_title{float:left;width:100%;}
+.col-md-8.activity_list {
+height: 250px;
+margin-bottom: 10px;
+overflow: scroll;
+}
+#display_rout_list {
+float: left;
+width: 100%;
+}
+.removeworkout,.removethis {
+cursor: pointer;
+}
+.clear {
+  clear: both;
+}
+.activity_list li {
+  margin-left: 30px;
+  float: left;
+  width: 100%;
+}
+.work_out_datalist {
+float: left;
+margin-bottom: 10px;
+padding: 10px;
+width: 100%;
+}
+.work_out_datalist_header {
+border-bottom: 1px solid #76838c;
+float: left;
+font-weight: bold;
+margin-bottom: 10px;
+padding-bottom: 10px;
+width: 100%;
+}
+.work_out_datalist .day_name {
+
+font-weight: bold;
+}
+.membr_left img {
+height: 290px;
+width: 290px;
+}
+#display_rout_list .activity .col-md-4 {
+font-size: 14px;
+font-weight: bold;
+}
+#display_rout_list .activity {
+border-bottom: 1px solid #dedede;
+float: left;
+margin-bottom: 10px;
+padding-bottom: 10px;
+padding-top: 10px;
+width: 100%;
+}
+.img-circle.head_logo {
+border-radius: 0;
+height: 55px;
+width: 55px;
+}
+.achilactiveadd {
+float: left;
+margin-bottom: 5px;
+width: 50%;
+}
+.activity_list span.label {
+color: #76838c;
+float: left;
+font-size: 13px;
+line-height: 20px;
+width: 75px;
+text-align: right;
+}
+.achilactiveadd > input {
+float: left;
+width: 150px;
+}
+.my-workouts {
+  width: 55px;
+}
+.box-scroll {
+max-height: 425px;
+overflow: scroll;
+}
+.my-workouts-display {
+background-color: #ffffff;
+color: #3c3c3c;
+padding-bottom: 25px;
+}
+.activity-data {
+  margin-bottom: 10px;
+}
+.workout-block {
+float: left;
+margin-bottom: 15px;
+margin-top: 15px;  
+width: 100%;
+}
+.panel-title {
+width: 100%;
+}
+.workout-block .work_date {
+color: #f25656;
+font-style: italic; 
+}
+.workout-block .report_title {
+border-bottom: 1px solid #dedede;
+margin-bottom: 20px;
+padding-bottom: 5px;
+padding-left: 0;
+}
+.workout_datalist {
+  font-size: 14px;
+}
+.work_out_datalist:nth-child(2n+1) {
+background: #f9f9f9 none repeat scroll 0 0;
+}
+.work_out_datalist:nth-child(2n) {
+background: #ffffff none repeat scroll 0 0;
+}
+.workout_datalist_header {
+float: left;
+width: 100%;
+}
+.sets_counter {
+background-color: #02967d;
+border-radius: 50%;
+color: #ffffff;
+float: left;
+height: 30px;
+padding: 5px;
+position: relative;
+text-align: center;
+width: 30px;
+z-index: 1 !important;
+}
+.sets_kg {
+ background-color: #1db198;
+border-radius: 15px;
+float: left;
+font-size: 19px;
+font-weight: bold;
+height: 30px;
+margin-left: -31px;
+padding: 2px;
+position: relative;
+text-align: center;
+width: 68%;
+color:#fff;
+}
+.sets-row.no-paddingleft {
+margin-bottom: 15px;
+}
+.border_line {
+background: #dedede none repeat scroll 0 0;
+content: "1";
+float: left;
+height: 1px;
+margin-bottom: 8px;
+margin-top: 14px;
+width: 83%;
+}
+.col-md-6.sets-row {
+float: left;
+width: 50%;
+}
+.workout_datalist_header {
+margin-bottom: 20px;
+}
+.reps_count {
+color: #4e5e6a;
+float: left;
+font-size: 18px;
+font-weight: bold;
+margin-left: 5px;
+padding: 1px;
+}
+.nutrition_add {
+float: left;
+margin-bottom: 5px;
+width: 100%;
+}
+.nutrition_add textarea {
+float: left;
+margin-left: 10px;
+margin-top: 10px;
+width: 96%;
+}
+.my-workouts-display .col-md-10.activity-data {
+padding-bottom: 10px;
+}
+.no-paddingleft {
+padding-left: 0 !important;
+}
+.no-padding{padding:0 !important;}
+.no-paddingright {
+padding-right: 0 !important;
+}
+.activity_title.checkbox {
+float: left;
+margin-left: 10px;
+}
+.nutrition_title,.nutrition_value {
+float: left;
+width: 100%;
+}
+.nutrition_title {
+font-size: 14px;
+font-weight: bold;
+margin-bottom: 10px;
+margin-top: 10px;
+}
+.info-box-stats .info-box-title {
+color: #f9fdfb !important;
+display: inline-block !important;
+}
+.info-box .info-box-stats {
+margin-top: 5px !important;
+width: 100%;
+}
+.info-box-stats p {
+color: #F9FDFB !important;	
+}
+.col-md-4.membership-list {
+  float: right;
+}
+.panel-body.side-barlist .img-circle {
+height: 40px;
+width: 40px;
+}
+.panel-body.staff-member {
+  background-color: #66B5D6;
+  height: 145px;
+}
+.info-box-stats.groups-label  {
+  margin-left: 10px;
+}
+.col-sm-offset-2.col-sm-8.schedule-save-button {
+ margin-top: 30px;
+}
+.other-service .col-sm-1 {
+padding-left: 0;
+}
+.sermon-audio {
+margin-left: 330px;
+margin-top: 75px;
+width: 40%;
+}
+.app-counter {
+color: hsl(0, 0%, 100%);
+font-size: 18px;
+text-align: center;
+}
+.img-circle.image-design {
+margin-right: 10px;
+}
+.info-box-stats-appcount {
+float: left;
+width:100%;
+}
+.info-box-stats-appcount p{
+float:left;
+width:100%;
+}
+.info-box-stats-appcount .app-counter-text{
+float:left;
+padding-top: 8px;
+}
+.info-box-stats-appcount .app-counter{
+background-image:url("../images/dashboard/counter-bg.png");
+width:40px;
+height:40px;
+float: left;
+margin-right: 12px;
+  padding-top: 8px;
+}
+.my-group-list, .enough_data_attendence {
+margin-left: 10px;
+}
+.col-sm-3.border {
+border: 1px solid hsl(0, 0%, 87%);
+margin-bottom: 10px;
+padding: 5px;
+}
+.col-sm-3.border.groups-list {
+margin-left: 1.5%;
+width: 23.3%;
+}
+#setting_form .form-group input{
+margin-bottom:10px;
+}
+.nav-side-menu .toggle-btn, .nav-side-menu .brand {
+  display: none;
+}
+.nopadding.hospital_left.nav-side-menu {
+  float: left;
+  height: 100%;
+  margin-top: 80px;
+}
+h1.nav-tab-wrapper, h2.nav-tab-wrapper, h3.nav-tab-wrapper {
+border-bottom: 1px solid hsl(0, 0%, 80%);
+padding-bottom: 0;
+}
+/* .nav-tab {
+position: relative;
+top: 1px;
+} */
+/* .img-circle {
+height: 40px;
+width: 40px;
+} */
+.profile-image img
+{
+height:150px;
+}
+.message-options.pull-right.reply-message-btn {
+margin-top: 35px;
+}
+.comment-delete > a {
+margin: 0 5px;
+}
+.day_name {
+margin: 5px 5px 5px 0;
+}
+.col-sm-8.monthly_div {
+margin-top: 10px;
+}
+.form-control.repeat_no {
+margin-left: 8px;
+}
+/* #upload_user_avatar_preview {
+margin-top: 15px;
+} */
+@media only screen and (min-width : 1750px) {
+.info-box-stats-appcount {
+left: auto !important;
+}
+}
+#access_right_form .row {
+border-bottom: 1px solid hsl(0, 0%, 87%);
+padding-bottom: 10px;
+padding-top: 10px;
+}
+/*-----botstrap datepicker css in model--------------*/
+.dropdown-menu.datepicker {
+    z-index: 9999;
+  margin-top: -20px;
+}
+.hospital-management-content .dropdown-menu.datepicker {
+    z-index: 4;
+  margin-top: 0px !important;
+}
+.img_menager_view
+{
+max-width:100%;
+}
+/* .open>.dropdown-menu {
+  top: auto;
+ bottom: 100%;
+ width: 259px;
+ height: 200px;
+ overflow: auto;
+ padding: 0px;
+} */
+.select2-results 
+{ 
+max-height: 100px !important;
+}
+.popup-bg 
+{    
+  background: rgba(0,0,0,0.50) !important;
+}
+.formError 
+{
+   z-index:4 !important; 
+}
+.fc-day-grid-event 
+{
+  margin: 1px 0px 0 !important;    
+}
+.payment_invoice_popup {
+  /* overflow-y: auto; */
+  min-height: 450px;
+  max-height: 450px;
+/* overflow-x: hidden !important; */
+}
+.update_dp{
+margin-top:10px;
+}
+.multiselect-container>li>a>label {
+  height: auto !important; 
+}
+.margin{
+margin-left:8px !important;
+}
+.demographics_text
+{
+  margin-right: 3px;
+}
+.pastoral_page .panel
+{
+overflow-x: hidden !important;
+}
+.group_page .addScroll
+{
+overflow-x: hidden !important;
+}
+/* .margin_dasboard a{
+padding: 10px 15px;
+} */
+.content_width {
+  width: 40%!important;
+  padding: 0px!important;
+}
+.width_100
+{
+width:100%;
+}
+.invoicefont1
+{
+vertical-align:top;
+background-repeat:no-repeat;
+}
+.main_div
+{
+margin:-100px 0px 0px 0px;
+}
+.width_1
+{
+width:1%;
+}
+.system_logo
+{
+max-height:180px; 
+width: 100px; 
+}
+.width_20
+{
+width:20%;
+padding-right:30px;
+}
+.only_width_20
+{
+width:20%;
+}
+.width_24
+{
+width:24%;
+}
+.width_50
+{
+  width:50% !important;
+  float: left;
+}
+.billed_to
+{
+vertical-align:top; 
+width: 8%;
+}
+.billed_to_lable
+{
+font-weight: bold; 
+font-size: 15px;
+text-align:left;
+}
+.width_40
+{
+width:40%;
+}
+.display_name
+{
+font-weight: bold;
+}
+.width_30
+{
+width:30%;
+}
+.invoice_lable
+{
+background-color:#ff3333;
+color:white;
+padding:10px;
+}
+.entry_lable
+{
+font-weight: bold; 
+font-size: 15px;
+}
+.width_93
+{
+width:100%;
+margin-left: 20px;
+border-collapse:collapse;
+}
+.entry_heading
+{
+background-color:#F2F2F2 !important;
+}
+.color_white
+{
+color:white!important;
+}
+.align_center
+{
+text-align:center;
+}
+.align_right
+{
+text-align:right;
+}
+.width_56
+{
+width: 84%;
+padding: 5px;
+}
+.grand_total_lable
+{
+float:right; 
+background-color:#ff3333;
+}
+.margin
+{
+margin-bottom: 5px;
+  margin-top: 5px; 
+}
+.margin_top_10
+{
+margin-top: 10px; 
+}
+.grand_total_amount
+{
+background-color:#149a91; 
+}
+.width_54
+{
+width:52%;
+float: right;
+margin-bottom: 15px;
+}
+.width_70
+{
+width:50%;  
+}
+.entry_list
+{
+font-weight: bold;
+}
+/* .invoice_body
+{
+ height: 500px; 
+} */
+.modal-header{
+  padding: 0.5rem 1rem !important;
+}
+.modal-body #invoice_print 
+{
+  /* max-height: 280px !important;
+  overflow: auto;
+  padding-right: 5px; */
+}
+.modal-body #invoice_print1 
+{
+  max-height: 450px !important;
+  padding-right: 5px;
+}
+@media print 
+{
+.billed_to1
+{
+  vertical-align:top; 
+  width: 12%;
+}
+.invoice_color 
+{
+  background-color:#149a91;
+  -webkit-print-color-adjust: exact; 
+  color:white!important;  
+  padding:10px;
+  margin-top: 20px;
+  margin-bottom: 10px;    
+}
+.entry_heading_print
+{
+  background-color:#ff3333;
+  -webkit-print-color-adjust: exact; 
+}
+.grand_total_lable1 
+{
+  background-color:#ff3333;
+  -webkit-print-color-adjust: exact; 
+  color:white!important;  
+  float:right;    
+}
+.grand_total_amount1 
+{
+  background-color:#ff3333;
+  -webkit-print-color-adjust: exact; 
+  color:white!important;        
+}
+}
+.billed_to1
+{
+vertical-align:top; 
+width: 4%;
+}
+.invoice_color 
+{
+  background-color:#149a91;
+  color:white!important;  
+  padding:10px;
+  margin-top: 20px;
+  margin-bottom: 10px;    
+}
+.entry_heading_print
+{
+background-color:#ff3333;
+}
+#paitient_print .table>tbody>tr>td{
+vertical-align: middle;
+}
+.mt_4
+{
+margin-top: 80px;
+}
+.padding_15
+{
+padding: 15px;
+}
+.padding_bottom_10
+{
+padding-bottom: 10px; 
+}
+.cal{
+height:607px;
+}
+.ui-widget-content {
+border: 1px solid #aaaaaa;
+background: #ffffff !important;
+color: #222222;
+}
+.ui-widget-header {
+border: 1px solid #aaaaaa;
+background: #cccccc !important;
+color: #222222;
+font-weight: bold;
+}
+.hospital-management-content #message_template {
+  background: #fff none repeat scroll 0 0;
+  border-left: 4px solid #7ad03a;
+  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1);
+  margin: 5px 15px 9px;
+padding-right: 20px;
+}
+.min_width_110_px
+{
+  min-width: 110px;	
+}
+.min_width_150_px
+{
+  min-width: 150px;	
+}
+.max_width_400_px
+{
+  max-width: 400px;	
+}
+.float_left_width_100
+{
+float:left;
+width:100%;
+}
+.replay_message_div
+{
+display:none;
+}
+.img_height
+{
+height: 125px;
+}
+.panel_tabs li.active a{
+  background: none repeat scroll 0 0 #fff !important;
+}
+.panel_tabs li a{
+background: none repeat scroll 0 0 #f1f4f9 !important;
+}
+#menu-content li.nav-item{
+margin-top: 2px;
+}
+@media screen and (min-width: 992px){
+  .hospital-management-content .page-inner {
+    margin-top: 85px;
+  }
+}
+.table>:not(caption)>*>* {
+  /* padding: .5rem .5rem; */
+  background-color: var(--bs-table-bg);
+  border-bottom-width: 1px;
+  box-shadow: inset 0 0 0 9999px var(--bs-table-accent-bg);
+}
+select#ministry_id {
+  width: 195px !important;
+}
+.col-sm-6.col-xs-5 {
+  text-align: center;
+  /* padding-left: 63px; */
+}
+img.img.img-rounded {
+  margin-right: 3px;
+}
+@media screen and (max-width: 767px)
+{
+  .dataTables_wrapper .dataTables_paginate {
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+  }
+  select#period_id {
+    width: 100% !important;
+  }
+  .panel-body.member {
+    height: 190px;
+  }
+  .panel-body.accountant {
+    height:190px;
+  }
+  .panel-body.group {
+  height:190px;
+  }
+  .panel-body.ministry{
+  height:190px;
+  }
+  .panel-body.services 
+  {
+  height:190px;
+  }
+  .panel-body.message
+  {
+  height:190px;
+  }
+  .panel-body.nutrition
+  {
+  height:190px;
+  }
+  .panel-body.notice_event
+  {
+  height:190px;
+  }
+  .panel-body.pledges
+  {
+  height:190px;
+  }
+  .panel-body.song
+  {
+  height:190px;	
+  }
+  img.sermon_image {
+    width: 460px;
+  }
+  .sermon-audio
+  {
+  margin-left:0px !important;
+  }
+  .nav-tabs .nav-link {
+    margin-bottom: 5px !important;
+
+  }
+  input#notice_end_date {
+    width: 232px;
+  }
+  input#notice_Start_date 
+  {
+  width:232px;
+  }
+  optgroup {
+    text-transform: capitalize !important;
+  }
+  .tooltiptopicevent
+  {
+  font-size:50px;
+  }
+}
+/* update calendar css - hitesh */
+#calendar .fc-toolbar {
+  margin: 0px;
+  padding-bottom: 15px;
+  padding-top:10px;
+}
+#calendar .fc-button{
+  background: #ffffff;
+  border: 1px solid rgba(120, 130, 140, 0.13);
+  color: #54667a;
+  text-transform: capitalize;
+  box-shadow: none;
+}
+#calendar .fc-toolbar h2 {
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 30px;
+  text-transform: uppercase;
+  margin: 0!important;
+}
+#calendar .fc-col-header-cell{
+    /* color: #54667a;
+    font-size: 13px; */
+    font-weight: 400;
+    line-height: 20px;
+    padding: 7px 0px;
+    text-transform: uppercase;
+    background: #f2f7f8;
+}
+#calendar .fc-scrollgrid-sync-inner a{
+    /* text-decoration: none;
+    color: #54667a;
+    font-size: 13px;
+    width: 100% !important;
+    text-align: center; */
+    text-decoration: none ;
+    color: #4E5E6A ;
+}
+#calendar .fc-day-today{
+  background: #f2f7f8 !important;
+}
+#calendar .fc-button:hover{
+  background: #f2f7f8;
+}
+#calendar .fc-daygrid-day:hover{
+  background: #f2f7f8;
+}
+#calendar .fc-button-active{
+  background: #f2f7f8;
+}
+#calendar .fc-view-harness{
+  height: 435px !important;
+}
+.fc-list.fc-list-sticky.fc-listMonth-view.fc-view{
+  height: 435px !important;
+}
+#calendar .fc-event{
+  border-radius: 0px;
+  border: none;
+  /* margin: 0; */
+  padding: 4px 4px;
+}
+.cmgt-cards-indicators {
+  list-style: none;
+  margin: -3px;
+  padding: 0px;
+}
+.cmgt-cards-indicators li {
+  display: inline-block;
+  vertical-align: top;
+  font-size: 12px;
+  color: #212529;
+  margin: 0 2px;
+}
+.cmgt-indic {
+  display: inline-block;
+  vertical-align: middle;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background-color: #3c8dbc;
+  margin-right: 2px;
+}
+.cmgt-indic.cmgt-red-indic {
+  background-color: #F25656;
+}
+.cmgt-indic.cmgt-green-indic {
+  background-color: #00a65a;
+}
+.cmgt-indic.cmgt-pink-indic{
+  background-color: #BD5CA8;
+}
+.cmgt-indic.cmgt-blue-indic{
+  background-color: #3c8dbc;
+}
+
+/* update frontend side design start- hitesh*/
+.cmgt-ft-navigation{
+  margin-top: 85px !important;
+}
+.hospital-management-content .right_side {
+  margin: 0;
+}
+.cmgt-panel-body{
+  margin: 20px;
+}
+/* update frontend side design end- hitesh*/
+
+
+/* Frontend CSS  */
+
+.frontend_dashboard_margin{
+  margin-top: 90px !important;
+}
+::marker{
+  color: #ffffff !important;
+}
+.cmgt-frontend-navigation li .sub-menu li a:hover {
+  background-color: transparent;
+  color: #0178bc;
+}
+.cmgt-frontend-navigation li .sub-menu li.active>a {
+  background-color: #e2e2e2;
+}
+.cmgt-frontend-navigation li .sub-menu li a {
+  padding: 15px;
+  font-size: 14px;
+  font-weight: 400;
+  padding-left: 40px;
+}
+.cmgt-frontend-navigation li.has-submenu.active>.sub-menu {
+  display: block;
+}
+.cmgt-frontend-navigation li .sub-menu li:before {
+  content: "-";
+  position: absolute;
+  left: 20px;
+  top: 15px;
+}
+.cmgt-frontend-navigation li .sub-menu li {
+  border-bottom: none;
+  position: relative;
+}
+.cmgt-frontend-navigation li .sub-menu {
+  display: none;
+  padding: 0;
+}
+.cmgt-frontend-navigation li.has-submenu .cmgt-droparrow {
+  position: absolute;
+  height: 50px;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 12;
+  cursor: pointer;
+}
+.cmgt-frontend-navigation li.has-submenu {
+  position: relative;
+}
+.cmgt-frontend-navigation {
+  margin-top: 80px;
+  padding: 0;
+}
+.print-btn{
+  background-color: #149a91 ;
+}
+.print_btn_height{
+  height: 55px;
+  width: 55px;
+}
+.print_btn_height img{
+  padding: 5px 0 !important;
+}
+.invoice_main_div_for_new_design{
+  margin: -150px 0px 0px 0px !important;
+}
+.invoice_address_heading h3 {
+  font-size: 20px !important;
+  font-weight: 700;
+  color: #333333;
+}
+.address_div{
+  padding-bottom: 10px !important;
+}
+.invoice_print_main_div .church_image{
+  padding-top: 20px;
+}
+.invoice_model_bill_heading{
+  width: 22%;
+}
+/* Invoice design  */
+
+#paitient_print .width_1 img{
+  height: 54px !important;
+  width: 52px !important;
+  border-radius: 15px;
+}
+
+.popup_label_heading {
+  color: #818386;
+  font-size: 14px !important;
+  line-height: 21px;
+  font-weight: 500;
+  font-family: 'Poppins' !important;
+}
+.width_20px_rs{
+  width: 20%;
+}
+.label_value {
+  font-size: 16px !important;
+  line-height: 24px;
+  font-weight: 400;
+  color: #333333 !important;
+  font-family: 'Poppins' !important;
+}
+.invoice_main_div_for_new_design{
+  margin: -150px 0px 0px 0px !important;
+}
+#invoice_print1 .invoice_main_div_for_new_design{
+  margin: -160px 0px 0px 0px !important;
+}
+.invoice_print_main_div .church_image{
+  padding-top: 20px;
+}
+.address_div{
+  padding-bottom: 10px !important;
+}
+.invoice_address_heading h3 {
+  font-size: 20px !important;
+  font-weight: 700;
+  color: #333333;
+}
+.invoice_model_bill_heading{
+  width: 22%;
+}
+.billing_information_div{
+  position: relative;
+  margin-bottom: 20px;
+}
+.billed_to_invoice{
+  width: 10%;
+  vertical-align: top;
+}
+.address_information_invoice {
+  font-size: 16px !important;
+  color: #333333 !important;
+  font-weight: 400 !important;
+}
+.invoice_model_value {
+  color: #333333;
+  font-size: 16px !important;
+  font-weight: 600;
+}
+.invoice_model_heading {
+  font-size: 20px !important;
+  color: #333333 !important;
+  font-weight: 700;
+}
+.entry_table_heading {
+  color: #818386 !important;
+  font-size: 14px !important;
+  font-weight: 600;
+}
+.invoice_table_data {
+  font-size: 14px !important;
+  font-weight: 400;
+  color: #333333 !important;
+}
+.print_btn_height{
+  height: 55px !important;
+  width: 55px !important;
+}
+.print_btn_height img{
+  padding: 5px 0 !important;
+}
+.print-btn{
+  background-color: #149a91 !important;
+}
+.date_status_div{
+  width: 30% !important;
+}
+.model_body_amount_label h4 {
+  font-size: 18px !important;
+  font-weight: 500;
+  color: #818386;
+}
+.model_body_amount_value h4 {
+  font-size: 18px !important;
+  font-weight: 700;
+  color: #333333;
+}
+.text-aline-center{
+  text-align: center;
+}
+.padding_10_px{
+  padding: 10px !important;
+}
+.no_data_img_center{
+  text-align: center;
+}
+.invoice_model_entry_heading{
+  background-color:#F2F2F2 !important;
+}
+.padding_frontendlist_body{
+  padding: 0 !important;
+}
+.padding_left_15px{
+  padding-left: 15px !important;
+  padding-right: 15px !important;
+}
+.width_5px{
+  width: 5%;
+}
+
+#body_content_area_frontend .panel-body{
+  padding: 0px 20px 20px 20px !important;
+}
+.frontend_dashboard_margin select{
+  height: 48px !important;
+}
+.textarea_height{
+  height: 48px;
+}
+.nav-tabs .nav-link:focus, .nav-tabs .nav-link:hover{
+  border-color: #fff #fff #dee2e6 #fff !important;
+}
+.panel_tabs li a{
+  background: none repeat scroll 0 0 #fff !important;
+}
+.show-invoice-popup{
+  cursor: pointer !important;
+}
+.color_black:hover{
+  color: #333333 !important;
+}
+.padding_left_0
+{
+	padding-left:0!important;
+}
+.panel_tabs>li>a {
+  margin: 10px 10px 0 0 !important;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+.nav-tabs {
+  border-bottom: 0px solid #dee2e6 !important;
+}
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus{
+  color: #149a91  !important;
+  border-bottom-color: #149a91  !important;
+  border-bottom: 3px solid !important;
+  text-transform: uppercase;
+  /* padding: 0px 0px 10px 0; */
+}
+.view_patient_main .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus{
+  padding: 0px 0px 10px 0;
+}
+.spiritual_gift_menu{
+  padding-bottom: 8px;
+  border-bottom: 1px solid #dee2e6 !important;
+}
+.spiritual_gift_menu>li>a{
+  border-bottom: 0px solid #DDD !important;
+}
+.spiritual_gift_menu.panel_tabs li{
+  padding-left: 0px !important;
+}
+.spiritual_gift_menu li{
+  padding: 0 10px;
+}
+.padding_top_25px{
+  padding-top: 25px !important;
+}
+.margin_bottom_20px{
+  margin-bottom: 20px !important;
+}
+.word_break{
+  word-break: break-word;
+}
+.massage_menu_design{
+  padding-bottom: 11px;
+  border-bottom: 1px solid #dee2e6 !important;
+}
+.massage_menu_design>li>a{
+  border-bottom: 0px solid #DDD !important;
+}
+.massage_menu_design.panel_tabs li{
+  padding-left: 0px !important;
+}
+.massage_menu_design li{
+  padding: 0 5px;
+}
+.activity_padding{
+  padding: 20px;
+}
+.border_bottom_for_view_page{
+  border-bottom: 1px solid #dee2e6 !important;
+  padding-bottom: 7px;
+}
+@media screen and (max-width: 480px){
+  input#upload_gift_file{
+    margin-top: 0 !important;
+    /* width: 100%!important; */
+  }
+  /* .panel-body .form-horizontal{
+    margin-top: 0% !important;
+  } */
+}
+/* .invoice_padding{
+  padding: 20px;
+} */
+.newsletter_white_size{
+  height: 19px;
+  width: 19px;
+}
+#myModal_add_member{
+  background: rgb(0 0 0 / 60%) !important;
+}
+.font_style_capitalize{
+  text-transform: capitalize;
+}
+.massage_reply_div{
+  overflow: visible !important;
+}
+.sucees_messsage
+{
+	text-transform: capitalize !important;
+	border-left-color: #22BAA0!important;
+	background: #fff;border: 1px solid #c3c4c7;
+	border-left-width: 4px;
+	box-shadow: 0 1px 1px rgb(0 0 0 / 4%); 
+	position: relative;
+	padding: 6px 0px 0px 12px;
+	height: 55px;
+}
+.notice_dismiss_ragistarion
+{
+	position: absolute;
+    top: 8px;
+    right: 10px;
+    border: none;
+    margin: 0px;
+    padding: 7px;
+    background: 0 0;
+    color: #787c82;
+    cursor: pointer;
+}
+.lp-admin-notice,.vczapi-notice,.e-notice,.error,.settings-error,.nimble-welcome-notice
+{
+ display: none!important;
+}
+.word_break{
+  margin-left: -12px;
+}
+.view_access_right{
+  margin-left: -7px;
+}
+.add_access_right{
+  margin-left: -3px;
+}
+.edit_access_right{
+  margin-left: -5px;
+}
+.delete_access_right{
+  margin-left: -15px;
+}
+::placeholder{
+  color: black;
+}
+.fc-direction-ltr{
+  margin-right: 10px;
+  margin-left: 10px;
+}
+input#upload_csv_headers {
+  margin-top: 0;
+}
+input#save_pastoral\ reduce_sp{
+  margin-top: 0 !important;
+}
+input.btn.btn-success.save_btn.reduce_sp {
+  margin-top: 0;
+}
+input.btn.btn-success.check_memeber.save_btn.reduce_sp {
+    margin-top: 0;
+}
+.invoice_border{
+  border : 1px solid #dee2e6;
+  height: 855px;
+}
+.width_54{
+  width : 54px;
+}
+.width_64{
+  width : 64px;
+}
+.width_mobile_label{
+  width : 9% !important;
+}
+.width_mobile_value{
+  width : 91% !important;
+}
+.invoicefont1.church_image
+{
+  height: 150px;
+  width: 67%;
+  margin-left: 34%;
+}
+.padding_top_40px{
+  padding-top : 40px;
+}
+.view_grand_total_lable, .view_amount_label{
+  width: 150px;
+  padding: 12px;
+}
+.grand_total_div{
+  background-color: #149a91;
+}
+.width_100p{
+  width: 100% !important;
+}
+.padding_top_20px{
+  padding-top :20px;
+}
+.fa.fa-eye.margin_right_15px, .fa.fa-gift.margin_right_15px{
+  margin-right : 15px !important;
+}
+#chart_div_transaction, #chart_div_inc_expe_pro
+{
+    overflow: scroll !important;
+    overflow-y: hidden !important;
+    height: 448px !important;
+}
+.form-validation-field-1formError.parentFormmember_form.formError{
+  left: 80px !important;
+}
+.margin_top_10px
+{
+  margin-top : 10px !important;
+}
+.margin_top_50px{
+  margin-top:50px !important;
+}
+.red_color{
+  color : red !important;
+}
+.green_color{
+  color: green !important;
+}
+.blue_color{
+  color : #0082C2 !important;
+}
+.cmgt-user-dropdown.action_menu{
+  float: left !important; 
+}
+.notification_label
+{
+  width :90% !important;
+}
+.fa.fa-gift.fa-lg
+{
+  margin-right: 15px!important;
+}
+.cmgt-card-head.frontend{
+  width: 80% !important;
+  float: right !important;
+  margin-top: -30px !important;
+}
+/* .slimScrollDiv.addScroll{
+  height: 355px !important;
+} */
+.cmgt-line-chat {
+  margin-bottom: 30px;
+}
+.overflow-auto {
+  scrollbar-width: thin; 
+  scrollbar-color: rgba(155, 155, 155, 0.5) rgba(255, 255, 255, 0.5);
+  white-space: nowrap;
+}
+.view_patient_main .border_bottom_for_view_page
+{
+  overflow-y: hidden !important;
+}
+#activity_attendence_ul,#ministry_attendence_ul{
+  margin-top: 12% !important;
+}

@@ -1,0 +1,2040 @@
+@media (min-width: 1700px) {
+    .cmgt-card {
+        width: 47% !important;
+    }
+}
+
+@media screen and (max-width : 1230px) and (min-width : 1100px) {
+    .cmgt-card {
+        width: 45.4% !important;
+    }
+}
+
+@media screen and (max-width : 1099px) and (min-width : 992px) {
+    .cmgt-card {
+        width: 43.9% !important;
+    }
+}
+
+@media screen and (max-width : 991px) and (min-width : 921px) {
+    .cmgt-navigation {
+        margin-top: 140px;
+    }
+}
+
+@media screen and (max-width : 1200px) and (min-width : 992px) {
+    .cmgt-line-chat-bottom p {
+        font-size: 11px;
+    }
+}
+
+@media screen and (max-width: 575px) {
+    .cmgt-setting-notification {
+        margin-top: 5px;
+        margin-bottom: 12px;
+        float: none;
+    }
+}
+
+@media screen and (max-width : 1199px) and (min-width : 992px) {
+    .cmgt-donation-record-time {
+        width: 35% !important;
+        word-break: break-all;
+    }
+
+    .cmgt_donation_name_date {
+        width: 65% !important;
+    }
+
+    .cmgt-donation-record-time {
+        font-size: 16px;
+    }
+
+    .unit {
+        font-size: 13px;
+    }
+
+    .cmgt-donation-record-donat-date {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width : 625px) and (min-width : 576px) {
+    .cmgt-donation-record-time {
+        width: 35% !important;
+    }
+
+    .cmgt_donation_name_date {
+        width: 65% !important;
+    }
+}
+
+@media screen and (max-width : 349px) and (min-width : 280px) {
+    .cmgt-donation-record-time {
+        width: 35% !important;
+    }
+
+    .cmgt_donation_name_date {
+        width: 65% !important;
+    }
+
+    .unit {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width : 1199px) and (min-width : 992px) {
+    .calendar-event .cmgt_reservation_remainder_title_pr {
+        width: 50% !important;
+    }
+
+    .cmgt-header .cmgt-logo {
+        padding: 15px 10px;
+    }
+
+    .cmgt-header .cmgt-logo img {
+        width: 160px;
+    }
+
+    #calendar .fc-button {
+        padding: 10px 5px;
+    }
+
+    .services_btn .table>tbody>tr>td,
+    .services_btn .table>thead>tr>th {
+        padding: 15px 3px !important;
+    }
+
+    .cmgt-peldges-record-time {
+        width: 165px !important;
+    }
+
+    .panel>.row>div:first-child {
+        padding-left: 4px;
+    }
+
+    .cmgt-group-list-group-title span {
+        font-size: 15px;
+    }
+
+    #sidebar .cmgt-navigation span {
+        margin-left: 5px;
+    }
+
+    .cmgt-navigation li a {
+        font-size: 15px;
+        padding: 12px 10px;
+    }
+}
+
+@media screen and (max-width : 1050px) and (min-width : 992px) {
+    .fc .fc-scrollgrid-liquid {
+        height: 80%;
+    }
+}
+
+@media screen and (max-width : 768px) and (min-width : 576px) {
+    .fc .fc-scrollgrid-liquid {
+        height: 85%;
+    }
+}
+
+@media screen and (max-width: 575px) {
+    .fc .fc-scrollgrid-liquid {
+        height: 85%;
+    }
+}
+
+@media screen and (max-width : 991px) and (min-width : 768px) {
+    .calendar-event .cmgt_reservation_remainder_title_pr {
+        width: 44% !important;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+    .calendar-event .cmgt_pastoral_remainder_title_pr {
+        width: 75% !important;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+    .cmgt_activity_list_text .cmgt_activity_text_title {
+        width: 45% !important;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+    .remainder_date_pr span {
+        font-size: 15px !important;
+    }
+
+    .auto-fold #wpcontent,
+    .auto-fold #wpfooter {
+        margin-left: 0 !important;
+    }
+
+    #wpcontent {
+        padding-left: 0 !important;
+    }
+
+    .cmgt-card {
+        width: 48.2% !important;
+    }
+
+    .fc .fc-scrollgrid-liquid {
+        height: 85%;
+    }
+
+    .services_btn .table>tbody>tr>td,
+    .services_btn .table>thead>tr>th {
+        padding: 16px 0px !important;
+    }
+
+    .cmgt-peldges-record-time {
+        width: 150px !important;
+    }
+
+    .cmgt-notice-list-description {
+        font-size: 13px;
+    }
+
+    #addremove {
+        font-size: 13px;
+    }
+
+    #cmgt_addremove {
+        font-size: 13px;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+
+    input[type=checkbox],
+    input[type=radio] {
+        margin: 0px 0px 0px;
+    }
+
+    .popup-bg .overlay-content {
+        top: 28%;
+    }
+
+    /* .popup-bg .cmgt_checkin_overlay_content.overlay-content {
+        top: 24%;
+    } */
+    .panel-body.cmgt_gift_main h2 {
+        margin-top: 30%;
+    }
+
+    .task_event_list .modal-body {
+        max-height: 320px;
+        overflow-y: scroll;
+    }
+
+    .category_list .cmgt_main_popup_div {
+        max-height: 300px;
+        overflow-y: scroll;
+    }
+
+    .invoice_border {
+        border: 1px solid #dee2e6;
+        height: 950px;
+    }
+}
+
+@media screen and (max-width : 767px) and (min-width : 576px) {
+    .calendar-event .cmgt_reservation_remainder_title_pr {
+        width: 60% !important;
+    }
+}
+
+@media (max-width: 575px) {
+    .cmgt_msg_subject_remainder_title_pr {
+        font-size: 11px;
+    }
+}
+
+@media (max-width: 440px) {
+    .calendar-event .cmgt_pastoral_remainder_title_pr {
+        width: 75% !important;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+}
+
+@media screen and (max-width : 767px) and (min-width : 675px) {
+    .cmgt-card {
+        width: 48% !important;
+    }
+}
+
+@media screen and (max-width : 674px) and (min-width : 576px) {
+    .cmgt-card {
+        width: 47.5% !important;
+    }
+}
+
+@media screen and (max-width : 575px) and (min-width : 470px) {
+    .cmgt-card {
+        width: 47% !important;
+    }
+
+    #main-wrapper>.row {
+        margin-top: 40%;
+    }
+}
+
+@media only screen and (max-width: 360px) {
+    .cmgt-group-list-group-name span {
+        font-size: 14px;
+    }
+
+    .remainder_date_pr span {
+        font-size: 11px !important;
+    }
+
+    .calendar-event .cmgt_pastoral_remainder_title_pr {
+        width: 79% !important;
+    }
+
+    a.fc-daygrid-more-link.fc-more-link {
+        font-size: 9px;
+    }
+
+    .calendar-event .cmgt_reservation_remainder_title_pr {
+        width: 45% !important;
+    }
+
+    .cmgt_reservation_description {
+        font-size: 11px;
+    }
+
+    .remainder_date_pr span {
+        font-size: 12px !important;
+    }
+
+    .cmgt_peldges_list .cmgt_peldges_date {
+        font-size: 12px;
+    }
+
+    .cmgt-notice-list-start_date {
+        font-size: 11px;
+    }
+
+    .cmgt-notice-list-checkbox-list .cmgt-notice-list-description {
+        font-size: 12px !important;
+    }
+
+    .cmgt-notice-list-title {
+        font-size: 14px;
+    }
+
+    .cmgt_msg_subject_remainder_title_pr {
+        font-size: 11px;
+    }
+
+    /* .main_home_page_div .panel-body .table-responsive {
+        padding-top: 60%;
+    } */
+}
+
+@media only screen and (max-width: 412px) {
+
+    /* .main_home_page_div .panel-body .table-responsive {
+        padding-top: 55%;
+    } */
+    .fc .fc-daygrid-day-bottom {
+        padding: 2px 1px 0;
+    }
+}
+
+@media only screen and (max-width: 820px) {
+    #main-wrapper>.row {
+        margin-top: 2%;
+    }
+
+    .popup-bg .overlay-content {
+        left: 15%;
+        width: 96%;
+        min-height: auto;
+    }
+}
+
+@media only screen and (max-width: 912px) {
+    .modal-dialog .modal-content {
+        margin-top: 40% !important;
+    }
+
+    .cmgt_main_modal .modal-dialog .modal-content {
+        margin-top: 20% !important;
+    }
+
+    .cmgt_main_modal .modal-dialog #cmgt_csv_modal_content {
+        margin-top: 5% !important;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .table-responsive .dataTables_wrapper .dataTables_info {
+        margin-left: 20px;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    .outer {
+        width: 274px;
+    }
+
+    .cmgt-line-chat-bottom p {
+        font-size: 12px;
+    }
+
+    .cmgt-group-list-group-name span {
+        font-size: 12px;
+    }
+
+    .panel-body.cmgt_gift_main h2 {
+        margin-top: 35%;
+    }
+}
+
+@media (max-width: 469px) {
+    .cmgt-card {
+        width: 100% !important;
+    }
+
+    .cmgt_card_2 {
+        margin-left: 0;
+    }
+
+    #main-wrapper>.row {
+        margin-top: 45% !important;
+    }
+
+    .frontend_dashboard_margin #main-wrapper>.row {
+        margin-top: 12% !important;
+    }
+}
+
+@media (max-width: 431px) {
+    #main-wrapper>.row {
+        margin-top: 20% !important;
+    }
+    
+}
+@media (max-width: 377px) and (min-width: 370px){
+    #main-wrapper>.row {
+        margin-top: 40% !important;
+    }
+    
+}
+@media (max-width: 420px) {
+    #main-wrapper>.row {
+        margin-top: 28%!important;
+    }
+
+    .cmgt_reservation_remainder_title_pr.cmgt_reservation_description {
+        line-height: 15px;
+    }
+
+    .cmgt_description_line {
+        line-height: 15px !important;
+    }
+}
+
+@media screen and (max-width : 768px) and (min-width : 576px) {
+    .panel>.row>div:first-child {
+        padding-left: 0px;
+    }
+
+    .cmgt-right-heder .search input {
+        height: 45px;
+    }
+
+    .cmgt-right-heder-search .search img.search-img {
+        top: 30.35%;
+    }
+
+    #cmgt-Search-filter {
+        top: 15px;
+    }
+
+    .cmgt-notice-list-title {
+        font-size: 14px;
+    }
+
+    .cmgt-notice-list-start_date {
+        font-size: 12px;
+    }
+
+    .cmgt-notice-list-description {
+        font-size: 14px;
+    }
+
+    .cmgt-donation-record {
+        margin: 22px 10px !important;
+    }
+
+    #calendar .fc-button {
+        padding: 10px 5px;
+        font-size: 9px;
+    }
+
+    #calendar .fc-toolbar h2 {
+        font-size: 13px;
+    }
+
+    .calendar-event .remainder_date_pr {
+        padding: 0 4px;
+    }
+
+    .services_btn .table>tbody>tr>td,
+    .services_btn .table>thead>tr>th {
+        padding: 15px 5px !important;
+    }
+
+    .cmgt-reservation-table .remainder_date_pr span {
+        padding: 0 2px;
+    }
+
+    .calendar-event p.Bold {
+        font-size: 14px !important;
+    }
+
+    .user_form input[type=text]+label.active.cmgt_country_code {
+        font-size: 12px !important;
+    }
+}
+
+@media screen and (max-width : 575px) and (min-width : 280px) {
+    .cmgt-right-heder .search {
+        margin-top: 10px;
+    }
+
+    .cmgt-right-heder .search input {
+        height: 45px;
+    }
+
+    .cmgt-right-heder-search .search img.search-img {
+        top: 30.35%;
+    }
+
+    #cmgt-Search-filter {
+        top: 15px;
+    }
+
+    .cmgt-right {
+        float: right;
+    }
+
+    .dashboard_margin {
+        margin-top: 0 !important;
+    }
+
+    .cmgt-group-list-record-col-title {
+        width: 150px;
+    }
+
+    .cmgt-group-list-record-col-img {
+        width: 90% !important;
+    }
+
+    .cmgt-group-list-record-col-count {
+        width: 10% !important;
+    }
+
+    .cmgt-frontend-navigation {
+        margin-top: 0 !important;
+    }
+}
+
+@media only screen and (max-width: 920px) {
+
+    /* .panel-body .table-responsive {
+        padding-top: 5%;
+    }    */
+    .dashboard_margin {
+        margin-top: 30% !important;
+    }
+
+    .main_page #main_sidebar-bgcolor {
+        z-index: 9999999;
+        position: fixed;
+        top: 80px;
+    }
+
+    #sidebarCollapse {
+        display: block;
+    }
+
+    .has-submenu .active {
+        display: block !important;
+    }
+
+    .cmgt-navigation {
+        margin-top: 0 !important;
+    }
+
+    #sidebar {
+        width: 240px;
+        position: fixed;
+        left: 0;
+        top: 0;
+        bottom: 0;
+        z-index: 1001;
+        transition: all 0.4s ease-in-out;
+        margin-left: -250px;
+        transform: rotateY(100deg);
+    }
+
+    #sidebar.active {
+        margin-left: 0;
+        transform: none;
+        height: auto;
+        width: 100%;
+        position: relative;
+        margin-left: 0;
+        transform: none;
+        height: auto;
+        left: 0;
+        top: 0;
+        bottom: 0;
+        z-index: 1001;
+        transition: all 0.4s ease-in-out;
+        max-height: 530px;
+        overflow-x: hidden;
+    }
+
+    #sidebarCollapse {
+        position: absolute;
+        right: 20px;
+        top: 20px;
+    }
+
+    #sidebarCollapse span:first-of-type,
+    #sidebarCollapse span:nth-of-type(2),
+    #sidebarCollapse span:last-of-type {
+        transform: none;
+        opacity: 1;
+        margin: 5px auto;
+    }
+
+    #sidebarCollapse.active span {
+        margin: 0 auto;
+    }
+
+    #sidebarCollapse.active span:first-of-type {
+        transform: rotate(45deg) translate(2px, 2px);
+    }
+
+    #sidebarCollapse.active span:nth-of-type(2) {
+        opacity: 0;
+    }
+
+    #sidebarCollapse.active span:last-of-type {
+        transform: rotate(-45deg) translate(1px, -1px);
+    }
+}
+
+@media only screen and (max-width : 540px) {
+    .cmgt_panel_body_access {
+        margin-top: 5%;
+    }
+
+    .panel-body h2.first_hed {
+        margin-top: 5%;
+    }
+
+    .cmgt-group-list-record-col-title {
+        width: 200px;
+    }
+
+    div.updated {
+        margin: 10px 15px !important;
+    }
+
+    /* .panel-body .form-horizontal{
+        margin-top: 20%;
+    } */
+    .dataTables_wrapper .dataTables_filter {
+        margin-top: 2.5em !important;
+    }
+
+    .main_home_page_div {
+        margin-top: 16%;
+    }
+
+    .panel-body #registration_email_template_form {
+        margin-top: 0%;
+    }
+
+    .cmgt_gift_main .panel-body .form-horizontal {
+        margin-top: 5%;
+    }
+
+    .panel-body .cmgt_category_form.form-horizontal {
+        margin-top: 2%;
+    }
+
+    .panel-body .cmgt_access_form.form-horizontal {
+        margin-top: 5%;
+    }
+
+    .panel-body .cmgt_form_horizontal.form-horizontal {
+        margin-top: 10%;
+    }
+
+    /* .panel-body .table-responsive {
+        padding-top: 20%;
+    } */
+    .panel-body .cmgt_gift_table_responsive.table-responsive {
+        padding-top: 5%;
+    }
+
+    .panel-body .cmgt_category_listbox.table-responsive {
+        padding-top: 5%;
+    }
+
+    .panel-body .cmgt_table_responsive.table-responsive {
+        padding-top: 5%;
+    }
+
+    .table-responsive.cmgt_view_pt_0 {
+        padding-top: 0 !important;
+    }
+
+    /* .view_patient_main{
+        margin-top: 20%;
+    } */
+    #main-wrapper>.row {
+        margin-top: 15%;
+    }
+
+    .calendar-event .cmgt_reservation_remainder_title_pr {
+        width: 60% !important;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+    .cmgt_popup_table .popup_label_heading {
+        font-size: 12px;
+    }
+
+    .cmgt_popup_table .popup_label_value {
+        font-size: 13px;
+    }
+
+    .margin_bottom_10_res {
+        width: 50%;
+    }
+
+    .cmgt_main_attedence #admin_attedence {
+        margin-top: 20%;
+    }
+
+    .cmgt_main_attedence #ministry_attendence {
+        margin-top: 20%;
+    }
+
+    .appoinment_card_image_width {
+        width: 20%;
+    }
+
+    .fullname_of_card_title_width {
+        width: 70%;
+    }
+
+    .cmgt-group-list-total-width {
+        width: 10%;
+    }
+
+    .cmgt_view_card_mb .cmgt_card_image_width {
+        width: 20%;
+    }
+
+    .cmgt_view_card_mb .cmgt_card_titel_width {
+        width: 80%;
+    }
+
+    .modal-dialog .modal-content {
+        margin-top: 35% !important;
+    }
+
+    .overlay-content {
+        top: 35%;
+    }
+
+    .cmgt_checkin_overlay_content.overlay-content {
+        top: 30%;
+    }
+
+    /* .panel-body h2 {
+        margin-top: 15%;
+    } */
+    .panel-body h2#h2_tab_mt_0 {
+        margin-top: 0 !important;
+    }
+
+    .form-horizontal .radio-inline {
+        padding: 8px 8px 8px 0px;
+    }
+
+    .cmgt_service_list .cmgt_width_img {
+        width: 10%;
+    }
+
+    .cmgt_service_list .cmgt_width_title {
+        width: 60%;
+    }
+
+    .cmgt_service_list .cmgt_width_star_end_date {
+        width: 30%;
+    }
+
+    .cmgt_main_modal#myModal_Add_vanue .modal-body {
+        max-height: 460px;
+        overflow: auto;
+    }
+
+    .cmgt_main_modal#myModal_Add_group .modal-body {
+        max-height: 460px;
+        overflow: auto;
+    }
+
+    .panel-group#accordionExample {
+        margin-top: 17%;
+    }
+
+    #cmgt_viewpage_addres_width {
+        width: 100%;
+    }
+
+    .view_patient_main #body_content_area {
+        padding: 40px 0 10px 0 !important
+    }
+
+    .view_patient_main #body_area {
+        margin-top: 21% !important;
+    }
+
+    .inbox-widget .inbox-item .inbox-item-author {
+        width: 70%;
+    }
+
+    /* #cmgt_tab_res_mt .nav-tabs{
+        margin-top: 20%;
+    } */
+    /* #cmgt_tab_res_mt .nav-tabs>li>a {
+            font-size: 10px!important;
+    } */
+    .cmgt_add_mt_35 {
+        margin-top: 20%;
+    }
+
+    .cmgt_gen_upload_btn .width_60 {
+        width: 60%;
+    }
+
+    .cmgt_gen_upload_btn .width_20 {
+        width: 40%;
+    }
+}
+
+@media only screen and (max-width : 375px) {
+
+    .popup-bg .overlay-content {
+        top: 15% !important
+    }
+
+    .services_btn .table>tbody>tr>td,
+    .services_btn .table>thead>tr>th {
+        padding: 5px !important;
+    }
+
+    .calendar-event .cmgt_reservation_remainder_title_pr {
+        width: 46% !important;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+    .cmgt-nav-tab-wrapper.nav-tab-wrapper a.nav-tab {
+        margin-right: 12px !important;
+    }
+
+    .cmgt-cards-indicators li {
+        font-size: 10px;
+    }
+
+    #main-wrapper>.row {
+        /* margin-top: 20%!important; */
+    }
+
+    .remainder_date_pr span {
+        font-size: 13px !important;
+    }
+
+    .cmgt-notice-list-start_date {
+        font-size: 14px !important;
+    }
+
+    .cmgt-group-list-group-name span {
+        font-size: 14px;
+    }
+
+    .fc .fc-daygrid-day-bottom {
+        padding: 2px 0px 0;
+    }
+
+    .cmgt_activity_list_text .cmgt_activity_text_title {
+        font-size: 13px;
+    }
+
+    .cmgt-notice-list-title {
+        font-size: 14px;
+    }
+
+    .cmgt_activity_list_text .cmgt_activity_list_text_des {
+        font-size: 13px;
+    }
+
+    .calendar-event p.cmgt_description {
+        font-size: 13px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+    .cmgt_peldges_list .cmgt_peldges_date {
+        font-size: 12px;
+    }
+
+    .cmgt_activity_list_img {
+        margin-right: 5px !important;
+    }
+
+    .calendar-event .cmgt_reservation_remainder_title_pr {
+        width: 50% !important;
+    }
+
+    .cmgt-notice-list-checkbox-list {
+        width: 100% !important;
+    }
+
+    .cmgt_notice_description {
+        font-size: 13px;
+    }
+
+    .cmgt_reservation_remainder_title_pr.cmgt_reservation_description {
+        line-height: 15px;
+    }
+
+    .cmgt_description_line {
+        line-height: 15px;
+    }
+
+    .fullname_of_card_title {
+        margin-left: 26px;
+    }
+
+    .popup-bg .overlay-content {
+        top: 35%;
+    }
+
+    .slimScrollDiv .inbox-widget {
+        height: 175px !important;
+    }
+
+    .cmgt-donation-record .cmgt-donation-record-time {
+        width: 36% !important;
+    }
+
+    .panel-body .panel-group#accordionExample {
+        margin-top: 10%;
+    }
+
+    .page-inner .main_home_page_div {
+        margin-top: 5%;
+    }
+    .page-inner .chart_reports .main_home_page_div {
+        margin-top: 10%;
+    }
+    .page-inner .cmgt_main_attedence #admin_attedence {
+        margin-top: 10%;
+    }
+
+    .page-inner .cmgt_main_attedence #ministry_attendence {
+        margin-top: 5%;
+    }
+
+    #profile_change {
+        margin-top: 0 !important;
+    }
+
+    .cmgt-line-chat {
+        height: 430px;
+    }
+
+    .width_16_res {
+        width: 16.67% !important;
+    }
+
+    .width_14_res {
+        width: 14% !important;
+    }
+    .margin_bottom_20.cmgt_popup_table
+    {
+        margin-bottom: 0px !important;
+    }
+    .margin_right_10px{
+        margin-right :10px !important;
+    }
+
+}
+
+@media only screen and (max-width: 285px) {
+    #main-wrapper>.row {
+        margin-top: 72% !important;
+    }
+
+    .popup-bg .modal-dialog .modal-content {
+        margin-top: 85% !important;
+    }
+
+    .main_home_page_div .panel-body {
+        padding-top: 30px !important;
+    }
+
+    .cmgt-view-page-tab li a {
+        font-size: 10px;
+    }
+
+    .panel-body.view_patient_main {
+        margin-top: 40%;
+    }
+
+    .margin_bottom_10_res {
+        width: 100%;
+    }
+
+    .outer {
+        width: 218px;
+        height: 217px;
+        margin-left: 8px;
+    }
+
+    .fc .fc-scrollgrid-liquid {
+        height: 82%;
+    }
+
+    #calendar .fc-scrollgrid-sync-inner a {
+        font-size: 9px;
+    }
+
+    .table td,
+    .table>tbody>tr>td,
+    .table>tbody>tr>th,
+    .table>tfoot>tr>td,
+    .table>tfoot>tr>th,
+    .table>thead>tr>td,
+    .table>thead>tr>th {
+        padding: 13px 2px !important;
+    }
+
+    .table th {
+        font-size: 12px;
+    }
+
+    .services_btn .table>tbody>tr>td,
+    .services_btn .table>thead>tr>th {
+        padding: 1px !important;
+    }
+
+    .cmgt-donation-record-time {
+        font-size: 16px;
+    }
+
+    .cmgt-peldges-record {
+        margin: 30px 5px !important;
+    }
+
+    .cmgt-SellGift-record {
+        margin: 27px 5px !important;
+    }
+
+    .cmgt-right-heder .search input {
+        text-indent: 18px;
+        font-size: 14px;
+    }
+
+    #cmgt-Search-filter {
+        right: 5px;
+    }
+
+    .cmgt-line-chat-bottom p {
+        font-size: 10px;
+    }
+
+    /* .main_home_page_div .panel-body .table-responsive {
+        padding-top: 80%;
+    } */
+    .page-inner .main_home_page_div {
+        margin-top: 27%;
+    }
+
+    .table-responsive .dataTables_wrapper .dataTables_info {
+        margin-left: 40%;
+    }
+
+    .table-responsive #download_csv_headers {
+        margin-top: 10px;
+    }
+
+    .user_profile_header_left {
+        margin-left: 5px;
+        margin-top: 20px;
+    }
+
+    .user_profile_header_left .view_user_name_label {
+        font-size: 15px;
+    }
+
+    .user_profile_header_left .view_user_phone {
+        font-size: 12px;
+    }
+
+    .view_user_doctor_label,
+    .view_user_address_label {
+        font-size: 11px !important;
+    }
+
+    .cmgt-view-page-tab li a {
+        margin-right: 2px !important;
+    }
+
+    #body_area .cmgt-view-page-tab li a {
+        font-size: 10px !important;
+    }
+
+    .view_user_name_label {
+        width: 70%;
+    }
+
+    .cmgt_main_modal#myModal_Add_vanue .modal-content {
+        margin-top: 55% !important;
+    }
+}
+
+@media only screen and (max-width: 820px) {
+
+    .auto-fold #wpcontent,
+    .auto-fold #wpfooter {
+        margin-left: 0;
+    }
+
+    .cmgt-notice-list-checkbox-list .cmgt-notice-list-description {
+        font-size: 13px;
+    }
+
+    .table-responsive .dataTables_length {
+        width: 12%;
+    }
+
+    .modal-dialog {
+        max-width: 750px;
+    }
+
+    .cmgt_main_modal #add_member_overflow {
+        height: 700px;
+        overflow-y: scroll;
+    }
+}
+
+@media screen and (max-width : 1199px) and (min-width : 1101px) {
+    .outer {
+        width: 240px;
+        margin-left: 15px;
+    }
+}
+
+@media screen and (max-width : 1100px) and (min-width : 1025px) {
+    .outer {
+        width: 240px;
+        margin-left: 20px;
+    }
+}
+
+@media screen and (max-width : 1024px) and (min-width : 992px) {
+    .modal .modal-content {
+        left: 11%;
+    }
+
+    .cmgt-header .cmgt-logo {
+        padding: 15px 5px;
+    }
+
+    .outer {
+        width: 245px;
+        margin-left: 5px;
+    }
+
+    .cmgt-notice-list-description {
+        font-size: 14px;
+    }
+
+    .cmgt_checkin_overlay_content.overlay-content {
+        top: 16%;
+    }
+}
+
+@media screen and (max-width : 1300px) and (min-width : 1200px) {
+    .cmgt-header .cmgt-logo {
+        padding: 10px 8px;
+    }
+
+    .fc .fc-scrollgrid-liquid {
+        height: 96%;
+    }
+}
+
+@media only screen and (max-width: 575px) {
+    .modal-dialog .cmgt-notice-list-checkbox-list {
+        width: 90% !important;
+    }
+
+    .cmgt-right-heder-search .search img.search-img {
+        top: 30.35%;
+    }
+
+    .cmgt-right-heder .search input {
+        height: 45px;
+    }
+
+    #cmgt-Search-filter {
+        top: 15px;
+    }
+}
+
+@media screen and (max-width : 912px) and (min-width : 768px) {
+    .outer {
+        width: 240px;
+        margin-left: 18px;
+    }
+}
+
+@media screen and (max-width : 912px) and (min-width : 768px) {
+    .outer {
+        width: 240px;
+        margin-left: 18px;
+    }
+}
+
+@media screen and (max-width : 680px) and (min-width : 576px) {
+    .outer {
+        width: 250px;
+        margin-left: 2px;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+
+    .services_btn .table>tbody>tr>td,
+    .services_btn .table>thead>tr>th {
+        padding: 15px 1px !important;
+    }
+
+    .calendar-event .remainder_date_pr {
+        padding: 2px 1px;
+    }
+
+    #main-wrapper>.row {
+        /* margin-top: 20%; */
+    }
+}
+
+@media only screen and (max-width: 360px) {
+    .cmgt-cards-indicators li {
+        font-size: 9px;
+    }
+
+}
+
+@media only screen and (max-width: 992px) {
+    .fullname_of_card_title {
+        font-size: 13px;
+        margin-left: 20px;
+        line-height: 16px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .panel-body .table-responsive {
+        overflow-x: auto !important;
+    }
+
+    .dataTables_wrapper .dataTables_length {
+        float: left !important;
+    }
+
+    .dataTables_length {
+        width: auto;
+    }
+
+    .view_patient_main .dataTables_wrapper .row {
+        display: block;
+    }
+
+    .dataTables_length {
+        display: block !important;
+    }
+
+    .dataTables_wrapper .dataTables_filter {
+        margin-top: 1.5em;
+    }
+
+    .dataTables_filter {
+        width: 100%;
+    }
+
+    .dataTables_filter input {
+        width: 100%;
+        float: left;
+    }
+
+    .dataTables_wrapper .dataTables_paginate {
+        margin-bottom: 1.5em;
+        margin-top: 1.5em;
+    }
+
+    .form-body .form-control {
+        margin-bottom: 15px;
+    }
+
+    .cmgt_form_body .cmgt_csv_mb_0 .form-control {
+        margin-bottom: 0 !important;
+    }
+
+    .form-body .cmgt_document_list .form-control {
+        margin-bottom: 5px !important;
+    }
+
+    .form-body .cmgt_checkbox_befor_color .form-control {
+        margin-bottom: 5px;
+    }
+
+    .cmgt_input_checkbox_label {
+        padding-bottom: 15% !important;
+    }
+
+    .table-responsive .dataTables_wrapper .dataTables_info {
+        margin-left: 30%;
+    }
+
+    .modal-title {
+        font-size: 20px !important;
+    }
+
+    .cmgt_card_1.no_1,
+    .cmgt_card_2.no_2,
+    .cmgt_card_1.no_3,
+    .cmgt_card_2.no_4 {
+        /* width :48% !important; */
+    }
+
+    .cmgt_card_1.no_1,
+    .cmgt_card_1.no_3 {
+        /* margin-right :12px !important;  */
+    }
+}
+
+@media only screen and (max-width: 414px) {
+    .main_home_page_div {
+        margin-top: 12%;
+    }
+
+    .panel-group#accordionExample {
+        margin-top: 30%;
+    }
+
+    .panel-body .form-horizontal#setting_form {
+        margin-top: 10%;
+    }
+
+    .panel-body .form-horizontal#setting_form {
+        margin-top: 10%;
+    }
+
+    .panel-body .form-horizontal#newsletterform {
+        margin-top: 10%;
+    }
+
+    .cmgt_gift_main .panel-body .form-horizontal {
+        margin-top: 5%;
+    }
+
+    .cmgt_payment_main .panel-body .form-horizontal {
+        margin-top: 5%;
+    }
+
+    #add_member_popup_active .panel-body .form-horizontal {
+        margin-top: 5%;
+    }
+
+    #add_ministary_popup_active .panel-body .form-horizontal {
+        margin-top: 5%;
+    }
+
+    #add_group_popup_active .panel-body .form-horizontal {
+        margin-top: 5%;
+    }
+
+    .modal {
+        top: 85px;
+    }
+
+    .panel-body h2.cmgt-nav-tab-wrapper.nav-tab-wrapper {
+        margin-top: 10%;
+    }
+
+    .cmgt-group-list-record-col-title {
+        width: 185px;
+    }
+
+    .main_home_page_div .panel-body .cmgt_gift_table_responsive.table-responsive {
+        padding-top: 5%;
+    }
+
+    .panel-body .cmgt_payment_table_responsive.table-responsive {
+        padding-top: 5%;
+    }
+
+    .main_home_page_div .panel-body .cmgt_category_listbox.table-responsive {
+        padding-top: 5%;
+    }
+
+    .table-responsive.cmgt_view_pt_0 .dataTables_wrapper .dataTables_info {
+        margin-left: 30%;
+    }
+
+    .margin_top_7per {
+        margin-top: 15% !important;
+    }
+
+    .view_user_name_label {
+        font-size: 18px;
+    }
+
+    .modal-dialog .modal-content {
+        margin-top: 55% !important;
+    }
+
+    .cmgt_main_modal .modal-dialog .modal-content {
+        margin-top: 5% !important;
+    }
+
+    .cmgt_main_modal .modal-dialog #cmgt_csv_modal_content {
+        margin-top: 5% !important;
+    }
+
+    .cmgt_main_attedence #admin_attedence {
+        margin-top: 8%;
+    }
+
+    .cmgt_main_attedence #ministry_attendence {
+        margin-top: 25%;
+    }
+
+    #cmgt_padding_10px .panel-title {
+        font-size: 15px !important;
+    }
+
+    .fullname_of_card_title {
+        margin-left: 25px;
+    }
+
+    .cmgt_main_modal#myModal_Add_vanue .modal-body {
+        max-height: 370px;
+        overflow: auto;
+    }
+
+    .cmgt_main_modal#myModal_Add_group .modal-body {
+        max-height: 370px;
+        overflow: auto;
+    }
+
+    .cmgt_main_modal#myModal_add_member .modal-body {
+        max-height: 380px;
+        overflow: auto;
+    }
+
+    .cmgt_service_list .cmgt_width_img {
+        width: 15%;
+    }
+
+    .cmgt_service_list .cmgt_width_title {
+        width: 45%;
+    }
+
+    .cmgt_service_list .cmgt_width_star_end_date {
+        width: 40%;
+    }
+
+    .cmgt_service_list .cmgt_service_text_title {
+        font-size: 14px;
+    }
+
+    .cmgt_activity_list_text .cmgt_activity_text_title {
+        font-size: 14px;
+    }
+
+    .calendar-event p.Bold {
+        font-size: 14px !important;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+    .cmgt-reservation-table .remainder_date_pr span {
+        font-size: 12px;
+    }
+
+    .cmgt_peldges_list .remainder_date_pr span {
+        font-size: 14px;
+    }
+
+    .cmgt_peldges_list .cmgt_peldges_date {
+        font-size: 13px;
+    }
+
+    .cmgt_notice_description {
+        font-size: 14px;
+    }
+
+    .cmgt-notice-list-title {
+        font-size: 15px;
+    }
+
+    .cmgt-notice-list-start_date {
+        font-size: 12px;
+    }
+
+    .cmgt_view_card_mb .appoinment_card_image_width {
+        width: 20%;
+    }
+
+    .cmgt_view_card_mb .fullname_of_card_title_width {
+        width: 60%;
+    }
+
+    .cmgt-group-list-total-width {
+        width: 20%;
+    }
+
+    .cmgt_view_card_mb .cmgt_card_image_width {
+        width: 25%;
+    }
+
+    .cmgt_view_card_mb .cmgt_card_titel_width {
+        width: 75%;
+    }
+
+    .nav-tab {
+        margin: 0px 0px 0 0 !important;
+    }
+
+    .cmgt-nav-tab-wrapper a.nav-tab {
+        margin-right: 20px !important;
+    }
+
+    .calendar-event .cmgt_reservation_remainder_title_pr {
+        width: 42% !important;
+    }
+
+    /* .nav-tab {
+        font-size: 12px;
+    } */
+    form .padding_frontendlist_body {
+        margin-top: 5%;
+    }
+
+    .inbox-widget .inbox-item .inbox-item-author {
+        width: 55%;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+    .dataTables_wrapper .dataTables_info {
+        margin-left: 30%;
+    }
+
+    .popup-bg .overlay-content {
+        top: 15%;
+    }
+
+    #cmgt_service_pop .overlay-content {
+        top: 15%;
+    }
+
+    .panel-body #margin_top_0 {
+        margin-top: 0% !important;
+    }
+
+    #cmgt_mul_reservation p {
+        font-size: 11px;
+    }
+
+    input.cmgt_mul_checkbox {
+        margin-right: 5px;
+    }
+
+    .demographics_text {
+        font-size: 12px !important;
+    }
+
+    #cmgt_sync span {
+        font-size: 14px !important;
+    }
+
+    #cmgt_sync input {
+        margin-right: 10px !important;
+    }
+
+    /* #cmgt_tab_res_mt .nav-tabs>li>a {
+            padding: 0;
+    } */
+    .spiritual_gift_menu li {
+        padding: 0;
+    }
+
+    /* .cmgt_payment_main .nav-tab-wrapper .nav-tab{
+        font-size: 9px;
+    } */
+    .invoice_data .modal-title {
+        font-size: 15px !important;
+    }
+
+    .nav-tab {
+        padding: 5px 5px;
+    }
+
+    #income_status_ml_10 {
+        margin-left: 5% !important;
+    }
+
+    .replay_message_div input.form-check-input {
+        margin-right: 15px !important;
+    }
+
+    .replay_message_div input[type=checkbox]:checked::before {
+        margin: -4px 0 0 -4px !important;
+        width: 23px !important;
+        height: 22px;
+    }
+
+    .cmgt_add_mt_35 {
+        margin-top: 15%;
+    }
+
+    #h2_tab_mt_0 {
+        margin-top: 0 !important;
+    }
+
+    .cmgt_gen_upload_btn .width_60 {
+        width: 50%;
+    }
+
+    .cmgt_gen_upload_btn .width_20 {
+        width: 50%;
+    }
+
+    .input_height_75px {
+        height: 57px !important;
+    }
+
+    .delete_btn_groupmember a {
+        box-shadow: none !important;
+    }
+
+    .margin_bottom_0_res {
+        margin-bottom: 0px !important;
+    }
+
+}
+
+@media screen and (max-width : 420px) and (min-width : 360px) {
+    .cmgt-group-list-record .cmgt-group-list-record-col-title {
+        width: 160px;
+        padding: 0 10px;
+    }
+
+}
+
+@media only screen and (max-width: 991px) {
+    .fc .fc-toolbar {
+        display: flex !important;
+        flex-direction: column !important;
+        flex-wrap: wrap !important;
+        align-content: space-around !important;
+        align-items: center !important;
+        justify-content: center !important;
+    }
+
+    .fc-daygrid-more-link.fc-more-link {
+        font-size: 9px;
+    }
+}
+
+@media (min-width: 920px) and (max-width: 1030px) {
+    .fc-header-toolbar {
+        display: inline-block !important;
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 533px) {
+    .cmgt-right-heder-list-link {
+        margin-right: 2px;
+    }
+
+    .cmgt-right-heder-list-link {
+        margin-right: 8px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+
+    .margin_bottom_20.cmgt_popup_table
+    {
+        margin-bottom: 0px !important;
+    }
+    .margin_right_10px {
+        margin-right: 10px !important;
+    }
+
+    .group_thumbs {
+        display: none;
+    }
+
+    .cmgt-view-page-tab li a {
+        margin-right: 5px;
+    }
+
+    .view_patient_main #body_area {
+        margin-top: 12%;
+        padding: 0 11px;
+    }
+
+    .margin_bottom_10_res {
+        margin-bottom: 10px;
+    }
+
+    .cmgt-view-page-tab li a {
+        font-size: 11px;
+    }
+
+    .user_view_profile_image {
+        height: 70px;
+        border-radius: 20px;
+        border: 3px solid #FFFFFF;
+        box-sizing: border-box;
+        box-shadow: 0px 4px 10px rgb(0 0 0 / 10%);
+        float: left;
+        width: 70px;
+    }
+
+    .user_profile_header_left {
+        margin-left: 10px;
+        margin-top: 18px;
+    }
+
+    .view_user_edit_btn {
+        margin-left: 5px;
+    }
+
+    button#addremove {
+        margin-bottom: 15px;
+    }
+
+    button#cmgt_addremove {
+        margin-bottom: 15px;
+    }
+
+    .checkbox input[type=checkbox]:checked::before {
+        width: 22px !important;
+        height: 22px;
+    }
+
+    .table-responsive input[type=checkbox]:checked::before {
+        width: 22px !important;
+        height: 22px;
+    }
+
+    .chart_reports .cmgt-view-page-tab li a {
+        line-height: 10px !important;
+    }
+}
+
+@media screen and (max-width : 576px) and (min-width : 480px) {
+    .access_right_menucroll .col-sm-2 {
+        width: 15% !important;
+        padding: 0px;
+        font-size: 10px;
+        float: left;
+    }
+
+    .access_right_hed .col-sm-2 {
+        width: 15% !important;
+        font-size: 13px;
+    }
+
+}
+
+@media screen and (max-width : 479px) and (min-width : 412px) {
+    .access_right_menucroll .col-sm-2 {
+        width: 15% !important;
+        padding: 0px;
+        font-size: 10px;
+        float: left;
+    }
+
+    .access_right_hed .col-sm-2 {
+        width: 15% !important;
+        font-size: 13px;
+    }
+
+}
+
+@media screen and (max-width : 414px) and (min-width : 360px) {
+    .access_right_menucroll .col-sm-2 {
+        width: 15% !important;
+        font-size: 10px;
+        padding: 0px;
+        float: left;
+    }
+
+    .access_right_hed .col-sm-2 {
+        width: 15% !important;
+        font-size: 11px;
+    }
+
+}
+
+@media screen and (max-width : 820px) and (min-width : 768px) {
+    #cmgt_addmember_btn {
+        font-size: 14px;
+    }
+}
+
+@media (min-width: 820px) and (max-width: 850px) {
+    .payment_invoice_popup {
+        max-height: inherit !important;
+    }
+
+    .modal-body #invoice_print {
+        max-height: inherit !important;
+    }
+}
+
+@media (min-width: 850px) {
+    .table-responsive {
+        overflow-x: unset !important;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .formError {
+        left: 25% !important;
+    }
+
+    .dropdown_icon_link {
+        padding-top: 0px;
+    }
+
+    .invoicefont1.church_image {
+        height: 61px;
+        width: 78%;
+        margin-left: 27%;
+    }
+
+    .table model_invoice_table {
+        width: 100%;
+        overflow-x: auto;
+    }
+
+    #cmgt_user_avatar_url {
+        width: 45%;
+    }
+
+    .view_top2 {
+        margin-top: 7%;
+    }
+
+    .popup-bg .overlay-content {
+        left: 20% !important;
+        width: 86% !important;
+    }
+
+    .custom-top-label.top {
+        top: 15px;
+    }
+
+    .user_form .custom-top-label {
+        margin-left: 32px !important;
+    }
+
+    .accordion-button {
+        padding: 10px !important;
+    }
+
+    .margin_bottom_0px {
+        margin-bottom: 0px !important;
+    }
+
+    .past_atten_label {
+        margin-left: 4px !important;
+        width: 104%;
+    }
+
+    #reservation_list {
+        padding-left: 23px !important;
+    }
+
+    table.dataTable.dtr-inline.collapsed>tbody>tr>td.dtr-control:before,
+    table.dataTable.dtr-inline.collapsed>tbody>tr>th.dtr-control:before {
+        left: -22px !important;
+    }
+
+    .cmgt-card-head {
+        padding-left: 54px !important;
+    }
+
+    .frontend_dashboard_margin {
+        margin-top: 58% !important;
+    }
+
+    .category_list .modal-header {
+        height: 66px !important;
+    }
+
+    .give_gift_top {
+        margin-top: 2px !important;
+    }
+
+    .group_page .addScroll {
+        overflow-x: auto !important;
+    }
+
+    .view_user_doctor_label {
+        overflow: auto;
+        max-height: 45px !important;
+        overflow-x: hidden;
+    }
+
+    .access_left {
+        margin-left: -10px !important;
+    }
+
+    .width_access_label {
+        width: 49px !important;
+    }
+
+    .col-md-1.popup_label_heading {
+        width: 20% !important;
+    }
+
+    .col-md-11.label_value {
+        width: 80% !important;
+    }
+
+    .margin_top_5px_res {
+        margin-top: 5px !important;
+    }
+
+    .margin_top_10px_res {
+        margin-top: 10px !important;
+    }
+
+    .invoice_main_div_for_new_design {
+        /* overflow: auto; */
+        max-width: 285px !important;
+        /* overflow-y: hidden; */
+    }
+
+    .invoice_lable {
+        padding: 17px !important;
+    }
+
+    .fc-col-header {
+        width: 100% !important;
+    }
+
+    #calendar {
+        width: 100% !important;
+    }
+
+    .dropdown_menu_icon {
+        /* margin-top: 52px !important; */
+        position: relative !important;
+        bottom: 1px !important;
+    }
+
+    .invoice_table_res {
+        overflow: auto;
+        max-width: 290px !important;
+        overflow-y: hidden;
+    }
+
+    .fc-daygrid.fc-dayGridMonth-view {
+        width: 96%;
+    }
+
+    .frontend_dashboard_margin .fc-col-header {
+        width: 280px !important;
+    }
+
+    .print-button {
+        padding-top: 15%;
+    }
+
+    .frontend_dashboard_margin .print-button {
+        padding-top: 22%;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .frontend_dashboard_margin .fc-col-header {
+        width: 100% !important;
+    }
+
+}
+
+@media (max-width: 767px) {
+    .line_chart_col.line_chart_new .row {
+        display: grid !important;
+        grid-template-columns: repeat(2, 1fr) !important;
+        grid-gap: 10px !important;
+        margin-bottom: 8% !important;
+    }
+
+    .line_chart_col.line_chart_new .cmgt-card {
+        width: 100% !important;
+        margin-bottom: 1% !important;
+    }
+
+    #main-wrapper>.row {
+        margin-top: 20%;
+    }
+
+    .frontend_dashboard_margin #main-wrapper>.row {
+        /* margin-top: -13%!important; */
+    }
+}
+
+.line_chart_col.line_chart_new .row {
+    grid-gap: 3% !important;
+}

@@ -1,0 +1,727 @@
+/* Extra Small Devices, Phones */ 
+@media (max-width: 1199.98px)
+{
+	.cmgt-customeMsg { 
+		font-size: 15px;
+	}
+}
+@media only screen and (max-width : 920px) 
+{
+	.modal 
+	{
+		top: 50px;
+	}
+	.nopadding.hospital_left.nav-side-menu {
+		width:100% !important;
+	}
+	 .hospital-management-content .page-inner {
+	    margin-left: 0;
+	} 
+	.hospital_left ul li a {float: left;width:100%;}
+	img.dashboard_background {
+    width: 22%!important;
+	}
+	.dashboard_background_message{
+		width: 22%!important;
+	}
+	/***************************** Tooltip *************************************/
+	.nav-side-menu .toggle-btn, .nav-side-menu .brand {
+		background: #2e353d none repeat scroll 0 0;
+		color: #ffffff;
+		display: block;
+		position: relative;
+		width: 100%;
+		z-index: 4;
+	}
+	.brand {
+		text-align: left !important;
+		font-size: 22px;
+		padding-left: 20px;
+		line-height: 50px !important;
+	}
+	.nav-side-menu .toggle-btn {
+		background-color: #ffffff;
+		color: #000000;
+		cursor: pointer;
+		display: block;
+		font-size: 27px;
+		height: 32px;
+		padding: 3px;
+		position: absolute;
+		right: 12px;
+		text-align: center;
+		top: 10px;
+		width: 48px;
+	}
+	.collapse.out {
+		Display:none !important; 
+	}
+	.nav.nav-pills.nav-stacked.collapse.in {
+		background: #2e353d none repeat scroll 0 0;
+		margin-top: 0;
+		display: block !important;
+		position: absolute;
+		width: 100%;
+		z-index: 4;
+	}
+	.checkbox input[type=checkbox], .checkbox-inline input[type=checkbox], .radio input[type=radio], .radio-inline input[type=radio] {
+		position: relative;  
+	}
+}
+@media only screen and (max-width : 768px) 
+{
+	.cmgt-pageHead {
+		padding: 10px 10px;
+	}
+	.cmgt-header .cmgt-churchname{
+		display: none;
+	}
+	.auto-fold #wpcontent {
+		padding-left: 0;
+	}
+	.cmgt-pagetitle {
+		font-size: 20px;
+		font-weight: 400;
+	}
+	.cmgt-customeMsg {
+		display: none;
+	}
+	.addScroll{
+	overflow-y:auto;
+	height: 200px;
+	}
+	.modal {
+		top: 50px;
+	}
+	.right_side .panel.info-box .panel-body {
+	background-position: right 0;
+	}
+	.overlay-content {
+	left: 15%;
+	width: 96%;
+	}
+	#group_form input{
+		margin-bottom:5px;
+	}
+	.col-md-4.member_right {
+		margin-left: 0%;
+		width: 100%;
+	}
+	.membr_left img {
+	height: 210px;
+		width: 134px;
+	}
+	.col-sm-3.border.groups-list {
+		margin-left: 0.5%;
+		width: 49%;
+	}
+	.hospital-management-content .page-inner{
+		margin-top: 60px;
+	}
+	.cmgt-ft-navigation {
+		margin-top: 42px !important;
+	}
+	.cmgt-navigation {
+		margin-top: 160px;
+	}
+	/* .cmgt-user-dropdown .dropdown-menu {
+		transform: translate(564px, 180px)!important;
+	} */
+	.wp-core-ui .notice.is-dismissible{
+		margin-top : 28px !important;
+	}
+	.accordion-button.collapsed{
+		height: 56px;
+	}
+	.access_right_menucroll .row{
+		padding-left: 20px;
+	}
+}
+@media only screen and (max-width : 600px) 
+{
+	.mainpage .navbar h3 span {
+		display: none;
+	}
+	.cmgt-right nav ol {
+		margin: 10px 0px;
+		line-height: 1;
+	}
+	.dropdown-menu li a {
+		margin: 0;
+	}
+	.cmgt-righthead ul {
+		margin: 0;
+		padding: 2px 0;
+	}
+	.dropdown-toggle::after {
+		display: none;
+	}
+	.right_side .panel.info-box .panel-body {
+		background-position: right 0;
+	}
+	.cmgt-left {
+		float: none;
+	}
+	.cmgt-right {
+		float: none;
+	}
+	.cmgt-username{
+		display: none;
+	}
+	/* .cmgt-header .cmgt-logo{
+		padding: 11px 10px;
+	} */
+	.main_sidebar {
+		background-color: unset;
+	}
+	.rediospan{
+		margin-left:12px;
+	}
+	.top1{
+	margin-top: 5px;
+	}
+	/* .otehrservice{
+		margin-left: 15px;
+		margin-top: 2px;
+	} */
+	/* .otehrservice1{
+	margin-top: 5px;
+	} */
+	#wpbody select {
+	
+		font-size: 12px;
+	}
+	.membr_left img {
+		height: 150px;
+		width: 100px;
+	}
+	.addScroll{
+		overflow-y:auto;
+		height: 150px;
+	}
+	.cmgt-footer-right {
+		float: none;
+	}
+	/* .cmgt-user-dropdown .dropdown-menu {
+		transform: translate(145px, 260px)!important;
+	} */
+}
+@media screen and (max-width : 480px)
+{
+	/* button#addremove {
+		margin-top: 0px;
+	} */
+	/* input#upload_song_file {
+		margin-top: 12px;
+	} */
+	.header_profile_dropdown a{
+		margin: 2px -34px;
+	}
+	.open>.dropdown-menu {
+		top: auto;
+		bottom: 100%;
+		width: 259px;
+		height: 200px;
+		overflow: auto;
+		padding: 0px;
+	}
+	.modal 
+	{
+		top: 60px;
+	}
+	.tab-content {
+    	padding: 0px;
+	}
+  	.formError .formErrorContent {
+  		margin-left: -70px;
+  	}
+  	.col-md-8.col-sm-8.col-xs-6 {
+		width: 20%;
+	}
+	.nav.navbar-right.col-md-4.col-sm-4.col-xs-6 {
+	  	width: 79%;
+	}
+	.right_side .col-xs-6 
+	{
+	  	width: 100%;
+	}
+	#main-wrapper .col-xs-6 
+	{
+		width: 100%;
+	}
+	.info-box .panel-body {
+		background-position: right center !important;
+	  	height: auto;
+	}
+	#calendar .fc-toolbar .fc-left,
+	#calendar .fc-toolbar .fc-right,
+	#calendar .fc-toolbar .fc-center
+	{
+		float:left;width: 100%;padding-bottom:10px;
+	}
+	.table .btn-primary{
+		width: 100%;margin-bottom:5px;
+	}
+	.period_box {
+		position: relative;
+		white-space: normal;
+	}
+	.team .team-member{
+		width:100%;
+	}
+	.page-title h3{
+		font-size: 17px;
+	}
+	.rediospan{
+		margin-left:12px;
+	}
+	.top1{
+	margin-top: 5px;
+	}
+	/* .otehrservice1{
+	margin-top: 5px;
+	} */
+	#wpbody select {
+	
+		font-size: 12px;
+	}
+	.membr_left img {
+		height: 150px;
+		width: 150px;
+	}
+	.membr_left .col-md-6.right_side 
+	{
+		padding: 0;
+		width: 100%;
+	}
+		.col-sm-3.border.groups-list
+	{
+		
+		width: 100%;
+	}
+	.col-md-4.member_right
+	{
+		margin-left: 0%;
+		margin-top: 10px;
+		width: 100%;
+	}
+	.col-md-6.border{
+		margin-top:10px;
+		}
+	.txt_color 
+	{
+		width: 60px;
+	}
+	.panel .panel-body {
+		position: relative;
+		padding: 2px;
+		border-bottom-left-radius: 0;
+		border-bottom-right-radius: 0;
+	}
+	.inbox-widget {
+		height: 200px!important;
+	}
+	.addScroll{
+	overflow-y:auto;
+	height: auto;
+	
+	}
+	.sermon-audio {
+		margin: 5px;
+		width:96%;
+	}
+	.fc-popover
+	{
+		top: 38px !important;
+	}
+	.navbar .open .dropdown-menu {
+		visibility: visible;
+		opacity: 1;
+		margin-top: 2px !important;
+		margin-left: -4px !important;
+	}
+	.aud_width{
+		width: 96%;
+		margin:5px;
+	}
+	.txt_color {
+		width: 71px;
+	}
+	ul.panel_tabs li
+	{
+		margin-top:10px;
+	}
+	/* video {
+		margin-left: -12px;
+	} */
+	input#upload_gift_file 
+	{
+		margin-left: 0px!important;
+		margin-top: 12px;
+	}
+	.checkbox input[type=checkbox], .checkbox-inline input[type=checkbox], .radio input[type=radio], .radio-inline input[type=radio] {
+		position: relative;
+		/* margin-left:-15px; */
+	}
+	.sermon_image{
+		width:100% !important;
+		height:200px !important;
+	}
+	/* .nav-tab  {
+		margin: 10px 10px 0 0 !important;
+		border-bottom: 1px solid #ccc !important;
+	} */
+	.toleb{
+		margin-top:10px !important;
+	}
+	.payment_invoice_popup {
+		overflow-y: auto;
+		min-height: 280px;
+		max-height: 350px;
+	}
+	.page-title {
+		padding: 22px 20px 20px 20px !important;
+	}
+	.panel-body p .img-circle{
+		margin: 0px 10px !important;
+	}
+	.page-inner 
+	{
+		margin-left: 0;
+		min-height:500px;
+	}
+	/* .panel-body h2 
+	{
+		margin-top: 0px !important;
+    } */
+	li
+	{
+		margin-bottom: 0px !important;
+    } 
+	/* #download_csv_headers
+	{
+		margin-bottom:10px !important;
+	} */
+	.right_side .table i 
+	{
+		padding-right: 10px  !important;
+		float:left  !important;
+		margin-bottom:7px  !important;
+    }
+	.button_top{
+		margin-top:5px !important;
+	}
+   /* .popup-bg .overlay-content {
+		left: 15%;
+		width: 96%;
+		min-height: auto;
+		top: 15%;
+    } */
+	.modal-content,.category_list,.invoice_data,.modal-body{
+		max-height: 100%;
+	}
+	.status{
+	float:left;
+	width:100%;
+	}
+	.marginbottom{
+		margin-bottom:20px;
+	}
+}
+@media screen and (min-width: 720px) 
+{
+	.modal {
+		top: 80px;
+	}
+	.membr_left img {
+		height: 250px;
+		width: 200px;
+		margin-top: 29px;
+	}
+	.rediospan{
+		margin-left:5px;
+	}
+
+	 .sermon-audio {
+		margin: 5px;
+		width:96%;
+	}
+	.fc-popover{
+		top: 38px;
+	}
+	.navbar .open .dropdown-menu {
+		visibility: visible;
+		opacity: 1;
+		margin-top: 2px !important;
+		margin-left: -8px !important;
+	}
+}
+@media only screen and (max-width : 920px) 
+{
+	.fc-toolbar .fc-state-active, .fc-toolbar .ui-state-active {
+		z-index: 3;
+	}
+}
+@media screen and (max-width : 360px) and (min-width : 320px) 
+{
+	.right_side1 .table i{
+		width:20px;
+	}
+	.form-horizontal .form-group{
+	
+		margin-top:10px;
+	}
+	video{
+		margin-left:10px!important;
+		max-width:260px!important;
+	}
+}
+@media screen and (max-width : 400px) and (min-width : 320px) 
+{
+	a.fc-more {
+		margin: 0px 0px;
+		font-size: 0.7em;
+		cursor: pointer;
+		text-decoration: none;
+	}
+	#sidebar.active {
+		height: auto;
+	}
+}
+
+@media screen and (max-width : 460px) and (min-width : 320px) 
+{
+	.txt_color{
+		word-break: break-word;
+	}		
+	.col-md-4.col-sm-4.col-xs-12.membership-list {
+		word-break: break-word;
+	}	
+	.info-box .info-box-stats{
+		margin-top:0px!important;
+	}	
+}
+@media screen and (max-width: 360px) and (min-width: 320px) 
+{  
+	.panel-body {
+			 padding: 0px;
+	}
+	.panel-body.side-barlist {
+		display: block!important;
+	}
+	/* form#vanue_form {
+		margin-top: 10px;
+	} */
+	#sidebar.active{
+		height: auto;
+	}
+	.checkbox input[type=checkbox], .checkbox-inline input[type=checkbox], .radio input[type=radio], .radio-inline input[type=radio]{
+	margin-left:4px;
+	}
+}
+@media screen and (max-width : 767px) and (min-width : 320px) 
+{
+	 .modal-body #invoice_print .invoicefont1
+	 {
+		margin-right: -65px;
+		float: right;
+	 }
+	#invoice_print .main_div
+	{
+		float:left;
+	}
+	#invoice_print .main_div .width_20 {
+		width: 20%;
+		padding-right: 0px !important;
+	}
+	#invoice_print .main_div .mt_4 {
+		margin-top: 100px;
+	}
+	#gift_form video
+	{
+		height:200px !important;
+	}
+	.txt_color {
+		width: 71px;
+	}
+	.max_height_425_res
+	{
+		max-height: 425px;
+	}
+	/* button#addremove {
+		margin-top: 5px !important;
+	} */
+	#group_form .control-label
+	{
+		padding-top:0px;
+	}
+	#group_form .form-group,#myModal_Add_Ministary .form-group
+	{
+		margin-top:0px;
+	}
+	#group_form .mb-3,#myModal_Add_Ministary .mb-3 {
+		margin-bottom: 0rem!important;
+	}
+	#myModal_Add_Ministary .modal-content
+	{
+		top:0px !important;
+	}
+	#myModal_Add_vanue .modal-body
+	{
+		max-height: 380px;
+	}
+	.modal-footer
+	{
+		padding:3px;
+	}
+
+	.margin_left_8_min
+	{
+		margin-left: -8px;
+	}
+	.margin_left_10_res
+	{
+		margin-left:10px;
+	}
+	.margin_left_20_res
+	{
+		margin-left: 20px;
+	}
+	.margin_left_5_res
+	{
+		margin-left:5px;
+	}
+	.margin_left_min_5_res
+	{
+		margin-left:-5px;
+	}
+	.margin_left_18_res
+	{
+		margin-left:18px;
+	}
+	/* #access_right_form{
+		font-size:12px !important;
+	} */
+	/* #access_right_form > .row .col-md-2.col-sm-2.col-xs-2:first-child {
+		min-width:100%;
+	} */
+	.panel .panel-body 
+	{
+		position: relative;
+		padding: 20px;
+		border-bottom-left-radius: 0;
+		border-bottom-right-radius: 0;
+	}
+	.fc-day-grid-container
+	{
+		height:300px !important;
+	}
+	.margin_top_10_res
+	{
+		margin-top:10px !important;
+	}
+	.overlay-content {
+		left: 15%;
+		width: 96%;
+		min-height: auto;
+		top: 15%;
+	}
+	.cmgt_overlay_popup_top.overlay-content{
+		left: 15%;
+		width: 96%;
+		min-height: auto;
+		top: 35%;
+	}
+	#myModal_Add_vanue .modal-content
+	{
+		top: 0px !important;
+	}
+	.payment_invoice_popup {
+		overflow-y: auto;
+		min-height: 280px;
+		height: auto !important;
+		max-height: 550px !important;
+	}
+	.mailbox-content {
+		overflow: auto !important;
+	}
+	.panel-body {
+		padding: 20px !important
+	}
+}
+@media screen and (max-width: 280px){
+	.overlay-content {
+		left: 15%;
+		width: 96%;
+		min-height: auto;
+		top: 35%;
+	}
+}
+
+/* toggle button set in menu list open - media-query start */
+@media all and (min-width: 992px) 
+{
+	#sidebar li
+	{ 
+		position: relative; 
+	}
+	#sidebar li .submenu
+	{ 
+		display: none;
+		position: absolute;
+		left:100%; top:-7px;
+		min-width: 240px;
+	}
+	#sidebar li:hover > .submenu
+	{ 
+		display: block; 
+	}
+}	
+/* toggle button set in menu list open - media-query end */
+@media only screen and (max-width : 768px) 
+{
+	#calendar .fc-button-group{
+		display: inline-block !important;
+	}
+}
+@media (max-width: 1200px) 
+{
+	.cmgt-user-dropdown {
+		margin-right: 0;
+	}
+}
+@media only screen and (max-width : 768px) 
+{
+	.cmgt-cards-indicators li {
+		font-size: 11px;
+	}
+	#calendar .fc-view-harness {
+		height: 430px !important;
+	}
+	.cmgt-peldges-record-time {
+		width: 145px!important;
+	}
+	.cmgt-line-chat {
+		margin-bottom: 30px;
+	}
+	.cmgt-donation-table {
+		margin-bottom: 30px;
+	}
+	.margin_0{
+		margin: 0;
+	}
+	/* #cmgt-message-list {
+		height: 315px;
+	} */
+}
+@media only screen and (max-width : 600px) 
+{
+	/* .outer {
+		margin-left: 6px;
+	} */
+	.cmgt-member-chart {
+		height: 230px;
+	}
+}
+
+

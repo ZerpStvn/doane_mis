@@ -1,0 +1,287 @@
+function MJ_amgt_frontend_invoice_by_ajax_datatable($start = 0, $limit = 10) 
+{
+    global $wpdb;
+
+    $start = isset($_REQUEST['start']) ? intval($_REQUEST['start']) : 1;
+    $limit = isset($_REQUEST['length']) ? intval($_REQUEST['length']) : 10;
+
+    $table_name = $wpdb->prefix . 'amgt_created_invoice_list';
+
+    $search_value = isset($_REQUEST['search']['value']) ? sanitize_text_field($_REQUEST['search']['value']) : '';
+
+    $table_name = $wpdb->prefix . 'amgt_created_invoice_list';
+
+    $query = "SELECT * FROM $table_name WHERE status != 'Deactivate'";
+
+    if (!empty($search_value)) {
+        $query .= " AND (invoice_no LIKE '%$search_value%' )  OR (payment_status LIKE '%$search_value%' ) OR (start_date LIKE '%$search_value%' ) OR (end_date LIKE '%$search_value%' )";
+    }
+
+    $query .= " LIMIT $start, $limit";
+
+    $result = $wpdb->get_results($query);
+
+    $dataTableData = array();
+	$totalRow = $wpdb->get_results("SELECT count(*) count FROM $table_name where status!='Deactivate' ");
+	
+    $i = 0;
+    // foreach ($result as $retrieved_data) 
+	// { 
+
+	// 	if($i == 10)
+	// 	{
+	// 		$i=0;
+	// 	}
+	// 	if($i == 0)
+	// 	{
+	// 		$color_class='smgt_class_color0';
+	// 	}
+	// 	elseif($i == 1)
+	// 	{
+	// 		$color_class='smgt_class_color1';
+	// 	}
+	// 	elseif($i == 2)
+	// 	{
+	// 		$color_class='smgt_class_color2';
+	// 	}
+	// 	elseif($i == 3)
+	// 	{
+	// 		$color_class='smgt_class_color3';
+	// 	}
+	// 	elseif($i == 4)
+	// 	{
+	// 		$color_class='smgt_class_color4';
+	// 	}
+	// 	elseif($i == 5)
+	// 	{
+	// 		$color_class='smgt_class_color5';
+	// 	}
+	// 	elseif($i == 6)
+	// 	{
+	// 		$color_class='smgt_class_color6';
+	// 	}
+	// 	elseif($i == 7)
+	// 	{
+	// 		$color_class='smgt_class_color7';
+	// 	}
+	// 	elseif($i == 8)
+	// 	{
+	// 		$color_class='smgt_class_color8';
+	// 	}
+	// 	elseif($i == 9)
+	// 	{
+	// 		$color_class='smgt_class_color9';
+	// 	}
+		
+	// 	$member_id=$retrieved_data->member_id;
+	// 	$chargedata=MJ_amgt_get_invoice_charges_calculate_by($retrieved_data->charges_id);
+	// 	if(empty($retrieved_data->invoice_no))
+	// 	{
+	// 		$invoice_no='-';
+	// 		$charge_cal_by='Fix Charges';
+	// 		$charge_type=get_the_title($retrieved_data->charges_type_id);
+	// 	}
+	// 	else
+	// 	{
+	// 		$invoice_no=$retrieved_data->invoice_no;
+	// 		if(isset($chargedata->charges_calculate_by) && $chargedata->charges_calculate_by=='fix_charge')
+	// 		{
+	// 			$charge_cal_by='Fix Charges';
+	// 		}
+	// 		else
+	// 		{
+	// 			$charge_cal_by='Measurement Charge';
+	// 		}
+	// 		if($retrieved_data->charges_type_id=='0')
+	// 		{
+	// 			$charge_type='Maintenance Charges';
+	// 		}
+	// 		else
+	// 		{
+	// 			$charge_type=get_the_title($retrieved_data->charges_type_id);
+	// 		}	
+	// 	}	
+	// 	$userdata=get_userdata($member_id);
+
+	// 	if(empty($retrieved_data->invoice_no))
+	// 	{
+	// 		$invoice_no='-';
+	// 		$charge_cal_by='Fix Charges';
+	// 		$entry=json_decode($retrieved_data->charges_payment);
+	// 		$entry_amount='0';
+	// 		foreach($entry as $entry_data)
+	// 		{
+	// 			$entry_amount+=$entry_data->amount;
+	// 		}
+	// 		$discount_amount=$retrieved_data->discount_amount;
+	// 		$after_discount_amount=$entry_amount-$discount_amount;
+	// 		$total_amount=round($after_discount_amount);
+	// 		$due_amount='0';
+	// 		$paid_amount=round($after_discount_amount);
+	// 		$payment_status=$retrieved_data->payment_status;
+	// 	}
+	// 	else
+	// 	{													  
+	// 		$invoice_length=strlen($retrieved_data->invoice_no);
+	// 		if($invoice_length == '9')
+	// 		{
+	// 			$total_amount=round($retrieved_data->invoice_amount);
+	// 			$due_amount=round($retrieved_data->invoice_amount) - round($retrieved_data->paid_amount);
+	// 			if($retrieved_data->payment_status=='Unpaid')
+	// 			{
+	// 				$payment_color_class ="Unpaid_status_color";
+	// 				$payment_status= esc_html__('Unpaid','apartment_mgt');
+	// 			}
+	// 			elseif($retrieved_data->payment_status=='Paid' || $retrieved_data->	payment_status=='Fully Paid')
+	// 			{						
+	// 				$payment_color_class ="fullpaid_status_color";												
+	// 				$payment_status= esc_html__('Fully Paid','apartment_mgt');
+	// 			}
+	// 			elseif($retrieved_data->payment_status=='Partially Paid')
+	// 			{
+	// 				$payment_color_class ="paid_status_color";		
+	// 				$payment_status= esc_html__('Partially Paid','apartment_mgt');
+	// 			}			
+	// 		}													    
+	// 		else
+	// 		{
+	// 			$total_amount=round($retrieved_data->total_amount);
+	// 			$due_amount=round($retrieved_data->due_amount);
+	// 			if($retrieved_data->payment_status=='Unpaid')
+	// 			{
+	// 				$payment_color_class ="Unpaid_status_color";
+	// 				$payment_status= esc_html__('Unpaid','apartment_mgt');
+	// 			}
+	// 			elseif($retrieved_data->payment_status=='Paid' || $retrieved_data->	payment_status=='Fully Paid')
+	// 			{			
+	// 				$payment_color_class ="fullpaid_status_color";													
+	// 				$payment_status= esc_html__('Fully Paid','apartment_mgt');
+	// 			}
+	// 			elseif($retrieved_data->payment_status=='Partially Paid')
+	// 			{
+	// 				$payment_color_class ="paid_status_color";		
+	// 				$payment_status= esc_html__('Partially Paid','apartment_mgt');
+	// 			}
+	// 			//$payment_status=$retrieved_data->payment_status;
+	// 		}
+	// 		$paid_amount=$retrieved_data->paid_amount;
+	// 	}
+
+	// 	if(!empty($userdata->display_name)){$display_name = esc_html($userdata->display_name);}else{$display_name = "N/A";}
+
+	// 	if(!empty(get_the_title(get_user_meta($member_id,'building_id',true))))
+	// 	{$building = esc_html(get_the_title(get_user_meta($member_id,'building_id',true)));}else{$building = "N/A";}
+
+	// 	// $unit_name = get_user_meta($member_id,'unit_name',true);
+	// 	// if(!empty($unit_name)){ $unit = MJ_amgt_get_member_assing_unit_name($unit_name); }else{ $unit = "N/A";}
+	// 	$unit_name = get_user_meta($member_id,'unit_name',true);
+	// 	if(!empty($unit_name))
+	// 	{
+	// 		$unit = MJ_amgt_get_member_assing_unit_name($unit_name);
+	// 	}
+	// 	else
+	// 	{
+	// 		$unit = "N/A";
+	// 	}
+
+	// 	$row[0] = '<input type="checkbox" name="selected_id[]" class="smgt_sub_chk select-checkbox sub_chk" value="'.esc_attr($retrieved_data->id).'">';
+
+	// 	$row[1] = '<p class="prescription_tag padding_15px margin_bottom_0px '.$color_class.' invoice_img">	
+					
+	// 					<img src="'.AMS_PLUGIN_URL.'/assets/images/Sidemenu/Account-white.png" alt="" class="massage_image center image_icon_height_25px margin_top_3px">
+						
+	// 				</p>';
+	// 	$row[2] = esc_html(get_option('invoice_prefix').''.$invoice_no);
+
+	// 	$row[3]= $display_name;
+
+	// 	$row[4]= $building;
+
+	// 	$row[5]= $unit;
+	// 	$row[6]= esc_html("$charge_type","apartment_mgt");
+	// 	$row[7]= MJ_amgt_get_currency_symbol(get_option( 'apartment_currency_code' )).' '.$total_amount;
+	// 	$row[8]= esc_html(MJ_amgt_get_currency_symbol(get_option( 'apartment_currency_code' )).' '.abs($due_amount));
+	// 	$row[9]= esc_html(MJ_amgt_get_currency_symbol(get_option( 'apartment_currency_code' )).' '.round($paid_amount));
+	// 	$row[10]= '<span class='.$payment_color_class.'>'.esc_html("$payment_status","apartment_mgt").'</span>';
+	// 	if($retrieved_data->start_date =='')
+	// 	{
+	// 		if($retrieved_data->amgt_charge_period=='5')
+	// 		{ $row[11]= 'N/A';} else { $row[11]= 'N/A';}
+	// 	}else{
+	// 		if($retrieved_data->amgt_charge_period=='5')
+	// 		{
+	// 			$row[11]= 'N/A';
+	// 		}else{
+	// 			$row[11]= esc_html(date(MJ_amgt_date_formate(),strtotime($retrieved_data->start_date)));
+	// 		}
+	// 	}
+	// 	if($retrieved_data->end_date =='')
+	// 	{
+	// 		if($retrieved_data->amgt_charge_period=='5')
+	// 		{ $row[12]= 'N/A';} else { $row[12]= 'N/A';}
+	// 	}else{
+	// 		if($retrieved_data->amgt_charge_period=='5')
+	// 		{
+	// 			$row[12]= 'N/A';
+	// 		}else{
+	// 			$row[12]= esc_html(date(MJ_amgt_date_formate(),strtotime($retrieved_data->end_date)));
+	// 		}
+	// 	}
+	// 	$row[13].='	<div class="amgt-user-dropdown">
+	// 					<ul class="" style="margin-bottom: 0px !important;">
+	// 						<li class="">
+	// 							<a class="" href="#" data-bs-toggle="dropdown" aria-expanded="false">
+	// 								<img src="'.AMS_PLUGIN_URL.'/assets/images/listpage_icon/More.png" >
+	// 							</a>
+	// 							<ul class="dropdown-menu heder-dropdown-menu action_dropdawn" aria-labelledby="dropdownMenuLink">';
+									
+	// 								if($obj_apartment->role=='member' || $obj_apartment->role=='accountant')
+	// 								{
+	// 									if($due_amount>'0')
+	// 									{
+											
+	// 										$row[13].='<li class="float_left_width_100">
+	// 											<a href="#"  class="show-payment-popup float_left_width_100" invoice_id="'.esc_attr($retrieved_data->id).'" member_id="'.esc_attr($member_id).'" view_type="payment" due_amount="'.round($due_amount).'">
+	// 											<i class="fa fa-plus-square-o"></i> '.esc_html_e('Pay','apartment_mgt').'
+	// 											</a>
+	// 										</li>';
+											
+	// 									}
+	// 								}
+	// 								if(!empty($retrieved_data->paid_amount))
+	// 								{
+	// 									if($invoice_length != '9')
+	// 									{ 
+											
+	// 										$row[13].='<li class="float_left_width_100">
+	// 											<a href="?page=payment_receipt&print=print&invoice_id='.esc_attr($retrieved_data->id).'&member_id='.esc_attr($retrieved_data->member_id).'&invoice_type=payment_receipt" class="float_left_width_100">
+	// 											<i class="fa fa-print"></i> '.esc_html_e('Print Payment Receipt','apartment_mgt').'
+	// 											</a>
+	// 										</li>';
+											
+	// 									}
+	// 								}
+									
+	// 								$row[13].='<li class="float_left_width_100 border_bottom_item">
+	// 									<a href="?apartment-dashboard=user&page=accounts&tab=view_invoice&idtest='.esc_attr($retrieved_data->id).'&invoice_type=invoice" class="float_left_width_100">
+	// 										<i class="fa fa-eye"></i> '.esc_html_e('View Invoice', 'apartment_mgt').'
+	// 									</a>
+	// 								</li>
+	// 							</ul>
+	// 						</li>
+	// 					</ul>
+	// 				</div>';
+	
+	
+	// 	$invoice_data['aaData'][] = $row;
+	// 	$i++; 
+	// }
+	
+	$invoice_data['aaData'][] = $row;
+    $invoice_data['iTotalRecords'] = $totalRow[0]->count;
+    $invoice_data['iTotalDisplayRecords'] = $totalRow[0]->count;
+	// $invoice_data['iTotalRecords'] = $dataTableData;
+    echo json_encode($invoice_data);
+    ;
+    die;
+}

@@ -1,0 +1,65 @@
+<?php
+require_once("../conf.php");
+?>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>PHP Autocomplete - Notes & Gotchas</title>
+</head>
+<body>
+
+<h2>PHP Autocomplete - Notes & Gotchas</h2>
+<a href="http://phpautocomplete.com/download/"><img src="http://phpautocomplete.com/wp-content/uploads/sites/3/2014/03/downloadphpautocomplete-orange.png"></a>
+
+<ul>
+    <li>Select2 can attach to either hidden input element or text input. If it's a select, Select2 essentially transforms SELECT element into <b>combination of TEXT INPUT and UL tags</b>.
+        Using browser developer tool, view it's source.</li>
+    <ul>
+        <li>
+            Sample:
+<xmp>
+    <div class="select2-drop select2-display-none select2-with-searchbox select2-drop-active" style="left: 68px; width: 300px; top: 1251.5px; bottom: auto; display: none;">
+        <div class="select2-search">
+            <input type="text" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" class="select2-input select2-focused" maxlength="9999">
+        </div>
+        <ul class="select2-results"></ul>
+    </div>
+</xmp>
+            The implication is that it cannot use SELECT related jQuery method. For example to empty the selection
+            <br />
+            instead of
+            <pre>$("#state").val();</pre> use
+            <pre>$("#state").select2("val", null);</pre>
+        </li>
+    </ul>
+</ul>
+<ul>
+   <li><b>Select2 initSelection function</b></li>
+   <ul>
+       <li>Notice that in order to set/get value using "val" you must define the initSelection function in the options,
+            so that Select2 knows how to transform the id of the object you pass in val() to the full object to render selection.
+            If you are attaching to a select element, this function is already provided for you. initSelect essentially does id->object mapping.
+            Ref: http://ivaynberg.github.io/select2/index.html. initSelection will only be called when there is initial input to be processed.</li>
+
+        <li>'initSelection' is not allowed for Select2 when attached to a SELECT element. </li>
+
+        <li>The 2nd way to set the value is to directly set the "value" attribute in INPUT element.</li>
+    </ul>
+
+    <li>Select2 uses jQuery's $.ajax function to execute the remote call by default. An alternative transport function can be specified in the ajax settings,
+        or an entirely custom implementation can be built by providing a custom query function instead of using the ajax helper.    </li>
+
+    <li>Tags are the simplest form of data where the id is also the text.</li>
+    <li>It is recommended to use HIDDEN INPUT whenever possible because HIDDEN INPUT is more versatile such as setting a dynamic value.</li>
+</ul>
+</div>
+
+
+
+<div id="bottom" style="position:fixed;bottom: 0;width:98%;text-align: right">
+    <a href="http://phpautocomplete.com">phpautocomplete.com</a> &copy; All rights reserved
+</div>
+
+</body>
+</html>

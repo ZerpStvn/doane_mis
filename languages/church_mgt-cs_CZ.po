@@ -1,0 +1,5495 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Church Management System\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-20 13:44+0000\n"
+"PO-Revision-Date: 2023-10-11 11:32+0000\n"
+"Last-Translator: \n"
+"Language-Team: Czech\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=3; plural=( n == 1 ) ? 0 : ( n >= 2 && n <= 4 ) ? 1 : "
+"2;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.1; wp-5.9.3\n"
+"X-Domain: church_mgt"
+
+#: admin/access_right/Management.php:1305
+msgid " Access Right"
+msgstr " Přistupová práva"
+
+#: template/venue.php:363 admin/venue/index.php:436
+msgid " Days"
+msgstr " Dny"
+
+#: template/venue.php:362 admin/venue/index.php:435
+msgid " Seats"
+msgstr " Sedadla"
+
+#: admin/sermon/add_sermon.php:65
+msgid " Sermon Information"
+msgstr " Informace o kázání"
+
+#: admin/spiritual-gift/add_gift.php:97
+msgid " Spiritual Gift Information"
+msgstr " Informace o duchovních dárcích"
+
+#: translation_string.php:174
+msgid " To "
+msgstr " Na"
+
+#: admin/message/view_message.php:132 admin/message/view_message.php:135
+#: template/message/view_message.php:138 template/message/view_message.php:141
+msgid " || "
+msgstr " ||"
+
+#: admin/activity/add_activity.php:554
+msgid "&nbsp;Fri"
+msgstr "pá"
+
+#: admin/activity/add_activity.php:550
+msgid "&nbsp;Mon"
+msgstr "Po"
+
+#: admin/activity/add_activity.php:555
+msgid "&nbsp;Sat"
+msgstr "sobota"
+
+#: admin/activity/add_activity.php:556
+msgid "&nbsp;Sun"
+msgstr "slunce"
+
+#: admin/activity/add_activity.php:553
+msgid "&nbsp;Thu"
+msgstr "Čtvrtek"
+
+#: admin/activity/add_activity.php:551
+msgid "&nbsp;Tue"
+msgstr "út"
+
+#: admin/activity/add_activity.php:552
+#, fuzzy
+#| msgid "&nbsp;Wen"
+msgid "&nbsp;Wed"
+msgstr "Wen"
+
+#: template/pledges.php:312 template/view_member.php:969
+#: admin/member/view_member.php:933 admin/pledges/index.php:365
+msgid "("
+msgstr "("
+
+#: translation_string.php:193
+msgid "(Date: "
+msgstr "(Datum:"
+
+#: translation_string.php:192
+msgid "(Day: "
+msgstr "(Den:"
+
+#: translation_string.php:7
+msgid "(filtered from _MAX_ total entries)"
+msgstr "(filtrováno z celkového počtu _MAX_ záznamů)"
+
+#: translation_string.php:167 template/pledges.php:312 template/pledges.php:317
+#: template/view_member.php:969 template/view_member.php:974
+#: admin/member/view_member.php:933 admin/member/view_member.php:938
+#: admin/pledges/index.php:365 admin/pledges/index.php:370
+msgid "-Time)"
+msgstr "-Čas)"
+
+#: template/pledges.php:312 template/pledges.php:459
+#: template/view_member.php:969 admin/member/view_member.php:933
+#: admin/pledges/add_pledges.php:431 admin/pledges/index.php:365
+msgid "1 Time"
+msgstr "1 krát"
+
+#: admin/general-settings.php:257
+msgid "12/31/2022"
+msgstr "31. 12. 2022"
+
+#: admin/general-settings.php:255
+msgid "2022-12-12"
+msgstr "2022-12-12"
+
+#: admin/general-settings.php:259
+msgid "31/12/2022"
+msgstr "31/12/2022"
+
+#: translation_string.php:17
+msgid ": activate to sort column ascending"
+msgstr ": aktivujte pro řazení sloupců vzestupně"
+
+#: translation_string.php:18
+msgid ": activate to sort column descending"
+msgstr ": aktivujte pro řazení sloupců sestupně"
+
+#: translation_string.php:119
+msgid "[Max-Limit:"
+msgstr "[Max-Limit:"
+
+#: admin_template.php:857 admin_template.php:924 class/church-management.php:35
+#: template/attendance.php:543 template/attendance.php:609
+#: template/attendance.php:621 template/attendance.php:1031
+#: template/attendance.php:1087 template/attendance.php:1097
+#: admin/attendance/index.php:568 admin/attendance/index.php:640
+#: admin/attendance/index.php:652 admin/attendance/ministry-attendence.php:391
+#: admin/attendance/ministry-attendence.php:454
+#: admin/attendance/ministry-attendence.php:464
+#: admin/report/attendance_report.php:115
+#: admin/report/attendance_report.php:256 admin/report/download_report.php:11
+#: admin/report/Untitled-3.php:32 admin/report/Untitled-3.php:98
+#: admin/report/Untitled-3.php:215 admin/report/Untitled-3.php:259
+msgid "Absent"
+msgstr "Chybí"
+
+#: admin/admin.php:104 admin/admin.php:167
+msgid "Access Rights"
+msgstr "Přístupová práva"
+
+#: admin/access_right/Accountant.php:1247
+#: admin/access_right/Family_member.php:1198 admin/access_right/Member.php:1309
+msgid "Account"
+msgstr "Účet"
+
+#: template/account.php:298
+msgid "Account Settings "
+msgstr "Nastavení účtu"
+
+#: admin_template.php:701 admin/admin.php:72 admin/admin.php:151
+#: admin/access_right/Accountant.php:842
+#: admin/access_right/Family_member.php:838 admin/access_right/index.php:65
+#: admin/access_right/Management.php:354 admin/access_right/Member.php:902
+msgid "Accountant"
+msgstr "Účetní"
+
+#: translation_string.php:59
+msgid "accountant"
+msgstr "účetní"
+
+#: admin/access_right/Accountant.php:238
+msgid "Accountant Access Right"
+msgstr "Účetní přístupové právo"
+
+#: template/accountant.php:111 template/accountant.php:122
+#: template/accountant.php:149 admin/accountant/index.php:270
+#: admin/accountant/index.php:282 admin/accountant/index.php:312
+msgid "Accountant Email"
+msgstr "E-mail účetního"
+
+#: template/accountant.php:110 template/accountant.php:121
+#: admin/accountant/index.php:269 admin/accountant/index.php:281
+msgid "Accountant Name"
+msgstr "Jméno účetní"
+
+#: template/accountant.php:115 template/accountant.php:126
+#: template/activity.php:101 template/activity.php:113
+#: template/check-in.php:217 template/check-in.php:227
+#: template/document.php:100 template/document.php:111 template/donate.php:406
+#: template/donate.php:417 template/familymember.php:367 template/group.php:194
+#: template/group.php:202 template/member.php:217 template/member.php:227
+#: template/ministry.php:189 template/ministry.php:197 template/notice.php:189
+#: template/notice.php:199 template/pastoral.php:234 template/pastoral.php:244
+#: template/payment.php:442 template/payment.php:454 template/payment.php:810
+#: template/payment.php:822 template/payment.php:1195 template/payment.php:1205
+#: template/pledges.php:226 template/pledges.php:238
+#: template/reservation.php:307 template/reservation.php:318
+#: template/sermon-list.php:222 template/sermon-list.php:231
+#: template/services.php:94 template/services.php:104 template/songs.php:212
+#: template/songs.php:220 template/spiritual-gift.php:438
+#: template/spiritual-gift.php:447 template/spiritual-gift.php:1137
+#: template/spiritual-gift.php:1148 template/venue.php:292
+#: template/venue.php:303 template/view_member.php:501
+#: template/view_member.php:512 template/view_member.php:695
+#: template/view_member.php:705 template/view_member.php:886
+#: template/view_member.php:897 admin/accountant/index.php:274
+#: admin/accountant/index.php:286 admin/activity/index.php:345
+#: admin/activity/index.php:358 admin/check-in/index.php:308
+#: admin/check-in/index.php:319 admin/document/index.php:253
+#: admin/document/index.php:265 admin/family/index.php:377
+#: admin/family/index.php:390 admin/group/index.php:302
+#: admin/group/index.php:311 admin/member/index.php:621
+#: admin/member/index.php:634 admin/member/view_member.php:487
+#: admin/member/view_member.php:498 admin/member/view_member.php:671
+#: admin/member/view_member.php:681 admin/member/view_member.php:850
+#: admin/member/view_member.php:861 admin/ministry/index.php:294
+#: admin/ministry/index.php:303 admin/notice/index.php:317
+#: admin/notice/index.php:328 admin/pastoral/index.php:242
+#: admin/pastoral/index.php:253 admin/payment/expense-list.php:63
+#: admin/payment/expense-list.php:74 admin/payment/income_list.php:80
+#: admin/payment/income_list.php:93 admin/payment/index.php:400
+#: admin/payment/index.php:413 admin/pledges/index.php:277
+#: admin/pledges/index.php:290 admin/sermon/index.php:255
+#: admin/sermon/index.php:265 admin/service/index.php:306
+#: admin/service/index.php:317 admin/songs/index.php:252
+#: admin/songs/index.php:261 admin/spiritual-gift/index.php:367
+#: admin/spiritual-gift/index.php:377
+#: admin/spiritual-gift/sell_gift_list.php:75
+#: admin/spiritual-gift/sell_gift_list.php:87 admin/transactions/index.php:143
+#: admin/transactions/index.php:152 admin/venue/index.php:361
+#: admin/venue/index.php:373 admin/venue/reservation-list.php:131
+#: admin/venue/reservation-list.php:143
+msgid "Action"
+msgstr "Akce"
+
+#: template/member.php:269 admin/member/index.php:677
+msgid "Active"
+msgstr "Aktivní"
+
+#: admin_template.php:1157
+msgid "Activities"
+msgstr "Činnosti"
+
+#: admin_template.php:871 admin_template.php:1056 admin_template.php:1076
+#: admin/admin.php:44 admin/admin.php:137 class/church-management.php:35
+#: template/attendance.php:530 admin/access_right/Accountant.php:482
+#: admin/access_right/Family_member.php:523
+#: admin/access_right/Management.php:628 admin/access_right/Member.php:542
+#: admin/attendance/index.php:555 admin/report/activity_reoprt.php:20
+#: admin/report/activity_reoprt.php:39 admin/report/attendance_report.php:131
+#: admin/report/attendance_report.php:275 admin/report/download_report.php:25
+#: admin/report/Untitled-3.php:47 admin/report/Untitled-3.php:113
+#: admin/report/Untitled-3.php:230 admin/report/Untitled-3.php:274
+msgid "Activity"
+msgstr "Aktivita"
+
+#: admin_template.php:857
+msgid "activity"
+msgstr "aktivita"
+
+#: template/attendance.php:107 admin/attendance/index.php:142
+#: admin/report/attendance_report.php:69
+msgid "Activity Attendance"
+msgstr "Docházka na činnost"
+
+#: template/attendance.php:100 admin/attendance/index.php:139
+msgid "Activity Attendance List"
+msgstr "Prezenční listina aktivity"
+
+#: admin_template.php:849 admin_template.php:865
+msgid "Activity Attendance Report"
+msgstr "Zpráva o docházce na činnost"
+
+#: admin_template.php:1173 template/activity.php:95 template/activity.php:174
+#: admin/activity/add_activity.php:368 admin/activity/index.php:339
+#: admin/activity/index.php:420 admin/mail-tempate/index.php:668
+msgid "Activity Category"
+msgstr "Kategorie aktivity"
+
+#: translation_string.php:27
+msgid "Activity Category Name"
+msgstr "Název kategorie aktivity"
+
+#: translation_string.php:2
+msgid "Activity Details"
+msgstr "Podrobnosti aktivity"
+
+#: template/activity.php:110 admin/activity/add_activity.php:453
+#: admin/activity/index.php:355 admin/mail-tempate/index.php:672
+msgid "Activity End Date"
+msgstr "Datum ukončení činnosti"
+
+#: admin/mail-tempate/index.php:674
+msgid "Activity End Time"
+msgstr "Čas ukončení aktivity"
+
+#: admin/activity/add_activity.php:483
+msgid "Activity End Time*"
+msgstr "Čas ukončení aktivity*"
+
+#: admin/activity/add_activity.php:362
+msgid "Activity Information"
+msgstr "Informace o činnosti"
+
+#: admin_template.php:1172 template/activity.php:107
+#: template/attendance.php:271 template/attendance.php:280
+#: template/attendance.php:788 template/attendance.php:797
+#: template/view_member.php:1195 template/view_member.php:1204
+#: template/view_member.php:1277 admin/activity/index.php:352
+#: admin/attendance/index.php:305 admin/attendance/index.php:314
+#: admin/attendance/ministry-attendence.php:178
+#: admin/attendance/ministry-attendence.php:187
+#: admin/attendance/ministry-attendence.php:265
+#: admin/member/view_member.php:1145 admin/member/view_member.php:1154
+#: admin/member/view_member.php:1226
+msgid "Activity Name"
+msgstr "Název aktivity"
+
+#: admin/mail-tempate/index.php:678
+msgid "Activity Page Link"
+msgstr "Odkaz na stránku aktivity"
+
+#: admin/mail-tempate/index.php:676
+msgid "Activity Record End Time"
+msgstr "Čas ukončení záznamu aktivity"
+
+#: admin/mail-tempate/index.php:675
+msgid "Activity Record Start Time"
+msgstr "Čas zahájení záznamu aktivity"
+
+#: admin/mail-tempate/index.php:670
+msgid "Activity Reoccurence"
+msgstr "Opakovaný výskyt aktivity"
+
+#: admin_template.php:1044 admin/report/index.php:78
+msgid "Activity Report"
+msgstr "Zpráva o činnosti"
+
+#: admin_template.php:1066 admin/report/activity_reoprt.php:26
+msgid "Activity Report By Month"
+msgstr "Zpráva o činnosti podle měsíce"
+
+#: translation_string.php:301
+msgid "Activity Reports"
+msgstr "Zprávy o činnosti"
+
+#: template/activity.php:109 admin/activity/add_activity.php:444
+#: admin/activity/index.php:354 admin/mail-tempate/index.php:671
+msgid "Activity Start Date"
+msgstr "Datum zahájení činnosti"
+
+#: admin/mail-tempate/index.php:673
+msgid "Activity Start Time"
+msgstr "Čas zahájení činnosti"
+
+#: admin/activity/add_activity.php:476
+msgid "Activity Start Time*"
+msgstr "Čas zahájení aktivity*"
+
+#: template/activity.php:96 template/activity.php:176
+#: admin/activity/add_activity.php:399 admin/activity/index.php:340
+#: admin/activity/index.php:422 admin/mail-tempate/index.php:667
+#: admin/report/download_report.php:129
+msgid "Activity Title"
+msgstr "Název aktivity"
+
+#: admin/mail-tempate/index.php:669
+msgid "Activity Venue"
+msgstr "Místo konání"
+
+#: admin/pastoral/add_pastoral.php:590 admin/pastoral/add_pastoral.php:623
+#: admin/payment/add_income.php:657 admin/payment/add_income.php:690
+#: admin/payment/add_transaction.php:613 admin/payment/add_transaction.php:646
+#: admin/pledges/add_pledges.php:630 admin/pledges/add_pledges.php:663
+msgid "ADD"
+msgstr "PŘIDAT"
+
+#: template/group.php:332 admin/access_right/Accountant.php:246
+#: admin/access_right/Family_member.php:239
+#: admin/access_right/Management.php:253 admin/access_right/Member.php:258
+#: admin/activity/add_activity.php:700
+msgid "Add"
+msgstr "Přidat"
+
+#: admin/accountant/add_accountant.php:252
+msgid "Add Accountant"
+msgstr "Přidat účetní"
+
+#: translation_string.php:109 translation_string.php:271
+#: admin/activity/add_activity.php:621
+msgid "Add Activity"
+msgstr "Přidat aktivitu"
+
+#: translation_string.php:26
+msgid "Add Activity Category"
+msgstr "Přidat kategorii aktivity"
+
+#: admin/mail-tempate/index.php:638 admin/mail-tempate/index.php:659
+msgid "Add Activity Template"
+msgstr "Přidat šablonu aktivity"
+
+#: translation_string.php:120 translation_string.php:281
+#: admin/document/add_document.php:106
+msgid "Add Document"
+msgstr "Přidat dokument"
+
+#: admin/mail-tempate/index.php:1181 admin/mail-tempate/index.php:1202
+#: admin/mail-tempate/index.php:1240 admin/mail-tempate/index.php:1261
+msgid "Add Donation Template"
+msgstr "Přidat darovací šablonu"
+
+#: translation_string.php:55
+msgid "Add Donation Type"
+msgstr "Přidat typ daru"
+
+#: translation_string.php:33
+msgid "Add Equipment"
+msgstr "Přidat vybavení"
+
+#: template/payment.php:400 admin/payment/index.php:323
+msgid "Add Expense"
+msgstr "Přidat náklady"
+
+#: template/familymember.php:1159 admin/family/add_family.php:312
+msgid "Add Family Member"
+msgstr "Přidat člena rodiny"
+
+#: admin/activity/add_activity.php:613 admin/activity/add_activity.php:734
+#: admin/group/add_group.php:78 admin/member/add_member.php:570
+#: admin/pastoral/add_pastoral.php:455 admin/pastoral/add_pastoral.php:467
+#: admin/payment/add_income.php:527 admin/payment/add_income.php:536
+#: admin/payment/add_transaction.php:481 admin/payment/add_transaction.php:490
+#: admin/pledges/add_pledges.php:495 admin/pledges/add_pledges.php:505
+msgid "Add Group"
+msgstr "Přidat skupinu"
+
+#: translation_string.php:21
+msgid "Add Group Member"
+msgstr "Přidat člena skupiny"
+
+#: template/payment.php:369 admin/payment/index.php:309
+msgid "Add Income"
+msgstr "Přidat příjem"
+
+#: admin/mail-tempate/index.php:1297 admin/mail-tempate/index.php:1318
+msgid "Add Income Template"
+msgstr "Přidat šablonu příjmu"
+
+#: admin/member/add_member.php:512 admin/pastoral/add_pastoral.php:374
+#: admin/pastoral/add_pastoral.php:403 admin/pastoral/add_pastoral.php:449
+#: admin/pastoral/add_pastoral.php:463 admin/payment/add_income.php:368
+#: admin/payment/add_income.php:525 admin/payment/add_income.php:532
+#: admin/payment/add_transaction.php:384 admin/payment/add_transaction.php:479
+#: admin/payment/add_transaction.php:486 admin/pledges/add_pledges.php:398
+#: admin/pledges/add_pledges.php:493 admin/pledges/add_pledges.php:501
+msgid "Add Member"
+msgstr "Přidat člena"
+
+#: translation_string.php:20
+msgid "Add Members"
+msgstr "Přidat členy"
+
+#: translation_string.php:251
+msgid "Add Message"
+msgstr "Přidat zprávu"
+
+#: translation_string.php:214
+msgid "add Message"
+msgstr "přidat zprávu"
+
+#: admin/member/add_member.php:525 admin/ministry/add_ministry.php:81
+#: admin/pastoral/add_pastoral.php:452 admin/pastoral/add_pastoral.php:465
+#: admin/payment/add_income.php:526 admin/payment/add_income.php:534
+#: admin/payment/add_transaction.php:480 admin/payment/add_transaction.php:488
+#: admin/pledges/add_pledges.php:494 admin/pledges/add_pledges.php:503
+msgid "Add Ministry"
+msgstr "Přidat ministerstvo"
+
+#: translation_string.php:77
+msgid "Add Ministry Member"
+msgstr "Přidat člena ministerstva"
+
+#: template/notice.php:415 admin/notice/add-notice.php:86
+#: admin/notice/index.php:251
+msgid "Add Notice"
+msgstr "Přidat upozornění"
+
+#: admin/mail-tempate/index.php:1473
+msgid "Add Notice Admin Template"
+msgstr "Přidat šablonu pro správu oznámení"
+
+#: admin/mail-tempate/index.php:534
+msgid "Add Notice Email Template"
+msgstr "Přidat šablonu e-mailu s upozorněním"
+
+#: admin/mail-tempate/index.php:511 admin/mail-tempate/index.php:1494
+msgid "Add Notice Template"
+msgstr "Přidat šablonu oznámení"
+
+#: template/payment.php:715 template/songs.php:386 template/venue.php:538
+#: admin/activity/add_activity.php:390 admin/payment/add_transaction.php:414
+#: admin/service/add_service.php:159 admin/songs/add_song.php:75
+#: admin/songs/add_song.php:155 admin/venue/add_reservation.php:363
+#: admin/venue/add_venue.php:123 admin/venue/add_venue.php:125
+msgid "Add Or Remove"
+msgstr "Přidat nebo odebrat"
+
+#: admin/mail-tempate/index.php:355
+msgid "Add Other User in System Template"
+msgstr "Přidat dalšího uživatele do šablony systému"
+
+#: admin/mail-tempate/index.php:330 admin/mail-tempate/index.php:333
+msgid "Add Other User in system Template"
+msgstr "Přidat dalšího uživatele do šablony systému"
+
+#: translation_string.php:107 translation_string.php:275
+#: template/pastoral.php:482 admin/pastoral/add_pastoral.php:435
+msgid "Add Pastoral"
+msgstr "Přidejte pastorační"
+
+#: admin/mail-tempate/index.php:1413 admin/mail-tempate/index.php:1434
+msgid "Add Pastoral Template"
+msgstr "Přidat pastorační šablonu"
+
+#: translation_string.php:285 template/pledges.php:506
+#: admin/pledges/add_pledges.php:474
+msgid "Add Pledge"
+msgstr "Přidat závazek"
+
+#: translation_string.php:141
+msgid "Add Pledges"
+msgstr "Přidat sliby"
+
+#: admin/mail-tempate/index.php:944 admin/mail-tempate/index.php:966
+msgid "Add Pledges Template"
+msgstr "Přidat šablonu slibů"
+
+#: translation_string.php:117 translation_string.php:265
+#: template/reservation.php:618 admin/check-in/add_checkin.php:105
+#: admin/venue/add_reservation.php:286
+msgid "Add Reservation"
+msgstr "Přidat rezervaci"
+
+#: translation_string.php:279 admin/check-in/add_room.php:106
+#: admin/check-in/index.php:234
+msgid "Add Room"
+msgstr "Přidat místnost"
+
+#: translation_string.php:134 translation_string.php:291
+#: admin/spiritual-gift/index.php:295 admin/spiritual-gift/sell_gift.php:128
+msgid "Add Sell Gift"
+msgstr "Přidat prodat dárek"
+
+#: translation_string.php:283 admin/sermon/add_sermon.php:136
+#: admin/sermon/index.php:184
+msgid "Add Sermon"
+msgstr "Přidejte kázání"
+
+#: translation_string.php:129
+msgid "Add Sermon List"
+msgstr "Přidat seznam kázání"
+
+#: admin/mail-tempate/index.php:824 admin/mail-tempate/index.php:846
+msgid "Add Sermon Template"
+msgstr "Přidat šablonu kázání"
+
+#: translation_string.php:102 translation_string.php:273
+#: admin/service/add_service.php:250
+msgid "Add Service"
+msgstr "Přidat službu"
+
+#: admin/mail-tempate/index.php:573 admin/mail-tempate/index.php:594
+msgid "Add Service Template"
+msgstr "Přidat šablonu služby"
+
+#: translation_string.php:24
+msgid "Add Service Type"
+msgstr "Přidat typ služby"
+
+#: template/songs.php:434 admin/songs/add_song.php:120
+#: admin/songs/add_song.php:192
+msgid "Add Song"
+msgstr "Přidat skladbu"
+
+#: translation_string.php:43
+msgid "Add Song Category"
+msgstr "Přidat kategorii skladby"
+
+#: admin/mail-tempate/index.php:883 admin/mail-tempate/index.php:904
+msgid "Add Song Template"
+msgstr "Přidat šablonu písně"
+
+#: translation_string.php:289 template/spiritual-gift.php:336
+#: admin/spiritual-gift/add_gift.php:171 admin/spiritual-gift/index.php:263
+msgid "Add Spiritual Gift"
+msgstr "Přidejte duchovní dar"
+
+#: translation_string.php:198
+msgid "Add Spiritual Gifts"
+msgstr "Přidejte duchovní dary"
+
+#: translation_string.php:287 template/payment.php:342 template/payment.php:765
+#: admin/payment/add_transaction.php:464 admin/payment/index.php:295
+#: admin/transactions/add_transaction.php:93 admin/transactions/index.php:109
+msgid "Add Transaction"
+msgstr "Přidat transakci"
+
+#: admin/mail-tempate/index.php:1066 admin/mail-tempate/index.php:1087
+msgid "Add Transaction Template"
+msgstr "Přidat šablonu transakce"
+
+#: translation_string.php:263 translation_string.php:277
+#: admin/activity/add_activity.php:435 admin/activity/add_activity.php:637
+#: admin/venue/add_reservation.php:192 admin/venue/add_reservation.php:304
+#: admin/venue/add_venue.php:150
+msgid "Add Venue"
+msgstr "Přidat místo konání"
+
+#: template/account.php:428 template/accountant.php:337
+#: template/familymember.php:1010 template/view_member.php:295
+#: admin/accountant/add_accountant.php:115
+#: admin/accountant/view_accountant.php:121 admin/family/add_family.php:167
+#: admin/member/add_member.php:328 admin/member/view_member.php:288
+#: admin/pastoral/add_pastoral.php:644 admin/payment/add_income.php:711
+#: admin/payment/add_transaction.php:667 admin/pledges/add_pledges.php:684
+msgid "Address"
+msgstr "Adresa"
+
+#: template/accountant.php:334 template/familymember.php:698
+#: template/familymember.php:1002 admin/accountant/add_accountant.php:108
+#: admin/accountant/view_accountant.php:118 admin/family/add_family.php:159
+#: admin/family/view_family.php:117 admin/service/view_service.php:131
+msgid "Address Information"
+msgstr "Informace o adrese"
+
+#: translation_string.php:58
+msgid "administrator"
+msgstr "správce"
+
+#: admin/check-in/add_room.php:78
+msgid "Adults"
+msgstr "Dospělí"
+
+#: translation_string.php:217
+msgid "adults"
+msgstr "Dospělí"
+
+#: translation_string.php:228
+msgid "adults,children"
+msgstr "dospělí, děti"
+
+#: translation_string.php:226
+msgid "adults,families"
+msgstr "dospělí, rodiny"
+
+#: translation_string.php:224
+msgid "adults,families,children"
+msgstr "dospělí, rodiny, děti"
+
+#: translation_string.php:222
+msgid "adults,families,youth"
+msgstr "dospělí, rodiny, mládež"
+
+#: translation_string.php:221
+msgid "adults,families,youth,children"
+msgstr "dospělí, rodiny, mládež, děti"
+
+#: translation_string.php:227
+msgid "adults,youth"
+msgstr "dospělí, mládež"
+
+#: translation_string.php:223
+msgid "adults,youth,children"
+msgstr "dospělí, mládež, děti"
+
+#: admin/message/composemail.php:24 template/message/composemail.php:67
+msgid "All Accountants"
+msgstr "Všichni účetní"
+
+#: admin/activity/add_activity.php:462 admin/activity/add_activity.php:465
+msgid "All Day"
+msgstr "Celý den"
+
+#: template/attendance.php:433 admin/message/composemail.php:23
+#: template/message/composemail.php:66
+msgid "All Members"
+msgstr "Všichni členové"
+
+#: translation_string.php:162
+msgid "All rights reserved."
+msgstr "Všechna práva vyhrazena."
+
+#: translation_string.php:216 template/venue.php:140
+#: admin/activity/add_activity.php:21 admin/activity/add_activity.php:36
+#: admin/member/add_member.php:45 admin/member/add_member.php:60
+#: admin/message/view_message.php:166 admin/pastoral/add_pastoral.php:22
+#: admin/pastoral/add_pastoral.php:37 admin/payment/add_income.php:20
+#: admin/payment/add_income.php:35 admin/payment/add_transaction.php:23
+#: admin/payment/add_transaction.php:38 admin/pledges/add_pledges.php:32
+#: admin/pledges/add_pledges.php:46 admin/venue/add_reservation.php:20
+#: admin/venue/add_venue.php:21
+msgid "All Selected"
+msgstr "Všechny vybrané"
+
+#: template/venue.php:547 template/venue.php:560
+#: admin/activity/add_activity.php:711 admin/venue/add_reservation.php:374
+#: admin/venue/add_venue.php:138
+msgid "Allow multiple reservation in the same period"
+msgstr "Povolit vícenásobné rezervace ve stejném období"
+
+#: template/donate.php:404 template/donate.php:415 template/donate.php:491
+#: template/donate.php:713 template/payment.php:440 template/payment.php:452
+#: template/payment.php:533 template/payment.php:734 template/payment.php:808
+#: template/payment.php:820 template/payment.php:911 template/payment.php:1192
+#: template/payment.php:1202 template/payment.php:1277 template/pledges.php:223
+#: template/pledges.php:235 template/pledges.php:305 template/pledges.php:444
+#: template/view_member.php:498 template/view_member.php:509
+#: template/view_member.php:574 template/view_member.php:883
+#: template/view_member.php:894 template/view_member.php:963
+#: admin/member/view_member.php:484 admin/member/view_member.php:495
+#: admin/member/view_member.php:560 admin/member/view_member.php:847
+#: admin/member/view_member.php:858 admin/member/view_member.php:927
+#: admin/payment/add_transaction.php:433 admin/payment/expense-list.php:60
+#: admin/payment/expense-list.php:71 admin/payment/expense-list.php:149
+#: admin/payment/income_list.php:78 admin/payment/income_list.php:91
+#: admin/payment/income_list.php:184 admin/payment/index.php:398
+#: admin/payment/index.php:411 admin/payment/index.php:494
+#: admin/pledges/add_pledges.php:415 admin/pledges/index.php:274
+#: admin/pledges/index.php:287 admin/pledges/index.php:358
+#: admin/report/download_report.php:192 admin/report/expense_report.php:319
+#: admin/report/expense_report.php:328 admin/report/expense_report.php:403
+#: admin/report/income_report.php:324 admin/report/income_report.php:335
+#: admin/report/income_report.php:425 admin/report/payment_data.php:134
+#: admin/report/payment_data.php:143 admin/report/payment_data.php:215
+#: admin/transactions/add_transaction.php:71 admin/transactions/index.php:141
+#: admin/transactions/index.php:150
+msgid "Amount"
+msgstr "Množství"
+
+#: template/reservation.php:306 template/reservation.php:317
+#: template/reservation.php:388 template/reservation.php:567
+#: admin/venue/add_reservation.php:248 admin/venue/reservation-list.php:130
+#: admin/venue/reservation-list.php:227
+msgid "Applicant"
+msgstr "Žadatel"
+
+#: admin/notice/index.php:420
+msgid "Approve"
+msgstr "Schválit"
+
+#: translation_string.php:243 admin/report/expense_report.php:89
+#: admin/report/income_expense_netprofit.php:88
+#: admin/report/income_report.php:89
+msgid "Apr"
+msgstr "dubna"
+
+#: admin/report/activity_reoprt.php:5 admin/report/payment_report.php:3
+msgid "April"
+msgstr "duben"
+
+#: translation_string.php:186
+msgid "Are you sure want to delete this record?"
+msgstr "Opravdu chcete tento záznam smazat?"
+
+#: template/familymember.php:462 template/payment.php:572
+#: template/payment.php:936 template/payment.php:1305
+#: template/reservation.php:410 template/spiritual-gift.php:513
+#: template/spiritual-gift.php:1252 template/venue.php:409
+#: admin/accountant/index.php:344 admin/activity/index.php:494
+#: admin/check-in/index.php:426 admin/document/index.php:375
+#: admin/family/index.php:477 admin/group/index.php:371
+#: admin/member/index.php:703 admin/message/view_message.php:107
+#: admin/ministry/index.php:355 admin/notice/index.php:438
+#: admin/pastoral/index.php:353 admin/payment/expense-list.php:181
+#: admin/payment/income_list.php:213 admin/payment/index.php:538
+#: admin/pledges/index.php:404 admin/sermon/index.php:362
+#: admin/service/index.php:425 admin/songs/index.php:350
+#: admin/spiritual-gift/index.php:446
+#: admin/spiritual-gift/sell_gift_list.php:194 admin/transactions/index.php:179
+#: admin/venue/index.php:484 admin/venue/reservation-list.php:253
+#: template/message/view_message.php:110
+msgid "Are you sure you want to delete this record?"
+msgstr "Opravdu chcete tento záznam smazat?"
+
+#: admin/admin.php:48 admin/admin.php:139 template/attendance.php:394
+#: admin/access_right/Accountant.php:527
+#: admin/access_right/Family_member.php:568
+#: admin/access_right/Management.php:492 admin/access_right/Member.php:587
+#: admin/attendance/index.php:429
+msgid "Attendance"
+msgstr "Účast"
+
+#: translation_string.php:170 template/view_member.php:1196
+#: template/view_member.php:1205 template/view_member.php:1282
+#: admin/member/view_member.php:1146 admin/member/view_member.php:1155
+#: admin/member/view_member.php:1232
+msgid "Attendance Date"
+msgstr "Datum účasti"
+
+#: template/view_member.php:149 admin/member/view_member.php:140
+msgid "Attendance List"
+msgstr "Prezenční listina"
+
+#: admin/report/download_report.php:75 admin/report/index.php:63
+msgid "Attendance Report"
+msgstr "Prezenční zpráva"
+
+#: translation_string.php:300
+msgid "Attendance Reports"
+msgstr "Prezenční zprávy"
+
+#: translation_string.php:260 admin/attendance/index.php:121
+msgid "Attendance saved successfully!"
+msgstr "Účast byla úspěšně uložena!"
+
+#: translation_string.php:169 template/attendance.php:273
+#: template/attendance.php:282 template/attendance.php:790
+#: template/attendance.php:799 template/view_member.php:1197
+#: template/view_member.php:1206 template/view_member.php:1283
+#: admin/attendance/index.php:307 admin/attendance/index.php:316
+#: admin/attendance/ministry-attendence.php:180
+#: admin/attendance/ministry-attendence.php:189
+#: admin/attendance/ministry-attendence.php:271
+#: admin/member/view_member.php:1147 admin/member/view_member.php:1156
+#: admin/member/view_member.php:1233
+msgid "Attendance Status"
+msgstr "Stav docházky"
+
+#: template/attendance.php:86
+msgid "Attendance successfully saved!"
+msgstr "Účast byla úspěšně uložena!"
+
+#: translation_string.php:168 template/view_member.php:1194
+#: template/view_member.php:1203 template/view_member.php:1266
+#: admin/member/view_member.php:1144 admin/member/view_member.php:1153
+#: admin/member/view_member.php:1215
+msgid "Attendance Type"
+msgstr "Typ docházky"
+
+#: admin/report/download_report.php:131
+msgid "Attendence Date"
+msgstr "Datum účasti"
+
+#: template/sermon-list.php:688 template/spiritual-gift.php:1035
+#: admin/sermon/add_sermon.php:98 admin/spiritual-gift/add_gift.php:137
+msgid "Audio"
+msgstr "Zvuk"
+
+#: translation_string.php:201
+msgid "audio"
+msgstr "Zvuk"
+
+#: translation_string.php:246 admin/report/expense_report.php:89
+#: admin/report/income_expense_netprofit.php:88
+#: admin/report/income_report.php:89
+msgid "Aug"
+msgstr "Aug"
+
+#: admin/report/activity_reoprt.php:9
+msgid "Auguest"
+msgstr "srpna"
+
+#: admin/report/payment_report.php:4
+msgid "August"
+msgstr "srpen"
+
+#: admin/general-settings.php:367
+msgid "Australian Dollar"
+msgstr "Australský dolar"
+
+#: template/check-in.php:300 admin/check-in/index.php:385
+msgid "Available"
+msgstr "K dispozici"
+
+#: translation_string.php:207
+msgid "Back to wp-admin"
+msgstr "Zpět na wp-admin"
+
+#: template/payment.php:546 template/payment.php:750
+#: admin/payment/add_transaction.php:449 admin/payment/index.php:507
+#: admin/transactions/add_transaction.php:87
+msgid "Bank Transfer"
+msgstr "Bankovní převod"
+
+#: translation_string.php:208
+msgid "bank_transfer"
+msgstr "bankovní převod"
+
+#: template/view_member.php:177 admin/member/add_member.php:405
+#: admin/member/view_member.php:167 admin/pastoral/add_pastoral.php:721
+#: admin/payment/add_income.php:788 admin/payment/add_transaction.php:744
+#: admin/pledges/add_pledges.php:761
+msgid "Baptist Date"
+msgstr "Baptistické datum"
+
+#: translation_string.php:45
+msgid "Bill To"
+msgstr "Bill To"
+
+#: translation_string.php:137
+msgid "Bill To :"
+msgstr "Fakturovat komu:"
+
+#: translation_string.php:78
+msgid "Bill To."
+msgstr "Bill To."
+
+#: admin_template.php:1483
+msgid "Birth Date"
+msgstr "Datum narození"
+
+#: admin_template.php:382
+msgid "Birthday Date"
+msgstr "Datum narozenin"
+
+#: admin_template.php:1470
+msgid "Birthday List"
+msgstr "Seznam narozenin"
+
+#: translation_string.php:81
+msgid "Book"
+msgstr "Rezervovat"
+
+#: admin/general-settings.php:369
+msgid "Brazilian Real"
+msgstr "Brazilský Real"
+
+#: template/familymember.php:996 admin/family/add_family.php:153
+msgid "Brother"
+msgstr "Bratr"
+
+#: translation_string.php:87
+msgid "Calendar"
+msgstr "Kalendář"
+
+#: template/news_letter.php:112 admin/news-letter/index.php:151
+msgid "Campaign"
+msgstr "Kampaň"
+
+#: template/news_letter.php:254 admin/news-letter/campaign.php:31
+msgid "Campaign list"
+msgstr "Seznam kampaní"
+
+#: template/news_letter.php:69 admin/news-letter/index.php:118
+msgid "Campaign Tests Not Sent!"
+msgstr "Testy kampaně nebyly odeslány!"
+
+#: template/news_letter.php:73 admin/news-letter/index.php:120
+msgid "Campaign Tests Sent!"
+msgstr "Testy kampaně odeslány!"
+
+#: admin/general-settings.php:371
+msgid "Canadian Dollar"
+msgstr "Kanadský dolar"
+
+#: template/check-in.php:215 template/check-in.php:225
+#: template/check-in.php:304 admin/check-in/add_room.php:54
+#: admin/check-in/index.php:306 admin/check-in/index.php:317
+#: admin/check-in/index.php:389
+msgid "Capacity"
+msgstr "Kapacita"
+
+#: template/venue.php:288 template/venue.php:299 template/venue.php:362
+#: template/venue.php:501 admin/activity/add_activity.php:663
+#: admin/venue/add_reservation.php:330 admin/venue/add_venue.php:86
+#: admin/venue/index.php:357 admin/venue/index.php:369
+#: admin/venue/index.php:435
+msgid "Capacity Seats"
+msgstr "Kapacita míst"
+
+#: template/payment.php:538 template/payment.php:748
+#: admin/payment/add_transaction.php:447 admin/payment/index.php:499
+#: admin/transactions/add_transaction.php:85
+msgid "Cash"
+msgstr "Hotovost"
+
+#: translation_string.php:210
+msgid "cash"
+msgstr "hotovost"
+
+#: translation_string.php:44
+msgid "Category Name"
+msgstr "Název Kategorie"
+
+#: template/payment.php:542 template/payment.php:749
+#: admin/payment/add_transaction.php:448 admin/payment/index.php:503
+#: admin/transactions/add_transaction.php:86
+msgid "Check"
+msgstr "Šek"
+
+#: translation_string.php:209
+msgid "check"
+msgstr "šek"
+
+#: admin/check-in/index.php:240
+msgid "Check In"
+msgstr "Check In"
+
+#: translation_string.php:38
+msgid "Check In Date"
+msgstr "Datum příjezdu"
+
+#: translation_string.php:39
+msgid "Check Out Date"
+msgstr "Zkontrolovat datum"
+
+#: admin/admin.php:56 admin/admin.php:143 admin/access_right/Accountant.php:662
+#: admin/access_right/Family_member.php:658
+#: admin/access_right/Management.php:763 admin/access_right/Member.php:722
+msgid "Check-In"
+msgstr "Odbavení"
+
+#: admin/mail-tempate/index.php:704 admin/mail-tempate/index.php:726
+msgid "Check-In church venue Template"
+msgstr "Šablona pro přihlášení do kostela"
+
+#: template/check-in.php:416 admin/check-in/add_checkin.php:88
+msgid "Check-in Date"
+msgstr "Datum příjezdu"
+
+#: admin/check-in/add_checkin.php:49
+msgid "Check-In Information"
+msgstr "Informace o odbavení"
+
+#: admin/mail-tempate/index.php:738
+msgid "check-in Page Link"
+msgstr "odkaz na přihlašovací stránku"
+
+#: admin/check-in/index.php:206
+msgid "Check-In successfully"
+msgstr "Přihlášení proběhlo úspěšně"
+
+#: translation_string.php:40
+msgid "Check-Out"
+msgstr "Překontrolovat"
+
+#: template/check-in.php:425
+msgid "Check-out Date"
+msgstr "Zkontrolovat datum"
+
+#: admin/mail-tempate/index.php:764 admin/mail-tempate/index.php:785
+msgid "Check-Out From Church Venue Template"
+msgstr "Check-out ze šablony místa konání kostela"
+
+#: admin/mail-tempate/index.php:797
+msgid "check-out Page Link"
+msgstr "Odkaz na stránku pokladny"
+
+#: template/check-in.php:105 admin/check-in/index.php:199
+#: admin/pledges/index.php:196 admin/transactions/index.php:84
+msgid "Check-out successfully"
+msgstr "Úspěšné odhlášení"
+
+#: admin/mail-tempate/index.php:734 admin/mail-tempate/index.php:793
+msgid "Cheked-in Date"
+msgstr "Datum přihlášení"
+
+#: admin/mail-tempate/index.php:735 admin/mail-tempate/index.php:794
+msgid "Cheked-out Date"
+msgstr "Datum odhlášení"
+
+#: admin/check-in/add_room.php:93
+msgid "Children"
+msgstr "Děti"
+
+#: translation_string.php:220
+msgid "children"
+msgstr "děti"
+
+#: admin/activity/add_activity.php:758 admin/group/add_group.php:43
+#: admin/ministry/add_ministry.php:47 admin/payment/add_income.php:901
+#: admin/payment/add_income.php:950 admin/payment/add_transaction.php:857
+#: admin/payment/add_transaction.php:907 admin/pledges/add_pledges.php:875
+#: admin/pledges/add_pledges.php:926
+msgid "Choose Image"
+msgstr "Vyberte Obrázek"
+
+#: template/familymember.php:1120 admin/accountant/add_accountant.php:217
+#: admin/family/add_family.php:277 admin/member/add_member.php:476
+msgid "Choose image"
+msgstr "Vyberte obrázek"
+
+#: admin/general-settings.php:141
+msgid "Church Address"
+msgstr "Adresa kostela"
+
+#: admin/general-settings.php:185
+msgid "Church Header Logo"
+msgstr "Logo záhlaví kostela"
+
+#: admin/admin.php:9 admin/admin.php:117
+msgid "Church Management"
+msgstr "Správa církve"
+
+#. Name of the plugin
+msgid "Church Management System"
+msgstr "Systém řízení církve"
+
+#. Description of the plugin
+msgid ""
+"Church Management System for wordpress plugin is ideal way to manage "
+"complete Church operation. It has different user roles like Member, "
+"Volunteer, Accountant and Admin users."
+msgstr ""
+"Church Management System for wordpress plugin je ideální způsob, jak "
+"spravovat kompletní církevní provoz. Má různé uživatelské role, jako jsou "
+"uživatelé Člen, Dobrovolník, Účetní a Správce."
+
+#: admin/general-settings.php:124 admin/mail-tempate/index.php:425
+#: admin/mail-tempate/index.php:484
+msgid "Church Name"
+msgstr "Jméno církve"
+
+#: template/account.php:440 template/accountant.php:325
+#: template/accountant.php:340 template/familymember.php:701
+#: template/familymember.php:1019 template/view_member.php:292
+#: template/view_member.php:1074 template/view_member.php:1117
+#: admin/accountant/add_accountant.php:123
+#: admin/accountant/view_accountant.php:110
+#: admin/accountant/view_accountant.php:124 admin/family/add_family.php:176
+#: admin/family/view_family.php:120 admin/member/add_member.php:336
+#: admin/member/view_member.php:285 admin/member/view_member.php:1025
+#: admin/member/view_member.php:1036 admin/member/view_member.php:1079
+#: admin/pastoral/add_pastoral.php:652 admin/payment/add_income.php:719
+#: admin/payment/add_transaction.php:675 admin/pledges/add_pledges.php:692
+#: admin/service/view_service.php:134
+msgid "City"
+msgstr "Město"
+
+#: admin/report/attendance_report.php:115
+#: admin/report/attendance_report.php:256 admin/report/download_report.php:11
+#: admin/report/Untitled-3.php:32 admin/report/Untitled-3.php:98
+#: admin/report/Untitled-3.php:215 admin/report/Untitled-3.php:259
+msgid "Class"
+msgstr "Třída"
+
+#: admin/member/add_member.php:560 admin/member/add_member.php:605
+#: admin/pledges/add_pledges.php:954
+msgid "Close"
+msgstr "Zavřít"
+
+#: template/donate.php:748 template/payment.php:757
+#: admin/payment/add_transaction.php:456
+msgid "Comment"
+msgstr "Komentář"
+
+#: admin/message/index.php:91 admin/message/index.php:106
+msgid "Compose"
+msgstr "Komponovat"
+
+#: template/account.php:354
+msgid "Confirm Password"
+msgstr "Potvrďte heslo"
+
+#: template/accountant.php:347 template/familymember.php:722
+#: template/familymember.php:1043 template/view_member.php:252
+#: admin/accountant/add_accountant.php:129
+#: admin/accountant/view_accountant.php:131 admin/family/add_family.php:200
+#: admin/family/view_family.php:141 admin/member/add_member.php:320
+#: admin/member/view_member.php:243 admin/pastoral/add_pastoral.php:636
+#: admin/payment/add_income.php:703 admin/payment/add_transaction.php:659
+#: admin/pledges/add_pledges.php:676 admin/service/view_service.php:147
+msgid "Contact Information"
+msgstr "Kontaktní informace"
+
+#: translation_string.php:161
+msgid "Copyright"
+msgstr "autorská práva"
+
+#: admin/general-settings.php:155
+msgid "Country"
+msgstr "Země"
+
+#: template/account.php:456 template/account.php:484
+#: template/familymember.php:1062 admin/accountant/add_accountant.php:138
+#: admin/family/add_family.php:219 admin/member/add_member.php:346
+#: admin/pastoral/add_pastoral.php:662 admin/payment/add_income.php:729
+#: admin/payment/add_transaction.php:685 admin/pledges/add_pledges.php:702
+msgid "Country Code"
+msgstr "Kód země"
+
+#: template/payment.php:1485 admin/payment/add_expense.php:171
+msgid "Create Expense Entry"
+msgstr "Vytvořit položku výdajů"
+
+#: template/payment.php:1154 admin/payment/add_income.php:493
+msgid "Create Income Entry"
+msgstr "Vytvořte položku příjmu"
+
+#: translation_string.php:262 admin/report/expense_report.php:260
+#: admin/report/income_report.php:260
+msgid "CSV"
+msgstr "CSV"
+
+#: template/account.php:338
+msgid "Current Password"
+msgstr "Aktuální heslo"
+
+#: admin/general-settings.php:373
+msgid "Czech Koruna"
+msgstr "Česká koruna"
+
+#: admin/activity/add_activity.php:534
+msgid "Daily"
+msgstr "Denně"
+
+#: admin/general-settings.php:375
+msgid "Danish Krone"
+msgstr "dánská koruna"
+
+#: admin/admin.php:17 admin/admin.php:123
+msgid "Dashboard"
+msgstr "Přístrojová deska"
+
+#: translation_string.php:160
+msgid "Dasinfomedia"
+msgstr "Dasinfomedia"
+
+#: admin/report/expense_report.php:9
+#: admin/report/income_expense_netprofit.php:8 admin/report/income_report.php:8
+#: admin/report/index.php:104
+msgid "Datatable"
+msgstr "Datová tabulka"
+
+#: admin/general-settings.php:458
+msgid "Datatable Header Settings"
+msgstr "Nastavení záhlaví datové tabulky"
+
+#: translation_string.php:185 template/attendance.php:272
+#: template/attendance.php:281 template/attendance.php:404
+#: template/attendance.php:531 template/attendance.php:789
+#: template/attendance.php:798 template/attendance.php:957
+#: template/attendance.php:1022 template/payment.php:809
+#: template/payment.php:821 template/payment.php:913 template/payment.php:1067
+#: template/payment.php:1194 template/payment.php:1204
+#: template/payment.php:1281 template/payment.php:1394
+#: template/spiritual-gift.php:1135 template/spiritual-gift.php:1146
+#: template/spiritual-gift.php:1219 template/spiritual-gift.php:1349
+#: admin/attendance/index.php:306 admin/attendance/index.php:315
+#: admin/attendance/index.php:439 admin/attendance/index.php:556
+#: admin/attendance/ministry-attendence.php:179
+#: admin/attendance/ministry-attendence.php:188
+#: admin/attendance/ministry-attendence.php:267
+#: admin/attendance/ministry-attendence.php:317
+#: admin/attendance/ministry-attendence.php:382 admin/message/inbox.php:83
+#: admin/message/inbox.php:179 admin/message/sendbox.php:59
+#: admin/message/sendbox.php:183 admin/payment/add_expense.php:75
+#: admin/payment/add_income.php:397 admin/payment/expense-list.php:62
+#: admin/payment/expense-list.php:73 admin/payment/expense-list.php:153
+#: admin/payment/income_list.php:79 admin/payment/income_list.php:92
+#: admin/payment/income_list.php:186 admin/report/expense_report.php:321
+#: admin/report/expense_report.php:330 admin/report/expense_report.php:407
+#: admin/report/income_report.php:325 admin/report/income_report.php:336
+#: admin/report/income_report.php:427 admin/spiritual-gift/sell_gift.php:89
+#: admin/spiritual-gift/sell_gift_list.php:73
+#: admin/spiritual-gift/sell_gift_list.php:85
+#: admin/spiritual-gift/sell_gift_list.php:159 template/message/inbox.php:60
+#: template/message/inbox.php:150 template/message/sendbox.php:56
+#: template/message/sendbox.php:178
+msgid "Date"
+msgstr "datum"
+
+#: translation_string.php:138 translation_string.php:183
+msgid "Date :"
+msgstr "Datum :"
+
+#: admin/general-settings.php:251
+msgid "Date Format"
+msgstr "Formát data"
+
+#: template/account.php:420 template/accountant.php:114
+#: template/accountant.php:125 template/accountant.php:156
+#: template/accountant.php:307 template/familymember.php:362
+#: template/familymember.php:405 template/familymember.php:514
+#: template/familymember.php:668 template/familymember.php:911
+#: template/view_member.php:173 template/view_member.php:1071
+#: template/view_member.php:1108 admin/accountant/add_accountant.php:102
+#: admin/accountant/index.php:273 admin/accountant/index.php:285
+#: admin/accountant/index.php:319 admin/accountant/view_accountant.php:92
+#: admin/family/add_family.php:110 admin/family/index.php:373
+#: admin/family/index.php:386 admin/family/index.php:428
+#: admin/family/view_family.php:87 admin/member/add_member.php:240
+#: admin/member/view_member.php:163 admin/member/view_member.php:1022
+#: admin/member/view_member.php:1033 admin/member/view_member.php:1070
+#: admin/pastoral/add_pastoral.php:545 admin/payment/add_income.php:612
+#: admin/payment/add_transaction.php:568 admin/pledges/add_pledges.php:585
+#: admin/service/view_service.php:101
+#, fuzzy
+#| msgid "Date of birth"
+msgid "Date of Birth"
+msgstr "Datum narození"
+
+#: translation_string.php:256 template/attendance.php:135
+#: template/attendance.php:662 admin/attendance/index.php:155
+#: admin/attendance/ministry-attendence.php:52
+#: admin/report/attendance_report.php:177
+#: admin/report/attendance_report.php:320 admin/report/expense_report.php:194
+#: admin/report/income_expense_netprofit.php:216
+#: admin/report/income_report.php:195 admin/report/payment_data.php:52
+msgid "Date Type"
+msgstr "Typ data"
+
+#: template/familymember.php:992 admin/family/add_family.php:149
+msgid "Daughter"
+msgstr "Dcera"
+
+#: translation_string.php:250 admin/report/expense_report.php:89
+#: admin/report/income_expense_netprofit.php:88
+#: admin/report/income_report.php:89
+msgid "Dec"
+msgstr "prosinec"
+
+#: admin/report/activity_reoprt.php:13 admin/report/payment_report.php:5
+msgid "December"
+msgstr "prosinec"
+
+#: admin/general-settings.php:261
+msgid "December 12, 2022"
+msgstr "12. prosince 2022"
+
+#: template/familymember.php:462 template/payment.php:573
+#: template/payment.php:936 template/payment.php:1305
+#: template/reservation.php:410 template/spiritual-gift.php:513
+#: template/spiritual-gift.php:1252 template/venue.php:410
+#: admin/access_right/Accountant.php:248
+#: admin/access_right/Family_member.php:241
+#: admin/access_right/Management.php:255 admin/access_right/Member.php:260
+#: admin/accountant/index.php:344 admin/activity/index.php:494
+#: admin/check-in/index.php:427 admin/document/index.php:376
+#: admin/family/index.php:477 admin/group/index.php:371
+#: admin/member/index.php:703 admin/message/view_message.php:107
+#: admin/message/view_message.php:143 admin/ministry/index.php:355
+#: admin/notice/index.php:438 admin/pastoral/index.php:353
+#: admin/payment/expense-list.php:181 admin/payment/income_list.php:213
+#: admin/payment/index.php:538 admin/pledges/index.php:405
+#: admin/sermon/index.php:362 admin/service/index.php:425
+#: admin/songs/index.php:351 admin/spiritual-gift/index.php:446
+#: admin/spiritual-gift/sell_gift_list.php:194 admin/transactions/index.php:180
+#: admin/venue/index.php:484 admin/venue/reservation-list.php:253
+#: template/message/view_message.php:110 template/message/view_message.php:150
+msgid "Delete"
+msgstr "Vymazat"
+
+#: translation_string.php:232 admin/accountant/index.php:371
+#: admin/activity/index.php:522 admin/check-in/index.php:454
+#: admin/document/index.php:404 admin/family/index.php:504
+#: admin/group/index.php:398 admin/member/index.php:729
+#: admin/ministry/index.php:382 admin/notice/index.php:467
+#: admin/pastoral/index.php:380 admin/payment/expense-list.php:210
+#: admin/payment/income_list.php:240 admin/payment/index.php:566
+#: admin/pledges/index.php:433 admin/sermon/index.php:390
+#: admin/service/index.php:454 admin/songs/index.php:380
+#: admin/spiritual-gift/index.php:473
+#: admin/spiritual-gift/sell_gift_list.php:224 admin/venue/index.php:511
+#: admin/venue/reservation-list.php:282
+msgid "Delete All"
+msgstr "Smazat všechny"
+
+#: template/check-in.php:216 template/check-in.php:226
+#: template/check-in.php:313 admin/check-in/add_room.php:72
+#: admin/check-in/index.php:307 admin/check-in/index.php:318
+#: admin/check-in/index.php:399
+msgid "Demographics"
+msgstr "Demografie"
+
+#: template/document.php:98 template/document.php:109 template/document.php:176
+#: template/pastoral.php:455 template/pastoral.php:472
+#: template/reservation.php:607 template/sermon-list.php:412
+#: template/sermon-list.php:471 template/sermon-list.php:536
+#: template/sermon-list.php:604 template/sermon-list.php:668
+#: template/songs.php:480 template/spiritual-gift.php:602
+#: template/spiritual-gift.php:661 template/spiritual-gift.php:716
+#: template/spiritual-gift.php:773 template/spiritual-gift.php:833
+#: template/spiritual-gift.php:1017 template/view_member.php:500
+#: template/view_member.php:511 template/view_member.php:583
+#: template/view_member.php:590 template/view_member.php:694
+#: template/view_member.php:704 template/view_member.php:771
+#: template/view_member.php:778 admin/document/add_document.php:98
+#: admin/document/index.php:251 admin/document/index.php:263
+#: admin/document/index.php:332 admin/member/view_member.php:486
+#: admin/member/view_member.php:497 admin/member/view_member.php:569
+#: admin/member/view_member.php:576 admin/member/view_member.php:670
+#: admin/member/view_member.php:680 admin/member/view_member.php:746
+#: admin/member/view_member.php:754 admin/pastoral/add_pastoral.php:426
+#: admin/sermon/add_sermon.php:80 admin/sermon/view_sermon.php:55
+#: admin/sermon/view_sermon.php:114 admin/sermon/view_sermon.php:177
+#: admin/sermon/view_sermon.php:244 admin/songs/add_song.php:91
+#: admin/songs/add_song.php:169 admin/songs/view_song.php:36
+#: admin/spiritual-gift/add_gift.php:120 admin/spiritual-gift/view_gift.php:48
+#: admin/spiritual-gift/view_gift.php:107
+#: admin/spiritual-gift/view_gift.php:164
+#: admin/spiritual-gift/view_gift.php:220
+#: admin/spiritual-gift/view_gift.php:278
+#: admin/spiritual-gift/view_gift.php:368 admin/venue/add_reservation.php:277
+msgid "Description"
+msgstr "Popis"
+
+#: admin_template.php:1312
+msgid "Description : "
+msgstr "Popis:"
+
+#: translation_string.php:28
+msgid "Details"
+msgstr "Podrobnosti"
+
+#: translation_string.php:35
+msgid "Details Room: "
+msgstr "Podrobnosti Místnost:"
+
+#: template/account.php:322
+msgid "Display Name"
+msgstr "Zobrazovaný název"
+
+#: translation_string.php:41
+msgid "Do not have any active bookings"
+msgstr "Nemáte žádné aktivní rezervace"
+
+#: translation_string.php:122 template/document.php:95
+#: template/document.php:106 template/document.php:168
+#: admin/document/index.php:248 admin/document/index.php:260
+#: admin/document/index.php:324
+msgid "Documant Name"
+msgstr "Název dokumentu"
+
+#: admin/admin.php:20 admin/admin.php:125 admin/access_right/Accountant.php:301
+#: admin/access_right/Family_member.php:342
+#: admin/access_right/Management.php:988 admin/access_right/Member.php:361
+#: admin/document/add_document.php:53
+msgid "Document"
+msgstr "Dokument"
+
+#: translation_string.php:123 template/document.php:96
+#: template/document.php:107 template/document.php:174
+#: admin/document/index.php:249 admin/document/index.php:261
+#: admin/document/index.php:330
+msgid "Document Created By"
+msgstr "Dokument vytvořil"
+
+#: translation_string.php:124 template/document.php:97
+#: template/document.php:108 template/document.php:175
+#: admin/document/index.php:250 admin/document/index.php:262
+#: admin/document/index.php:331
+msgid "Document Created Date"
+msgstr "Datum vytvoření dokumentu"
+
+#: translation_string.php:126
+msgid "Document Details"
+msgstr "Podrobnosti dokumentu"
+
+#: admin/document/add_document.php:38
+msgid "Document Information"
+msgstr "Informace o dokumentu"
+
+#: admin/document/add_document.php:46
+msgid "Document Name"
+msgstr "Název dokumentu"
+
+#: admin/setupform/index.php:64
+msgid "Domain"
+msgstr "Doména"
+
+#: admin/access_right/Accountant.php:1022
+#: admin/access_right/Family_member.php:1018 admin/access_right/Member.php:1082
+msgid "Donate"
+msgstr "Darovat"
+
+#: admin/mail-tempate/index.php:1210
+msgid "Donation Amount"
+msgstr "Částka daru"
+
+#: admin/mail-tempate/index.php:1211
+msgid "Donation Date"
+msgstr "Datum darování"
+
+#: translation_string.php:74
+msgid "Donation Details"
+msgstr "Podrobnosti o daru"
+
+#: admin_template.php:1327
+msgid "Donation List"
+msgstr "Seznam darů"
+
+#: translation_string.php:56
+msgid "Donation Name"
+msgstr "Název daru"
+
+#: template/donate.php:402 template/donate.php:413 template/donate.php:487
+#: template/donate.php:675 template/payment.php:438 template/payment.php:450
+#: template/payment.php:529 template/payment.php:693
+#: template/view_member.php:496 template/view_member.php:507
+#: template/view_member.php:569 admin/mail-tempate/index.php:1209
+#: admin/member/view_member.php:482 admin/member/view_member.php:493
+#: admin/member/view_member.php:555 admin/payment/add_transaction.php:392
+#: admin/payment/index.php:396 admin/payment/index.php:409
+#: admin/payment/index.php:490
+msgid "Donation Type"
+msgstr "Typ daru"
+
+#: translation_string.php:57
+msgid "Donation Type Name"
+msgstr "Název typu daru"
+
+#: translation_string.php:150 translation_string.php:215
+msgid "Download"
+msgstr "Stažení"
+
+#: translation_string.php:125
+msgid "Download File"
+msgstr "Stáhnout soubor"
+
+#: translation_string.php:255
+msgid "Download Report"
+msgstr "Stáhnout zprávu"
+
+#: admin/report/index.php:81
+msgid "Download Reports"
+msgstr "Stáhnout zprávy"
+
+#: admin/report/download_report.php:159 admin/report/download_report.php:222
+msgid "Download!"
+msgstr "Stažení!"
+
+#: translation_string.php:70 template/sermon-list.php:299
+#: template/sermon-list.php:406 template/sermon-list.php:465
+#: template/sermon-list.php:530 template/sermon-list.php:598
+#: template/sermon-list.php:721 admin/sermon/add_sermon.php:128
+#: admin/sermon/index.php:334 admin/sermon/view_sermon.php:49
+#: admin/sermon/view_sermon.php:108 admin/sermon/view_sermon.php:171
+#: admin/sermon/view_sermon.php:238
+msgid "Draft"
+msgstr "Návrh"
+
+#: template/familymember.php:455 template/pastoral.php:333
+#: template/payment.php:564 template/payment.php:930 template/payment.php:1299
+#: template/pledges.php:335 template/reservation.php:403
+#: template/sermon-list.php:314 template/songs.php:293
+#: template/spiritual-gift.php:497 template/spiritual-gift.php:1242
+#: template/venue.php:402 admin/access_right/Accountant.php:247
+#: admin/access_right/Family_member.php:240
+#: admin/access_right/Management.php:254 admin/access_right/Member.php:259
+#: admin/accountant/index.php:335 admin/activity/index.php:485
+#: admin/check-in/index.php:416 admin/document/index.php:363
+#: admin/family/index.php:468 admin/group/index.php:362
+#: admin/member/index.php:694 admin/ministry/index.php:346
+#: admin/notice/index.php:428 admin/pastoral/index.php:344
+#: admin/payment/expense-list.php:171 admin/payment/income_list.php:203
+#: admin/payment/index.php:529 admin/pledges/index.php:394
+#: admin/sermon/index.php:353 admin/service/index.php:416
+#: admin/songs/index.php:340 admin/spiritual-gift/index.php:436
+#: admin/spiritual-gift/sell_gift_list.php:182 admin/transactions/index.php:177
+#: admin/venue/index.php:475 admin/venue/reservation-list.php:243
+msgid "Edit"
+msgstr "Upravit"
+
+#: translation_string.php:96
+msgid "Edit Accountant"
+msgstr "Upravit účetní"
+
+#: translation_string.php:110
+msgid "Edit Activity"
+msgstr "Upravit aktivitu"
+
+#: translation_string.php:121
+msgid "Edit Document"
+msgstr "Upravit dokument"
+
+#: template/payment.php:391 admin/payment/index.php:317
+msgid "Edit Expense"
+msgstr "Upravit výdaj"
+
+#: translation_string.php:95
+msgid "Edit Family Member"
+msgstr "Upravit člena rodiny"
+
+#: translation_string.php:100
+msgid "Edit Group"
+msgstr "Upravit skupinu"
+
+#: template/payment.php:360 admin/payment/index.php:303
+msgid "Edit Income"
+msgstr "Upravit příjem"
+
+#: translation_string.php:90
+msgid "Edit Member"
+msgstr "Upravit člena"
+
+#: translation_string.php:101
+msgid "Edit Ministry"
+msgstr "Upravit ministerstvo"
+
+#: admin/notice/index.php:245
+msgid "Edit Notice"
+msgstr "Upravit oznámení"
+
+#: translation_string.php:108
+msgid "Edit Pastoral"
+msgstr "Upravit Pastorační"
+
+#: translation_string.php:142
+msgid "Edit Pledges"
+msgstr "Upravit sliby"
+
+#: translation_string.php:118
+msgid "Edit Reservation"
+msgstr "Upravit rezervaci"
+
+#: admin/check-in/index.php:228
+msgid "Edit Room"
+msgstr "Úpravna místnost"
+
+#: translation_string.php:135 admin/spiritual-gift/index.php:287
+msgid "Edit Sell Gift"
+msgstr "Upravit Prodat dárek"
+
+#: template/spiritual-gift.php:363
+msgid "Edit Sell Gifts"
+msgstr "Upravit Prodej dárků"
+
+#: admin/sermon/index.php:178
+msgid "Edit Sermon"
+msgstr "Upravit kázání"
+
+#: translation_string.php:130
+msgid "Edit Sermon List"
+msgstr "Upravit seznam kázání"
+
+#: translation_string.php:103
+msgid "Edit Service"
+msgstr "Upravit službu"
+
+#: translation_string.php:145
+msgid "Edit Song"
+msgstr "Upravit skladbu"
+
+#: template/spiritual-gift.php:327 admin/spiritual-gift/index.php:255
+msgid "Edit Spiritual Gift"
+msgstr "Upravit duchovní dárek"
+
+#: translation_string.php:146 template/payment.php:333
+#: admin/payment/index.php:289 admin/transactions/index.php:102
+msgid "Edit Transaction"
+msgstr "Upravit transakci"
+
+#: translation_string.php:114
+msgid "Edit Venue"
+msgstr "Upravit místo konání"
+
+#: template/view_member.php:234 admin/member/add_member.php:313
+#: admin/member/view_member.php:224 admin/pastoral/add_pastoral.php:629
+#: admin/payment/add_income.php:696 admin/payment/add_transaction.php:652
+#: admin/pledges/add_pledges.php:669
+msgid "Education"
+msgstr "Vzdělávání"
+
+#: admin/general-settings.php:177 template/account.php:518
+#: template/familymember.php:1090 admin/accountant/add_accountant.php:188
+#: admin/family/add_family.php:247 admin/member/add_member.php:443
+#: admin/pastoral/add_pastoral.php:758 admin/payment/add_income.php:825
+#: admin/payment/add_transaction.php:781 admin/pledges/add_pledges.php:798
+#: admin/setupform/index.php:80
+msgid "Email"
+msgstr "E-mailem"
+
+#: template/accountant.php:303 template/familymember.php:664
+#: template/view_member.php:169 admin/accountant/view_accountant.php:88
+#: admin/family/view_family.php:83 admin/member/view_member.php:159
+#: admin/service/view_service.php:97
+msgid "Email ID"
+msgstr "ID e-mailu"
+
+#: translation_string.php:98
+msgid "Email id"
+msgstr "E-mailové ID"
+
+#: admin/mail-tempate/index.php:229 admin/mail-tempate/index.php:287
+#: admin/mail-tempate/index.php:346 admin/mail-tempate/index.php:408
+#: admin/mail-tempate/index.php:467 admin/mail-tempate/index.php:525
+#: admin/mail-tempate/index.php:586 admin/mail-tempate/index.php:651
+#: admin/mail-tempate/index.php:717 admin/mail-tempate/index.php:777
+#: admin/mail-tempate/index.php:837 admin/mail-tempate/index.php:896
+#: admin/mail-tempate/index.php:957 admin/mail-tempate/index.php:1020
+#: admin/mail-tempate/index.php:1079 admin/mail-tempate/index.php:1136
+#: admin/mail-tempate/index.php:1194 admin/mail-tempate/index.php:1253
+#: admin/mail-tempate/index.php:1310 admin/mail-tempate/index.php:1368
+#: admin/mail-tempate/index.php:1426 admin/mail-tempate/index.php:1486
+msgid "Email Subject"
+msgstr "Předmět emailu"
+
+#: admin/access_right/Management.php:1259
+msgid "Email Template"
+msgstr "Šablona e-mailu"
+
+#: admin/general-settings.php:241 admin/general-settings.php:275
+#: admin/general-settings.php:296 admin/general-settings.php:319
+#: admin/general-settings.php:344 admin/general-settings.php:472
+msgid "Enable"
+msgstr "Umožnit"
+
+#: admin/general-settings.php:290
+msgid "Enable Notifications"
+msgstr "Povolit oznámení"
+
+#: admin/general-settings.php:340
+msgid "Enable Sandbox"
+msgstr "Povolit Sandbox"
+
+#: admin_template.php:386 admin_template.php:1253 template/pledges.php:488
+#: template/view_member.php:882 template/view_member.php:893
+#: template/view_member.php:962 admin/member/view_member.php:846
+#: admin/member/view_member.php:857 admin/member/view_member.php:926
+#: admin/pledges/add_pledges.php:457 admin/report/download_report.php:92
+#: admin/report/Untitled-3.php:340
+msgid "End Date"
+msgstr "Datum ukončení"
+
+#: admin/service/index.php:154
+msgid "End Date should be greater than Start Date"
+msgstr "Datum ukončení by mělo být větší než datum zahájení"
+
+#: template/notice.php:88 admin/activity/index.php:183
+#: admin/notice/index.php:119 admin/pledges/index.php:117
+#: admin/venue/index.php:182
+msgid "End Date should be greater than Start Date."
+msgstr "Datum ukončení by mělo být větší než datum zahájení."
+
+#: template/activity.php:112 template/venue-reservation.php:53
+#: template/venue-reservation.php:62 admin/activity/index.php:357
+#: admin/service/add_service.php:243
+msgid "End Time"
+msgstr "Čas ukončení"
+
+#: template/reservation.php:86 admin/service/index.php:143
+#: admin/venue/index.php:171
+msgid "End Time should be greater than Start Time"
+msgstr "Čas ukončení by měl být větší než čas zahájení"
+
+#: admin/activity/index.php:172
+msgid "End Time should be greater than Start Time."
+msgstr "Čas ukončení by měl být větší než čas zahájení."
+
+#: translation_string.php:79
+msgid "Entry"
+msgstr "Vstup"
+
+#: admin/setupform/index.php:72
+msgid "Envato License key"
+msgstr "Licenční klíč Envato"
+
+#: translation_string.php:115 template/venue.php:290 template/venue.php:301
+#: template/venue.php:378 template/venue.php:383 admin/venue/index.php:359
+#: admin/venue/index.php:371 admin/venue/index.php:451
+#: admin/venue/index.php:456
+msgid "Equipment"
+msgstr "Zařízení"
+
+#: translation_string.php:34
+msgid "Equipment Name"
+msgstr "Název zařízení"
+
+#: translation_string.php:31
+msgid "Equipments"
+msgstr "Vybavení"
+
+#: admin/general-settings.php:377
+msgid "Euro"
+msgstr "Euro"
+
+#: translation_string.php:268
+msgid "Expected Check Out Date"
+msgstr "Očekávané datum odhlášení"
+
+#: admin/check-in/add_checkin.php:97
+#, fuzzy
+#| msgid "Expected check out date"
+msgid "Expected Check-out Date"
+msgstr "Předpokládané datum odjezdu"
+
+#: translation_string.php:235 admin/report/expense_report.php:93
+#: admin/report/income_expense_netprofit.php:92
+msgid "Expense"
+msgstr "Výdaj"
+
+#: template/payment.php:1425 template/payment.php:1457
+#: template/payment.php:1496 admin/payment/add_expense.php:106
+#: admin/payment/add_expense.php:143 admin/payment/add_expense.php:187
+msgid "Expense Amount"
+msgstr "Částka výdajů"
+
+#: translation_string.php:49
+msgid "Expense Entries"
+msgstr "Položky výdajů"
+
+#: admin/payment/add_expense.php:49
+msgid "Expense Information"
+msgstr "Informace o výdajích"
+
+#: template/payment.php:1434 template/payment.php:1465
+#: template/payment.php:1496 admin/payment/add_expense.php:115
+#: admin/payment/add_expense.php:151 admin/payment/add_expense.php:187
+msgid "Expense Label"
+msgstr "Štítek výdajů"
+
+#: template/payment.php:380 admin/payment/index.php:313
+msgid "Expense List"
+msgstr "Seznam výdajů"
+
+#: admin/report/index.php:75 admin/report/index.php:94
+msgid "Expense Report"
+msgstr "Zpráva o výdajích"
+
+#: translation_string.php:297
+msgid "Expenses"
+msgstr "Výdaje"
+
+#: translation_string.php:233 admin/member/index.php:735
+msgid "Export CSV"
+msgstr "Export CSV"
+
+#: admin/check-in/add_room.php:83
+msgid "Families"
+msgstr "rodiny"
+
+#: translation_string.php:218
+msgid "families"
+msgstr "rodiny"
+
+#: translation_string.php:229
+msgid "families,children"
+msgstr "rodiny, děti"
+
+#: translation_string.php:230
+msgid "families,youth"
+msgstr "rodiny, mládež"
+
+#: translation_string.php:225
+msgid "families,youth,children"
+msgstr "rodiny, mládež, děti"
+
+#: admin/admin.php:36 admin/admin.php:133 template/view_member.php:138
+#: admin/access_right/Family_member.php:295
+#: admin/access_right/Management.php:308 admin/access_right/Member.php:314
+#: admin/member/view_member.php:136
+msgid "Family Member"
+msgstr "Rodinný příslušník"
+
+#: translation_string.php:67 admin/access_right/index.php:68
+msgid "Family member"
+msgstr "Rodinný příslušník"
+
+#: admin/access_right/Family_member.php:231
+msgid "Family member Access Right"
+msgstr "Přístupové právo člena rodiny"
+
+#: template/familymember.php:361 template/view_member.php:1070
+#: admin/family/index.php:371 admin/family/index.php:384
+#: admin/member/view_member.php:1021 admin/member/view_member.php:1032
+msgid "Family Member Name & Email"
+msgstr "Jméno a e-mail člena rodiny"
+
+#: translation_string.php:37
+msgid "Family Members"
+msgstr "Členové rodiny"
+
+#: template/familymember.php:993 admin/family/add_family.php:150
+msgid "Father"
+msgstr "Otec"
+
+#: template/account.php:526 template/accountant.php:353
+#: template/view_member.php:267 admin/accountant/add_accountant.php:167
+#: admin/accountant/view_accountant.php:145 admin/member/add_member.php:375
+#: admin/member/view_member.php:258 admin/pastoral/add_pastoral.php:692
+#: admin/payment/add_income.php:759 admin/payment/add_transaction.php:715
+#: admin/pledges/add_pledges.php:732
+msgid "Fax"
+msgstr "Fax"
+
+#: translation_string.php:241 admin/report/expense_report.php:89
+#: admin/report/income_expense_netprofit.php:88
+#: admin/report/income_report.php:89
+msgid "Feb"
+msgstr "února"
+
+#: admin/report/activity_reoprt.php:3 admin/report/payment_report.php:3
+msgid "February"
+msgstr "Únor"
+
+#: template/accountant.php:319 template/familymember.php:680
+#: template/familymember.php:898 template/view_member.php:202
+#: admin/accountant/add_accountant.php:91
+#: admin/accountant/view_accountant.php:104 admin/family/add_family.php:97
+#: admin/family/view_family.php:99 admin/member/add_member.php:228
+#: admin/member/view_member.php:192 admin/pastoral/add_pastoral.php:533
+#: admin/payment/add_income.php:600 admin/payment/add_transaction.php:556
+#: admin/pledges/add_pledges.php:573 admin/service/view_service.php:113
+msgid "Female"
+msgstr "ženský"
+
+#: translation_string.php:178
+msgid "female"
+msgstr "ženský"
+
+#: admin/member/index.php:517
+msgid "File size limit 2 MB allow."
+msgstr "Maximální velikost souboru je 2 MB."
+
+#: translation_string.php:254
+#, fuzzy
+#| msgid "Finance/Payment Report"
+msgid "Finance/Payment Reports"
+msgstr "Zpráva o financích/platbách"
+
+#: translation_string.php:13
+msgid "First"
+msgstr "za prvé"
+
+#: template/account.php:395 template/familymember.php:866
+#: admin/accountant/add_accountant.php:60 admin/family/add_family.php:65
+#: admin/member/add_member.php:197 admin/pastoral/add_pastoral.php:501
+#: admin/payment/add_income.php:568 admin/payment/add_transaction.php:524
+#: admin/pledges/add_pledges.php:541
+msgid "First Name"
+msgstr "Jméno"
+
+#: admin/general-settings.php:450
+msgid "Footer Description"
+msgstr "Popis zápatí"
+
+#: admin/general-settings.php:441
+msgid "Footer setting"
+msgstr "Nastavení zápatí"
+
+#: translation_string.php:211
+msgid "Forgot your password?"
+msgstr "Zapomněli jste heslo?"
+
+#: admin/pledges/add_pledges.php:422
+msgid "Frequency"
+msgstr "Frekvence"
+
+#: translation_string.php:144 template/pledges.php:312 template/pledges.php:317
+#: admin/pledges/index.php:365
+msgid "Frequency Number Of Time"
+msgstr "Frekvence Počet času"
+
+#: template/pledges.php:224 template/pledges.php:236
+#: template/view_member.php:884 template/view_member.php:895
+#: template/view_member.php:969 template/view_member.php:974
+#: admin/member/view_member.php:848 admin/member/view_member.php:859
+#: admin/member/view_member.php:933 admin/member/view_member.php:938
+#: admin/pledges/index.php:275 admin/pledges/index.php:288
+#: admin/pledges/index.php:370
+msgid "Frequency Number of Time"
+msgstr "Frekvence Počet času"
+
+#: admin/message/view_message.php:76 admin/message/view_message.php:85
+msgid "From"
+msgstr "Z"
+
+#: template/message/view_message.php:94
+msgid "From :"
+msgstr "Z :"
+
+#: template/message/view_message.php:85
+msgid "From:"
+msgstr "Z:"
+
+#: translation_string.php:113 template/activity.php:184
+#: admin/activity/index.php:430
+msgid "Full Day"
+msgstr "Celý den"
+
+#: admin/member/view_member.php:182
+msgid "Full Name"
+msgstr "Celé jméno"
+
+#: template/accountant.php:112 template/accountant.php:123
+#: template/accountant.php:151 template/accountant.php:311
+#: template/familymember.php:363 template/familymember.php:411
+#: template/familymember.php:520 template/familymember.php:672
+#: template/familymember.php:891 template/view_member.php:195
+#: template/view_member.php:1072 template/view_member.php:1111
+#: admin/accountant/add_accountant.php:85 admin/accountant/index.php:271
+#: admin/accountant/index.php:283 admin/accountant/index.php:314
+#: admin/accountant/view_accountant.php:96 admin/family/add_family.php:90
+#: admin/family/index.php:374 admin/family/index.php:387
+#: admin/family/index.php:434 admin/family/view_family.php:91
+#: admin/member/add_member.php:222 admin/member/index.php:616
+#: admin/member/index.php:629 admin/member/index.php:665
+#: admin/member/view_member.php:185 admin/member/view_member.php:1023
+#: admin/member/view_member.php:1034 admin/member/view_member.php:1073
+#: admin/pastoral/add_pastoral.php:526 admin/payment/add_income.php:593
+#: admin/payment/add_transaction.php:549 admin/pledges/add_pledges.php:566
+#: admin/service/view_service.php:105
+msgid "Gender"
+msgstr "Rod"
+
+#: template/accountant.php:288 template/view_member.php:92
+#: admin/member/view_member.php:118
+msgid "General"
+msgstr "Všeobecné"
+
+#: admin/admin.php:112 admin/admin.php:171
+#: admin/access_right/Management.php:1351
+msgid "General Setting"
+msgstr "Obecné nastavení"
+
+#: admin/general-settings.php:117
+msgid "GENERAL SETTINGS"
+msgstr "OBECNÉ NASTAVENÍ"
+
+#: admin/general-settings.php:111
+msgid "General Settings"
+msgstr "Obecné nastavení"
+
+#: template/spiritual-gift.php:1044 template/spiritual-gift.php:1354
+#: admin/spiritual-gift/add_gift.php:148 admin/spiritual-gift/sell_gift.php:94
+msgid "Gift"
+msgstr "Dar"
+
+#: template/spiritual-gift.php:181
+msgid "Gift Assigned  successfully"
+msgstr "Dárek úspěšně přidělen"
+
+#: admin/songs/index.php:180 admin/spiritual-gift/index.php:232
+msgid "Gift Assigned successfully"
+msgstr "Dárek úspěšně přidělen"
+
+#: admin/mail-tempate/index.php:1037
+msgid "Gift Got Date"
+msgstr "Datum dostal dárek"
+
+#: translation_string.php:136 template/spiritual-gift.php:1134
+#: template/spiritual-gift.php:1145 template/spiritual-gift.php:1216
+#: admin/spiritual-gift/sell_gift_list.php:72
+#: admin/spiritual-gift/sell_gift_list.php:84
+#: admin/spiritual-gift/sell_gift_list.php:156
+msgid "Gift Invoice Number"
+msgstr "Číslo dárkové faktury"
+
+#: admin_template.php:1440 template/spiritual-gift.php:435
+#: template/spiritual-gift.php:444 template/spiritual-gift.php:472
+#: template/spiritual-gift.php:574 template/spiritual-gift.php:633
+#: template/spiritual-gift.php:688 template/spiritual-gift.php:745
+#: template/spiritual-gift.php:805 template/spiritual-gift.php:896
+#: template/spiritual-gift.php:999 template/spiritual-gift.php:1133
+#: template/spiritual-gift.php:1144 template/spiritual-gift.php:1211
+#: admin/mail-tempate/index.php:1035 admin/spiritual-gift/add_gift.php:104
+#: admin/spiritual-gift/index.php:364 admin/spiritual-gift/index.php:374
+#: admin/spiritual-gift/index.php:406
+#: admin/spiritual-gift/sell_gift_list.php:71
+#: admin/spiritual-gift/sell_gift_list.php:83
+#: admin/spiritual-gift/sell_gift_list.php:151
+#: admin/spiritual-gift/view_gift.php:20 admin/spiritual-gift/view_gift.php:79
+#: admin/spiritual-gift/view_gift.php:136
+#: admin/spiritual-gift/view_gift.php:192
+#: admin/spiritual-gift/view_gift.php:250
+#: admin/spiritual-gift/view_gift.php:340
+msgid "Gift Name"
+msgstr "Název dárku"
+
+#: template/spiritual-gift.php:436 template/spiritual-gift.php:445
+#: template/spiritual-gift.php:475 template/spiritual-gift.php:584
+#: template/spiritual-gift.php:643 template/spiritual-gift.php:698
+#: template/spiritual-gift.php:755 template/spiritual-gift.php:815
+#: template/spiritual-gift.php:1007 template/spiritual-gift.php:1136
+#: template/spiritual-gift.php:1147 template/spiritual-gift.php:1222
+#: template/spiritual-gift.php:1380 admin/mail-tempate/index.php:1036
+#: admin/spiritual-gift/add_gift.php:112 admin/spiritual-gift/index.php:365
+#: admin/spiritual-gift/index.php:375 admin/spiritual-gift/index.php:410
+#: admin/spiritual-gift/sell_gift.php:120
+#: admin/spiritual-gift/sell_gift_list.php:74
+#: admin/spiritual-gift/sell_gift_list.php:86
+#: admin/spiritual-gift/sell_gift_list.php:162
+#: admin/spiritual-gift/view_gift.php:30 admin/spiritual-gift/view_gift.php:89
+#: admin/spiritual-gift/view_gift.php:146
+#: admin/spiritual-gift/view_gift.php:202
+#: admin/spiritual-gift/view_gift.php:260
+#: admin/spiritual-gift/view_gift.php:350
+msgid "Gift Price"
+msgstr "Cena dárku"
+
+#: template/spiritual-gift.php:437 template/spiritual-gift.php:446
+#: template/spiritual-gift.php:477 template/spiritual-gift.php:593
+#: template/spiritual-gift.php:652 template/spiritual-gift.php:707
+#: template/spiritual-gift.php:764 template/spiritual-gift.php:824
+#: template/spiritual-gift.php:1023 admin/spiritual-gift/add_gift.php:125
+#: admin/spiritual-gift/index.php:366 admin/spiritual-gift/index.php:376
+#: admin/spiritual-gift/index.php:412 admin/spiritual-gift/view_gift.php:39
+#: admin/spiritual-gift/view_gift.php:98 admin/spiritual-gift/view_gift.php:155
+#: admin/spiritual-gift/view_gift.php:211
+#: admin/spiritual-gift/view_gift.php:269
+#: admin/spiritual-gift/view_gift.php:359
+msgid "Gift Type"
+msgstr "Typ dárku"
+
+#: template/member.php:294 admin/member/index.php:689
+msgid "Gifts"
+msgstr "Dárkové předměty"
+
+#: template/donate.php:756
+msgid "Give Donation"
+msgstr "Darujte dar"
+
+#: template/spiritual-gift.php:505 admin/spiritual-gift/index.php:429
+msgid "Give Gift"
+msgstr "Dát dárek"
+
+#: translation_string.php:22
+msgid "Give Gift To Member"
+msgstr "Dejte dárek členovi"
+
+#: translation_string.php:54
+msgid "Give This Gift"
+msgstr "Dejte tento dárek"
+
+#: admin/report/attendance_report.php:195
+#: admin/report/attendance_report.php:338 admin/report/download_report.php:98
+#: admin/report/expense_report.php:63 admin/report/expense_report.php:212
+#: admin/report/income_expense_netprofit.php:61
+#: admin/report/income_expense_netprofit.php:234
+#: admin/report/income_report.php:61 admin/report/income_report.php:213
+#: admin/report/payment_data.php:70 admin/report/payment_report.php:110
+#: admin/report/Untitled-3.php:346
+msgid "Go"
+msgstr "Jít"
+
+#: translation_string.php:140
+msgid "Grand Total"
+msgstr "Celkový součet"
+
+#: translation_string.php:51
+msgid "Grand Total :"
+msgstr "Celkový součet :"
+
+#: admin/report/expense_report.php:12
+#: admin/report/income_expense_netprofit.php:11
+#: admin/report/income_report.php:11 admin/report/index.php:107
+msgid "Graph"
+msgstr "Graf"
+
+#: admin_template.php:715 admin/admin.php:24 admin/admin.php:127
+#: template/attendance.php:434 admin/access_right/Accountant.php:347
+#: admin/access_right/Family_member.php:388
+#: admin/access_right/Management.php:400 admin/access_right/Member.php:407
+#: admin/message/view_message.php:80 template/message/view_message.php:91
+msgid "Group"
+msgstr "Skupina"
+
+#: translation_string.php:1
+msgid "Group Details"
+msgstr "Podrobnosti o skupině"
+
+#: template/group.php:298 admin/activity/add_activity.php:757
+#: admin/group/add_group.php:42 admin/member/add_member.php:586
+#: admin/pastoral/add_pastoral.php:891 admin/payment/add_income.php:949
+#: admin/payment/add_transaction.php:906 admin/pledges/add_pledges.php:925
+msgid "Group Image"
+msgstr "Skupinový obrázek"
+
+#: admin/activity/add_activity.php:743 admin/group/add_group.php:27
+#: admin/pastoral/add_pastoral.php:876 admin/payment/add_income.php:934
+#: admin/payment/add_transaction.php:891 admin/pledges/add_pledges.php:910
+msgid "Group Information"
+msgstr "Informace o skupině"
+
+#: admin_template.php:1117 template/news_letter.php:169
+#: template/view_member.php:307 admin/member/view_member.php:299
+#: admin/news-letter/sync.php:20 admin/news-letter/sync.php:80
+msgid "Group List"
+msgstr "Seznam skupin"
+
+#: translation_string.php:19
+msgid "Group Member"
+msgstr "Člen skupiny"
+
+#: template/group.php:143 template/ministry.php:139
+#: admin/document/index.php:171 admin/group/index.php:209
+msgid "Group Members Added successfully"
+msgstr "Členové skupiny úspěšně přidáni"
+
+#: template/group.php:192 template/group.php:200 template/group.php:221
+#: template/group.php:292 admin/activity/add_activity.php:750
+#: admin/group/add_group.php:34 admin/group/index.php:300
+#: admin/group/index.php:309 admin/group/index.php:341
+#: admin/member/add_member.php:578 admin/pastoral/add_pastoral.php:883
+#: admin/payment/add_income.php:941 admin/payment/add_transaction.php:898
+#: admin/pledges/add_pledges.php:917
+msgid "Group Name"
+msgstr "Skupinové jméno"
+
+#: admin_template.php:1135
+msgid "Group Name : "
+msgstr "Skupinové jméno :"
+
+#: translation_string.php:293
+msgid "Groups"
+msgstr "Skupiny"
+
+#: admin_template.php:1174 template/activity.php:100 template/activity.php:108
+#: template/activity.php:212 template/activity.php:218
+#: admin/activity/add_activity.php:407 admin/activity/index.php:344
+#: admin/activity/index.php:353 admin/activity/index.php:468
+msgid "Guest Speaker"
+msgstr "Hostující mluvčí"
+
+#: admin/general-settings.php:468
+msgid "Header"
+msgstr "Záhlaví"
+
+#: admin/general-settings.php:379
+msgid "Hong Kong Dollar"
+msgstr "Hongkongský dolar"
+
+#. Author URI of the plugin
+msgid "https://codecanyon.net/search/mojoomla"
+msgstr "https://codecanyon.net/search/mojoomla"
+
+#. URI of the plugin
+msgid "https://mojoomla.com/"
+msgstr "https://mojoomla.com/"
+
+#: admin/general-settings.php:381
+msgid "Hungarian Forint"
+msgstr "maďarský forint"
+
+#: template/familymember.php:990 admin/family/add_family.php:147
+msgid "Husband"
+msgstr "Manžel"
+
+#: admin/report/download_report.php:123 admin/report/download_report.php:185
+msgid "Id"
+msgstr "Id"
+
+#: template/activity.php:94 template/activity.php:106
+#: template/attendance.php:269 template/attendance.php:278
+#: template/attendance.php:786 template/attendance.php:795
+#: template/check-in.php:212 template/check-in.php:222 template/document.php:94
+#: template/document.php:105 template/donate.php:400 template/donate.php:411
+#: template/notice.php:184 template/notice.php:194 template/pastoral.php:229
+#: template/pastoral.php:239 template/payment.php:435 template/payment.php:447
+#: template/payment.php:803 template/payment.php:815 template/payment.php:1190
+#: template/payment.php:1200 template/pledges.php:219 template/pledges.php:231
+#: template/reservation.php:301 template/reservation.php:312
+#: template/sermon-list.php:218 template/sermon-list.php:227
+#: template/sermon-list.php:687 template/services.php:89
+#: template/services.php:99 template/songs.php:209 template/songs.php:217
+#: template/spiritual-gift.php:434 template/spiritual-gift.php:443
+#: template/spiritual-gift.php:1034 template/spiritual-gift.php:1131
+#: template/spiritual-gift.php:1142 template/venue.php:286
+#: template/venue.php:297 template/view_member.php:495
+#: template/view_member.php:506 template/view_member.php:690
+#: template/view_member.php:700 template/view_member.php:880
+#: template/view_member.php:891 template/view_member.php:1193
+#: template/view_member.php:1202 admin/activity/index.php:338
+#: admin/activity/index.php:351 admin/attendance/index.php:303
+#: admin/attendance/index.php:312 admin/attendance/ministry-attendence.php:176
+#: admin/attendance/ministry-attendence.php:185 admin/check-in/index.php:303
+#: admin/check-in/index.php:314 admin/document/index.php:247
+#: admin/document/index.php:259 admin/member/view_member.php:481
+#: admin/member/view_member.php:492 admin/member/view_member.php:666
+#: admin/member/view_member.php:676 admin/member/view_member.php:844
+#: admin/member/view_member.php:855 admin/member/view_member.php:1143
+#: admin/member/view_member.php:1152 admin/message/inbox.php:79
+#: admin/message/sendbox.php:55 admin/notice/index.php:312
+#: admin/notice/index.php:323 admin/pastoral/index.php:237
+#: admin/pastoral/index.php:248 admin/payment/expense-list.php:58
+#: admin/payment/expense-list.php:69 admin/payment/income_list.php:73
+#: admin/payment/income_list.php:86 admin/payment/index.php:393
+#: admin/payment/index.php:406 admin/pledges/index.php:270
+#: admin/pledges/index.php:283 admin/report/expense_report.php:317
+#: admin/report/expense_report.php:326
+#: admin/report/income_expense_netprofit.php:390
+#: admin/report/income_report.php:319 admin/report/income_report.php:330
+#: admin/report/payment_data.php:131 admin/report/payment_data.php:140
+#: admin/sermon/add_sermon.php:97 admin/sermon/index.php:251
+#: admin/sermon/index.php:261 admin/service/index.php:301
+#: admin/service/index.php:312 admin/songs/index.php:249
+#: admin/songs/index.php:258 admin/spiritual-gift/add_gift.php:136
+#: admin/spiritual-gift/index.php:363 admin/spiritual-gift/index.php:373
+#: admin/spiritual-gift/sell_gift_list.php:69
+#: admin/spiritual-gift/sell_gift_list.php:81 admin/venue/index.php:355
+#: admin/venue/index.php:367 admin/venue/reservation-list.php:125
+#: admin/venue/reservation-list.php:137 template/message/inbox.php:56
+#: template/message/sendbox.php:52
+msgid "Image"
+msgstr "obraz"
+
+#: translation_string.php:200
+msgid "image"
+msgstr "obraz"
+
+#: translation_string.php:234 admin/member/index.php:737
+msgid "Import CSV"
+msgstr "Importovat CSV"
+
+#: template/message.php:90 admin/message/index.php:98
+#: admin/message/index.php:140
+msgid "Inbox"
+msgstr "Doručená pošta"
+
+#: translation_string.php:93 admin/member/view_member.php:103
+#: admin/report/income_expense_netprofit.php:92
+#: admin/report/income_report.php:93
+msgid "Income"
+msgstr "Příjem"
+
+#: admin/report/index.php:97
+msgid "Income & Expense Report"
+msgstr "Zpráva o příjmech a výdajích"
+
+#: template/payment.php:1097 template/payment.php:1126
+#: template/payment.php:1165 admin/payment/add_income.php:427
+#: admin/payment/add_income.php:463 admin/payment/add_income.php:509
+msgid "Income Amount"
+msgstr "Částka příjmu"
+
+#: translation_string.php:80
+msgid "Income Entries"
+msgstr "Záznamy o příjmech"
+
+#: admin/payment/add_income.php:341
+msgid "Income Information"
+msgstr "Informace o příjmu"
+
+#: template/payment.php:1105 template/payment.php:1135
+#: template/payment.php:1165 admin/payment/add_income.php:435
+#: admin/payment/add_income.php:472 admin/payment/add_income.php:509
+msgid "Income Label"
+msgstr "Štítek příjmu"
+
+#: template/payment.php:1047
+msgid "Income label"
+msgstr "Štítek příjmu"
+
+#: template/payment.php:350 admin/payment/index.php:299
+msgid "Income List"
+msgstr "Seznam příjmů"
+
+#: admin/report/index.php:72 admin/report/index.php:91
+msgid "Income Report"
+msgstr "Zpráva o příjmech"
+
+#: translation_string.php:148 template/attendance.php:358
+#: template/attendance.php:875 template/payment.php:804
+#: template/payment.php:816 template/payment.php:892
+#: admin/attendance/index.php:392 admin/payment/income_list.php:74
+#: admin/payment/income_list.php:87 admin/payment/income_list.php:165
+#: admin/report/income_report.php:320 admin/report/income_report.php:331
+#: admin/report/income_report.php:406
+msgid "Income Title"
+msgstr "Příjmový titul"
+
+#: translation_string.php:237
+msgid "Income, Expense & Net Profit"
+msgstr "Příjmy, náklady a čistý zisk"
+
+#: admin/general-settings.php:385
+msgid "Indian Rupee"
+msgstr "indická rupie"
+
+#: translation_string.php:177
+msgid "INVOICE"
+msgstr "FAKTURA"
+
+#: admin/payment/add_income.php:377
+msgid "Invoice label"
+msgstr "Fakturační štítek"
+
+#: translation_string.php:147 template/attendance.php:360
+#: template/attendance.php:877 template/payment.php:437
+#: template/payment.php:449 template/payment.php:527 template/payment.php:805
+#: template/payment.php:817 template/payment.php:896
+#: admin/attendance/index.php:394 admin/payment/income_list.php:75
+#: admin/payment/income_list.php:88 admin/payment/income_list.php:169
+#: admin/payment/index.php:395 admin/payment/index.php:408
+#: admin/payment/index.php:488 admin/report/income_report.php:321
+#: admin/report/income_report.php:332 admin/report/income_report.php:410
+msgid "Invoice Number"
+msgstr "Číslo faktury"
+
+#: admin/general-settings.php:433
+msgid "Invoice Prefix"
+msgstr "Předčíslí faktury"
+
+#: admin/general-settings.php:425
+msgid "Invoice Prefix Setting"
+msgstr "Nastavení předčíslí faktury"
+
+#: admin/general-settings.php:208
+msgid "Invoice, Mail"
+msgstr "Faktura, pošta"
+
+#: template/view_member.php:103 admin/member/view_member.php:123
+msgid "Invoices"
+msgstr "Faktury"
+
+#: admin/general-settings.php:383
+msgid "Israeli New Sheqel"
+msgstr "Izraelský nový šekel"
+
+#: translation_string.php:50
+msgid "Issue By"
+msgstr "Vydání od"
+
+#: translation_string.php:240 admin/report/expense_report.php:89
+#: admin/report/income_expense_netprofit.php:88
+#: admin/report/income_report.php:89
+msgid "Jan"
+msgstr "Jan"
+
+#: admin/report/activity_reoprt.php:2 admin/report/payment_report.php:3
+msgid "January"
+msgstr "leden"
+
+#: admin/general-settings.php:387
+msgid "Japanese Yen"
+msgstr "japonský jen"
+
+#: admin/member/add_member.php:397 admin/pastoral/add_pastoral.php:713
+#: admin/payment/add_income.php:780 admin/payment/add_transaction.php:736
+#: admin/pledges/add_pledges.php:753
+msgid "Join Church Date"
+msgstr "Připojte se k Církevnímu rande"
+
+#: template/view_member.php:181 admin/member/index.php:619
+#: admin/member/index.php:632 admin/member/view_member.php:171
+msgid "Join Date"
+msgstr "Datum vstupu"
+
+#: admin/member/index.php:670
+msgid "Join Date "
+msgstr "Datum vstupu"
+
+#: translation_string.php:245 admin/report/expense_report.php:89
+#: admin/report/income_expense_netprofit.php:88
+#: admin/report/income_report.php:89
+msgid "Jul"
+msgstr "července"
+
+#: admin/report/activity_reoprt.php:8 admin/report/payment_report.php:4
+msgid "July"
+msgstr "červenec"
+
+#: translation_string.php:244 admin/report/expense_report.php:89
+#: admin/report/income_expense_netprofit.php:88
+#: admin/report/income_report.php:89
+msgid "Jun"
+msgstr "června"
+
+#: admin/report/activity_reoprt.php:7 admin/report/payment_report.php:4
+msgid "June"
+msgstr "červen"
+
+#: translation_string.php:14
+msgid "Last"
+msgstr "Poslední"
+
+#: template/attendance.php:145 template/attendance.php:672
+#: admin/attendance/index.php:165 admin/attendance/ministry-attendence.php:62
+#: admin/report/attendance_report.php:187
+#: admin/report/attendance_report.php:330 admin/report/expense_report.php:204
+#: admin/report/income_expense_netprofit.php:226
+#: admin/report/income_report.php:205 admin/report/payment_data.php:62
+#: admin/report/Untitled-3.php:168
+msgid "Last 12 Months"
+msgstr "Posledních 12 měsíců"
+
+#: template/attendance.php:143 template/attendance.php:670
+#: admin/attendance/index.php:163 admin/attendance/ministry-attendence.php:60
+#: admin/report/attendance_report.php:185
+#: admin/report/attendance_report.php:328 admin/report/expense_report.php:202
+#: admin/report/income_expense_netprofit.php:224
+#: admin/report/income_report.php:203 admin/report/payment_data.php:60
+#: admin/report/Untitled-3.php:166
+msgid "Last 3 Months"
+msgstr "Poslední 3 měsíce"
+
+#: template/attendance.php:144 template/attendance.php:671
+#: admin/attendance/index.php:164 admin/attendance/ministry-attendence.php:61
+#: admin/report/attendance_report.php:186
+#: admin/report/attendance_report.php:329 admin/report/expense_report.php:203
+#: admin/report/income_expense_netprofit.php:225
+#: admin/report/income_report.php:204 admin/report/payment_data.php:61
+#: admin/report/Untitled-3.php:167
+msgid "Last 6 Months"
+msgstr "Posledních 6 měsíců"
+
+#: template/attendance.php:142 template/attendance.php:669
+#: admin/attendance/index.php:162 admin/attendance/ministry-attendence.php:59
+#: admin/report/attendance_report.php:184
+#: admin/report/attendance_report.php:327 admin/report/expense_report.php:201
+#: admin/report/income_expense_netprofit.php:223
+#: admin/report/income_report.php:202 admin/report/payment_data.php:59
+#: admin/report/Untitled-3.php:165
+msgid "Last Month"
+msgstr "Minulý měsíc"
+
+#: template/account.php:411 template/familymember.php:882
+#: admin/accountant/add_accountant.php:76 admin/family/add_family.php:81
+#: admin/member/add_member.php:213 admin/pastoral/add_pastoral.php:517
+#: admin/payment/add_income.php:584 admin/payment/add_transaction.php:540
+#: admin/pledges/add_pledges.php:557
+msgid "Last Name"
+msgstr "Příjmení"
+
+#: template/attendance.php:140 template/attendance.php:667
+#: admin/attendance/index.php:160 admin/attendance/ministry-attendence.php:57
+#: admin/report/attendance_report.php:182
+#: admin/report/attendance_report.php:325 admin/report/expense_report.php:199
+#: admin/report/income_expense_netprofit.php:221
+#: admin/report/income_report.php:200 admin/report/payment_data.php:57
+#: admin/report/Untitled-3.php:163
+msgid "Last Week"
+msgstr "Minulý týden"
+
+#: template/attendance.php:147 template/attendance.php:674
+#: admin/attendance/index.php:167 admin/attendance/ministry-attendence.php:64
+#: admin/report/attendance_report.php:189
+#: admin/report/attendance_report.php:332 admin/report/expense_report.php:206
+#: admin/report/income_expense_netprofit.php:228
+#: admin/report/income_report.php:207 admin/report/payment_data.php:64
+#: admin/report/Untitled-3.php:170
+msgid "Last Year"
+msgstr "Minulý rok"
+
+#: admin/admin.php:15 admin/admin.php:121
+msgid "Licence Settings"
+msgstr "Nastavení licence"
+
+#: translation_string.php:9
+msgid "Loading..."
+msgstr "Načítání..."
+
+#: translation_string.php:206
+msgid "Log Out"
+msgstr "Odhlásit se"
+
+#: template/familymember.php:1082 admin/accountant/add_accountant.php:181
+#: admin/family/add_family.php:239 admin/member/add_member.php:435
+#: admin/pastoral/add_pastoral.php:751 admin/payment/add_income.php:818
+#: admin/payment/add_transaction.php:774 admin/pledges/add_pledges.php:791
+msgid "Login Information"
+msgstr "Přihlašovací údaje"
+
+#: admin/mail-tempate/index.php:245 admin/mail-tempate/index.php:304
+msgid "Login Link"
+msgstr "Odkaz na přihlášení"
+
+#: admin/mail-tempate/index.php:365
+msgid "Login Page Link"
+msgstr "Odkaz na přihlašovací stránku"
+
+#: translation_string.php:83
+msgid "Logout"
+msgstr "Odhlásit se"
+
+#: translation_string.php:156
+msgid "Mail Chimp API key"
+msgstr "Mail Chimp API klíč"
+
+#: template/news_letter.php:134 admin/news-letter/index.php:165
+msgid "Mail chimp API key"
+msgstr "Mail chimp API klíč"
+
+#: admin/admin.php:108 admin/admin.php:169
+msgid "Mail Template"
+msgstr "Šablona pošty"
+
+#: template/news_letter.php:238 admin/news-letter/campaign.php:17
+msgid "MailChimp list"
+msgstr "Seznam MailChimp"
+
+#: template/news_letter.php:197 admin/news-letter/sync.php:47
+#: admin/news-letter/sync.php:105
+msgid "Mailing list"
+msgstr "Poštovní seznam"
+
+#: admin/general-settings.php:389
+msgid "Malaysian Ringgit"
+msgstr "malajský ringgit"
+
+#: template/accountant.php:315 template/familymember.php:676
+#: template/familymember.php:895 template/view_member.php:198
+#: admin/accountant/add_accountant.php:89
+#: admin/accountant/view_accountant.php:100 admin/family/add_family.php:94
+#: admin/family/view_family.php:95 admin/member/add_member.php:226
+#: admin/member/view_member.php:188 admin/pastoral/add_pastoral.php:530
+#: admin/payment/add_income.php:597 admin/payment/add_transaction.php:553
+#: admin/pledges/add_pledges.php:570 admin/service/view_service.php:109
+msgid "Male"
+msgstr "mužský"
+
+#: translation_string.php:179
+msgid "male"
+msgstr "mužský"
+
+#: admin/access_right/index.php:71
+msgid "Management"
+msgstr "Řízení"
+
+#: admin/access_right/Management.php:245
+msgid "Management Access Right"
+msgstr "Přístupové právo pro správu"
+
+#: translation_string.php:242 admin/report/expense_report.php:89
+#: admin/report/income_expense_netprofit.php:88
+#: admin/report/income_report.php:89
+msgid "Mar"
+msgstr "Mar"
+
+#: admin/report/activity_reoprt.php:4 admin/report/payment_report.php:3
+msgid "March"
+msgstr "březen"
+
+#: template/view_member.php:208 admin/member/add_member.php:249
+#: admin/member/view_member.php:198 admin/pastoral/add_pastoral.php:554
+#: admin/payment/add_income.php:621 admin/payment/add_transaction.php:577
+#: admin/pledges/add_pledges.php:594
+msgid "Marital Status"
+msgstr "Stav"
+
+#: template/view_member.php:215 admin/member/add_member.php:256
+#: admin/member/view_member.php:205 admin/pastoral/add_pastoral.php:561
+#: admin/payment/add_income.php:628 admin/payment/add_transaction.php:584
+#: admin/pledges/add_pledges.php:601
+msgid "Married"
+msgstr "Ženatý"
+
+#: template/reservation.php:560 admin/venue/add_reservation.php:241
+msgid "Max-Limit"
+msgstr "Max-Limit"
+
+#: admin/report/activity_reoprt.php:6 admin/report/expense_report.php:89
+#: admin/report/income_expense_netprofit.php:88
+#: admin/report/income_report.php:89 admin/report/payment_report.php:4
+msgid "May"
+msgstr "Smět"
+
+#: admin/admin.php:32 admin/admin.php:131 template/check-in.php:389
+#: template/donate.php:598 template/familymember.php:920
+#: template/familymember.php:957 template/pastoral.php:407
+#: template/payment.php:660 template/payment.php:1021 template/pledges.php:401
+#: template/spiritual-gift.php:1320 admin/access_right/Accountant.php:255
+#: admin/access_right/Family_member.php:248 admin/access_right/index.php:62
+#: admin/access_right/Management.php:262 admin/access_right/Member.php:267
+#: admin/check-in/add_checkin.php:61 admin/family/add_family.php:115
+#: admin/member/index.php:812 admin/pastoral/add_pastoral.php:352
+#: admin/pastoral/add_pastoral.php:382 admin/payment/add_income.php:347
+#: admin/payment/add_transaction.php:348 admin/pledges/add_pledges.php:363
+#: admin/spiritual-gift/sell_gift.php:60
+#: admin/transactions/add_transaction.php:37
+msgid "Member"
+msgstr "Člen"
+
+#: translation_string.php:60
+msgid "member"
+msgstr "člen"
+
+#: admin/access_right/Member.php:249
+msgid "Member Access Right"
+msgstr "Členské přístupové právo"
+
+#: admin/mail-tempate/index.php:392 admin/mail-tempate/index.php:395
+#: admin/mail-tempate/index.php:417
+msgid "Member Added In Group Template"
+msgstr "Člen přidán do šablony skupiny"
+
+#: admin/mail-tempate/index.php:451 admin/mail-tempate/index.php:454
+#: admin/mail-tempate/index.php:476
+msgid "Member Added In Ministry Template"
+msgstr "Člen přidán do šablony ministerstva"
+
+#: admin/mail-tempate/index.php:271 admin/mail-tempate/index.php:274
+#: admin/mail-tempate/index.php:296
+msgid "Member Approved By Admin Template"
+msgstr "Člen schválen šablonou správce"
+
+#: admin/member/index.php:489
+msgid "Member Approved successfully"
+msgstr "Člen úspěšně schválen"
+
+#: admin/report/attendance_report.php:125 admin/report/download_report.php:19
+#: admin/report/Untitled-3.php:41 admin/report/Untitled-3.php:107
+#: admin/report/Untitled-3.php:224 admin/report/Untitled-3.php:268
+msgid "Member Attendance Report"
+msgstr "Zpráva o docházce členů"
+
+#: admin/member/index.php:413
+msgid "Member CSV Uploaded Successfully."
+msgstr "Člen CSV byl úspěšně nahrán."
+
+#: template/member.php:214 template/member.php:224 template/member.php:255
+#: template/view_member.php:165 admin/member/add_member.php:189
+#: admin/member/index.php:617 admin/member/index.php:630
+#: admin/member/index.php:667 admin/member/view_member.php:155
+#: admin/pastoral/add_pastoral.php:493 admin/payment/add_income.php:560
+#: admin/payment/add_transaction.php:516 admin/pledges/add_pledges.php:533
+msgid "Member Id"
+msgstr "Členské ID"
+
+#: template/view_member.php:189 admin/member/view_member.php:179
+msgid "Member Information"
+msgstr "Informace o členech"
+
+#: template/familymember.php:749 admin/family/view_family.php:170
+#, fuzzy
+#| msgid "Member id"
+msgid "Member List"
+msgstr "Členské ID"
+
+#: admin_template.php:1344 admin_template.php:1482 translation_string.php:36
+#: template/attendance.php:270 template/attendance.php:279
+#: template/attendance.php:356 template/attendance.php:561
+#: template/attendance.php:787 template/attendance.php:796
+#: template/attendance.php:873 template/attendance.php:1044
+#: template/donate.php:401 template/donate.php:412 template/donate.php:484
+#: template/familymember.php:365 template/familymember.php:430
+#: template/familymember.php:528 template/familymember.php:690
+#: template/pastoral.php:231 template/pastoral.php:241
+#: template/pastoral.php:307 template/payment.php:436 template/payment.php:448
+#: template/payment.php:522 template/payment.php:806 template/payment.php:818
+#: template/payment.php:906 template/pledges.php:220 template/pledges.php:232
+#: template/pledges.php:297 template/spiritual-gift.php:1132
+#: template/spiritual-gift.php:1143 template/spiritual-gift.php:1208
+#: admin/attendance/index.php:304 admin/attendance/index.php:313
+#: admin/attendance/index.php:390 admin/attendance/index.php:588
+#: admin/attendance/ministry-attendence.php:177
+#: admin/attendance/ministry-attendence.php:186
+#: admin/attendance/ministry-attendence.php:263
+#: admin/attendance/ministry-attendence.php:408 admin/family/index.php:376
+#: admin/family/index.php:389 admin/family/index.php:451
+#: admin/family/view_family.php:109 admin/pastoral/index.php:239
+#: admin/pastoral/index.php:250 admin/pastoral/index.php:313
+#: admin/payment/income_list.php:76 admin/payment/income_list.php:89
+#: admin/payment/income_list.php:179 admin/payment/index.php:394
+#: admin/payment/index.php:407 admin/payment/index.php:483
+#: admin/pledges/index.php:271 admin/pledges/index.php:284
+#: admin/pledges/index.php:350 admin/report/download_report.php:127
+#: admin/report/download_report.php:190 admin/report/income_report.php:322
+#: admin/report/income_report.php:333 admin/report/income_report.php:420
+#: admin/report/payment_data.php:132 admin/report/payment_data.php:141
+#: admin/report/payment_data.php:211 admin/service/view_service.php:123
+#: admin/spiritual-gift/sell_gift_list.php:70
+#: admin/spiritual-gift/sell_gift_list.php:82
+#: admin/spiritual-gift/sell_gift_list.php:148 admin/transactions/index.php:139
+#: admin/transactions/index.php:148
+msgid "Member Name"
+msgstr "Jméno člena"
+
+#: template/member.php:213 template/member.php:223 admin/member/index.php:615
+#: admin/member/index.php:628
+msgid "Member Name & Email"
+msgstr "Jméno a e-mail člena"
+
+#: admin/ministry/index.php:229
+msgid "Member Removed from the Ministry Successfully."
+msgstr "Člen byl úspěšně odstraněn z ministerstva."
+
+#: admin/group/index.php:235
+msgid "Member Removed Successfully From The Group."
+msgstr "Člen byl úspěšně odebrán ze skupiny."
+
+#: admin_template.php:687
+msgid "Members"
+msgstr "členové"
+
+#: admin/access_right/Accountant.php:243
+#: admin/access_right/Family_member.php:236
+#: admin/access_right/Management.php:250 admin/access_right/Member.php:255
+msgid "Menu"
+msgstr "Jídelní lístek"
+
+#: admin_template.php:757 admin/admin.php:88 admin/admin.php:159
+#: admin/access_right/Accountant.php:1067
+#: admin/access_right/Family_member.php:1063
+#: admin/access_right/Management.php:1168 admin/access_right/Member.php:1127
+msgid "Message"
+msgstr "Zpráva"
+
+#: admin/message/composemail.php:41 admin/message/inbox.php:82
+#: admin/message/inbox.php:174 admin/message/sendbox.php:58
+#: admin/message/sendbox.php:177 admin/message/view_message.php:274
+#: admin/message/view_message.php:316 template/message/composemail.php:84
+#: template/message/inbox.php:59 template/message/inbox.php:145
+#: template/message/sendbox.php:55 template/message/sendbox.php:172
+#: template/message/view_message.php:282 template/message/view_message.php:322
+msgid "Message Comment"
+msgstr "Zpráva Komentář"
+
+#: admin/mail-tempate/index.php:1384
+msgid "Message Content"
+msgstr "Obsah zprávy"
+
+#: template/message.php:66 admin/message/index.php:130
+#: template/message/composemail.php:30
+msgid "Message deleted successfully"
+msgstr "Zpráva byla úspěšně smazána"
+
+#: translation_string.php:165
+msgid "Message Details"
+msgstr "Podrobnosti zprávy"
+
+#: admin/message/inbox.php:80 admin/message/inbox.php:138
+#: admin/message/sendbox.php:56 admin/message/sendbox.php:133
+#: template/message/inbox.php:57 template/message/inbox.php:115
+#: template/message/sendbox.php:53 template/message/sendbox.php:130
+msgid "Message For"
+msgstr "Zpráva pro"
+
+#: admin/mail-tempate/index.php:1355 admin/mail-tempate/index.php:1376
+msgid "Message Received Template"
+msgstr "Šablona přijaté zprávy"
+
+#: template/message.php:56 admin/message/index.php:122
+#: template/message/composemail.php:20
+msgid "Message sent successfully"
+msgstr "Zpráva úspěšně odeslána"
+
+#: admin_template.php:674
+msgid "Message successfully Sent."
+msgstr "Zpráva úspěšně odeslána."
+
+#: admin/message/composemail.php:21 template/message/composemail.php:64
+msgid "Message To"
+msgstr "Zpráva Komu"
+
+#: translation_string.php:299
+msgid "Messages"
+msgstr "Zprávy"
+
+#: template/donate.php:405 template/donate.php:416 template/donate.php:492
+#: template/donate.php:718 template/payment.php:441 template/payment.php:453
+#: template/payment.php:548 template/payment.php:739
+#: admin/payment/add_transaction.php:438 admin/payment/index.php:399
+#: admin/payment/index.php:412 admin/payment/index.php:511
+#: admin/report/payment_data.php:135 admin/report/payment_data.php:144
+#: admin/report/payment_data.php:217 admin/transactions/add_transaction.php:78
+#: admin/transactions/index.php:142 admin/transactions/index.php:151
+msgid "Method"
+msgstr "Metoda"
+
+#: admin/general-settings.php:391
+msgid "Mexican Peso"
+msgstr "Mexické peso"
+
+#: template/account.php:403 template/familymember.php:874
+#: admin/accountant/add_accountant.php:68 admin/family/add_family.php:73
+#: admin/member/add_member.php:205 admin/pastoral/add_pastoral.php:509
+#: admin/payment/add_income.php:576 admin/payment/add_transaction.php:532
+#: admin/pledges/add_pledges.php:549
+msgid "Middle Name"
+msgstr "Prostřední jméno"
+
+#: admin_template.php:729 admin_template.php:938 admin/admin.php:28
+#: admin/admin.php:129 template/attendance.php:1021
+#: admin/access_right/Accountant.php:437
+#: admin/access_right/Family_member.php:478
+#: admin/access_right/Management.php:537 admin/access_right/Member.php:497
+#: admin/attendance/ministry-attendence.php:381
+msgid "Ministry"
+msgstr "Ministerstvo"
+
+#: admin_template.php:924
+msgid "ministry"
+msgstr "ministerstvo"
+
+#: template/attendance.php:119 template/attendance.php:941
+#: admin/attendance/ministry-attendence.php:39
+#: admin/attendance/ministry-attendence.php:301
+#: admin/report/attendance_report.php:74
+msgid "Ministry Attendance"
+msgstr "Docházka ministerstva"
+
+#: template/attendance.php:112 admin/attendance/ministry-attendence.php:36
+msgid "Ministry Attendance List"
+msgstr "Prezenční listina ministerstva"
+
+#: admin_template.php:916 admin_template.php:932
+#: admin/report/attendance_report.php:269
+msgid "Ministry Attendance Report"
+msgstr "Zpráva o docházce ministerstva"
+
+#: translation_string.php:84
+msgid "Ministry Details"
+msgstr "Podrobnosti ministerstva"
+
+#: admin/member/add_member.php:541 admin/ministry/add_ministry.php:46
+#: admin/pastoral/add_pastoral.php:835 admin/payment/add_income.php:900
+#: admin/payment/add_transaction.php:856 admin/pledges/add_pledges.php:874
+msgid "Ministry Image"
+msgstr "Obrázek ministerstva"
+
+#: admin/ministry/add_ministry.php:32 admin/pastoral/add_pastoral.php:820
+#: admin/payment/add_income.php:886 admin/payment/add_transaction.php:842
+#: admin/pledges/add_pledges.php:860
+msgid "Ministry Information"
+msgstr "Informace ministerstva"
+
+#: admin_template.php:1200 template/view_member.php:379
+#: admin/member/view_member.php:368
+msgid "Ministry List"
+msgstr "Seznam ministerstva"
+
+#: translation_string.php:76
+msgid "Ministry Member"
+msgstr "Člen ministerstva"
+
+#: admin/ministry/index.php:207
+msgid "Ministry Members Added successfully"
+msgstr "Členové ministerstva Úspěšně přidáni"
+
+#: template/ministry.php:187 template/ministry.php:195
+#: template/ministry.php:216 template/view_member.php:1272
+#: admin/member/add_member.php:533 admin/member/view_member.php:1221
+#: admin/ministry/add_ministry.php:39 admin/ministry/index.php:292
+#: admin/ministry/index.php:301 admin/ministry/index.php:328
+#: admin/pastoral/add_pastoral.php:827 admin/payment/add_income.php:893
+#: admin/payment/add_transaction.php:849 admin/pledges/add_pledges.php:867
+msgid "Ministry Name"
+msgstr "Název ministerstva"
+
+#: admin_template.php:1218
+msgid "Ministry Name : "
+msgstr "Název ministerstva:"
+
+#: template/accountant.php:113 template/accountant.php:124
+#: template/accountant.php:154 template/member.php:216 template/member.php:226
+#: template/member.php:258 admin/accountant/index.php:272
+#: admin/accountant/index.php:284 admin/accountant/index.php:317
+#: admin/member/index.php:620 admin/member/index.php:633
+#: admin/member/index.php:672
+msgid "Mobile No."
+msgstr "Mobil č."
+
+#: template/account.php:467 template/account.php:495
+#: template/familymember.php:366 template/familymember.php:434
+#: template/familymember.php:508 template/familymember.php:725
+#: template/familymember.php:1073 template/view_member.php:1075
+#: template/view_member.php:1120 admin/accountant/add_accountant.php:149
+#: admin/family/add_family.php:230 admin/family/index.php:372
+#: admin/family/index.php:385 admin/family/index.php:423
+#: admin/family/view_family.php:144 admin/member/add_member.php:357
+#: admin/member/view_member.php:1026 admin/member/view_member.php:1037
+#: admin/member/view_member.php:1082 admin/pastoral/add_pastoral.php:673
+#: admin/payment/add_income.php:740 admin/payment/add_transaction.php:696
+#: admin/pledges/add_pledges.php:713 admin/service/view_service.php:150
+msgid "Mobile Number"
+msgstr "Číslo mobilního telefonu"
+
+#. Author of the plugin
+msgid "Mojoomla"
+msgstr "Mojoomla"
+
+#: admin_template.php:995 admin_template.php:1004 admin_template.php:1056
+#: admin_template.php:1071 translation_string.php:238
+#: admin/report/activity_reoprt.php:20 admin/report/activity_reoprt.php:31
+#: admin/report/expense_report.php:93
+#: admin/report/income_expense_netprofit.php:92
+#: admin/report/income_report.php:93 admin/report/payment_report.php:29
+#: admin/report/payment_report.php:43
+msgid "Month"
+msgstr "Měsíc"
+
+#: template/pledges.php:463 admin/activity/add_activity.php:536
+#: admin/pledges/add_pledges.php:435
+msgid "Monthly"
+msgstr "Měsíční"
+
+#: template/familymember.php:994 admin/family/add_family.php:151
+msgid "Mother"
+msgstr "Matka"
+
+#: translation_string.php:32
+msgid "Multiple Booking Possible"
+msgstr "Vícenásobná rezervace možná"
+
+#: translation_string.php:116 template/venue.php:291 template/venue.php:302
+#: template/venue.php:387 admin/venue/index.php:360 admin/venue/index.php:372
+#: admin/venue/index.php:460
+msgid "Multiple Reservation"
+msgstr "Vícenásobná rezervace"
+
+#: template/activity.php:198 template/activity.php:218
+#: template/familymember.php:709 template/familymember.php:733
+#: template/notice.php:276 template/sermon-list.php:481
+#: template/sermon-list.php:547 template/sermon-list.php:614
+#: template/songs.php:489 template/spiritual-gift.php:612
+#: template/spiritual-gift.php:671 template/spiritual-gift.php:726
+#: template/spiritual-gift.php:783 template/spiritual-gift.php:843
+#: template/venue.php:383 template/view_member.php:228
+#: template/view_member.php:241 template/view_member.php:261
+#: template/view_member.php:273 template/view_member.php:285
+#: template/view_member.php:590 template/view_member.php:778
+#: admin/accountant/view_accountant.php:139
+#: admin/accountant/view_accountant.php:151
+#: admin/accountant/view_accountant.php:164 admin/activity/index.php:444
+#: admin/activity/index.php:466 admin/family/view_family.php:128
+#: admin/family/view_family.php:154 admin/member/view_member.php:218
+#: admin/member/view_member.php:252 admin/member/view_member.php:576
+#: admin/sermon/view_sermon.php:124 admin/sermon/view_sermon.php:188
+#: admin/sermon/view_sermon.php:254 admin/songs/view_song.php:45
+#: admin/spiritual-gift/view_gift.php:58 admin/spiritual-gift/view_gift.php:117
+#: admin/spiritual-gift/view_gift.php:174
+#: admin/spiritual-gift/view_gift.php:230
+#: admin/spiritual-gift/view_gift.php:288
+#: admin/spiritual-gift/view_gift.php:378 admin/venue/index.php:456
+msgid "N/A"
+msgstr "N/A"
+
+#: template/view_member.php:192
+msgid "Name"
+msgstr "název"
+
+#: admin/mail-tempate/index.php:1267 admin/mail-tempate/index.php:1500
+msgid "Name of Admin"
+msgstr "Jméno správce"
+
+#: admin/mail-tempate/index.php:366 admin/mail-tempate/index.php:547
+#: admin/mail-tempate/index.php:611 admin/mail-tempate/index.php:677
+#: admin/mail-tempate/index.php:737 admin/mail-tempate/index.php:796
+#: admin/mail-tempate/index.php:856 admin/mail-tempate/index.php:916
+#: admin/mail-tempate/index.php:980 admin/mail-tempate/index.php:1039
+#: admin/mail-tempate/index.php:1095 admin/mail-tempate/index.php:1151
+#: admin/mail-tempate/index.php:1213 admin/mail-tempate/index.php:1270
+#: admin/mail-tempate/index.php:1327 admin/mail-tempate/index.php:1386
+#: admin/mail-tempate/index.php:1447 admin/mail-tempate/index.php:1503
+msgid "Name Of Church"
+msgstr "Jméno Církve"
+
+#: admin/mail-tempate/index.php:244 admin/mail-tempate/index.php:303
+msgid "Name Of Church "
+msgstr "Jméno Církve"
+
+#: admin/mail-tempate/index.php:243 admin/mail-tempate/index.php:302
+#: admin/mail-tempate/index.php:540 admin/mail-tempate/index.php:600
+#: admin/mail-tempate/index.php:665 admin/mail-tempate/index.php:732
+#: admin/mail-tempate/index.php:791 admin/mail-tempate/index.php:852
+#: admin/mail-tempate/index.php:910 admin/mail-tempate/index.php:972
+#: admin/mail-tempate/index.php:1034 admin/mail-tempate/index.php:1093
+#: admin/mail-tempate/index.php:1150 admin/mail-tempate/index.php:1208
+#: admin/mail-tempate/index.php:1268 admin/mail-tempate/index.php:1324
+msgid "Name of Member"
+msgstr "Jméno člena"
+
+#: admin/mail-tempate/index.php:1441 admin/mail-tempate/index.php:1501
+msgid "Name of Memeber"
+msgstr "Jméno člena"
+
+#: admin/mail-tempate/index.php:1382
+msgid "Name of Receiver"
+msgstr "Jméno přijímače"
+
+#: admin/mail-tempate/index.php:1383
+msgid "Name Of Sender"
+msgstr "Jméno odesílatele"
+
+#: admin/mail-tempate/index.php:361 admin/mail-tempate/index.php:541
+#: admin/mail-tempate/index.php:973 admin/mail-tempate/index.php:1440
+msgid "Name of User"
+msgstr "Jméno uživatele"
+
+#: translation_string.php:236 admin/report/income_expense_netprofit.php:92
+#: admin/report/income_expense_netprofit.php:393
+msgid "Net Profit"
+msgstr "Čistý zisk"
+
+#: admin/report/income_expense_netprofit.php:408
+msgid "Net Profit/Loss"
+msgstr "Čistý zisk/ztráta"
+
+#: template/account.php:346
+msgid "New Password"
+msgstr "nové heslo"
+
+#: template/account.php:123
+msgid "New Password And Confirm Password Did Not Match."
+msgstr "Nové heslo a potvrzení hesla se neshodují."
+
+#: admin/general-settings.php:395
+msgid "New Zealand Dollar"
+msgstr "Novozélandský dolar"
+
+#: admin/admin.php:96 admin/admin.php:163
+#: admin/access_right/Accountant.php:1202
+#: admin/access_right/Family_member.php:1153
+#: admin/access_right/Management.php:1213 admin/access_right/Member.php:1264
+msgid "News Letter"
+msgstr "Zpravodaj"
+
+#: translation_string.php:157
+msgid "Newsletter"
+msgstr "Zpravodaj"
+
+#: translation_string.php:15
+msgid "Next"
+msgstr "další"
+
+#: translation_string.php:181 template/member.php:256 template/venue.php:387
+#: admin/member/index.php:668 admin/venue/index.php:460
+msgid "No"
+msgstr "Ne"
+
+#: template/document.php:185 admin/document/index.php:343
+msgid "No any document"
+msgstr "Žádný dokument"
+
+#: translation_string.php:82
+msgid "No any member yet."
+msgstr "Zatím žádný člen."
+
+#: admin/member/view_member.php:356 admin/member/view_member.php:422
+msgid "No Data Availabel"
+msgstr "Nejsou k dispozici žádná data"
+
+#: admin_template.php:906 admin_template.php:974 admin_template.php:1034
+#: admin_template.php:1106 admin_template.php:1280 translation_string.php:182
+#: template/view_member.php:366 template/view_member.php:435
+msgid "No Data Available"
+msgstr "Nejsou k dispozici žádná data"
+
+#: translation_string.php:4
+msgid "No data available in table"
+msgstr "V tabulce nejsou k dispozici žádné údaje"
+
+#: translation_string.php:23
+msgid "No Family Member"
+msgstr "Žádný člen rodiny"
+
+#: admin/news-letter/sync.php:36 admin/news-letter/sync.php:97
+msgid "No Group"
+msgstr "Žádná skupina"
+
+#: template/news_letter.php:183
+msgid "No Groups"
+msgstr "Žádné skupiny"
+
+#: translation_string.php:195
+msgid "No History available"
+msgstr "Není k dispozici žádná historie"
+
+#: translation_string.php:12
+msgid "No matching records found"
+msgstr "Nebyly nalezeny žádné odpovídající záznamy"
+
+#: admin/mail-tempate/index.php:736 admin/mail-tempate/index.php:795
+msgid "No Of Family Members"
+msgstr "Počet rodinných příslušníků"
+
+#: admin_template.php:877 admin_template.php:944
+#: admin/report/attendance_report.php:137 admin/report/download_report.php:31
+#: admin/report/Untitled-3.php:53 admin/report/Untitled-3.php:119
+#: admin/report/Untitled-3.php:236 admin/report/Untitled-3.php:280
+msgid "No of Member"
+msgstr "Číslo člena"
+
+#: admin/report/attendance_report.php:281
+msgid "No of Ministry"
+msgstr "Číslo ministerstva"
+
+#: template/pledges.php:473 admin/pledges/add_pledges.php:445
+msgid "No of Times"
+msgstr "Počet časů"
+
+#: admin_template.php:1193
+msgid "No Upcoming Activity"
+msgstr "Žádná nadcházející aktivita"
+
+#: admin_template.php:1513
+msgid "No Upcoming Birthday"
+msgstr "Žádné nadcházející narozeniny"
+
+#: admin_template.php:1369
+msgid "No Upcoming Donations list"
+msgstr "Žádný seznam nadcházejících darů"
+
+#: admin_template.php:1150
+msgid "No Upcoming Group"
+msgstr "Žádná nadcházející skupina"
+
+#: admin_template.php:1415
+msgid "No Upcoming Invoice list"
+msgstr "Žádný seznam nadcházejících faktur"
+
+#: admin_template.php:1233
+msgid "No Upcoming Ministry"
+msgstr "Žádné nadcházející ministerstvo"
+
+#: admin_template.php:1319
+msgid "No Upcoming Reservation"
+msgstr "Žádná nadcházející rezervace"
+
+#: admin_template.php:1462
+msgid "No Upcoming Sell Gift"
+msgstr "Žádný nadcházející dárek k prodeji"
+
+#: translation_string.php:239
+msgid "No. of Amount"
+msgstr "č. částky"
+
+#: admin/activity/add_activity.php:533
+msgid "None"
+msgstr "Žádný"
+
+#: admin/general-settings.php:393
+msgid "Norwegian Krone"
+msgstr "norská koruna"
+
+#: admin/general-settings.php:200
+msgid "Note: logo Size must be 190 X 56 PX And Color Should Be White."
+msgstr "Poznámka: Velikost loga musí být 190 X 56 PX a barva by měla být bílá."
+
+#: admin_template.php:786 admin/admin.php:84 admin/admin.php:157
+#: admin/access_right/Accountant.php:977
+#: admin/access_right/Family_member.php:973
+#: admin/access_right/Management.php:1123 admin/access_right/Member.php:1037
+msgid "Notice"
+msgstr "Oznámení"
+
+#: admin/notice/index.php:224
+msgid "Notice Approved"
+msgstr "Upozornění Schváleno"
+
+#: template/notice.php:186 template/notice.php:196 template/notice.php:260
+#: admin/notice/index.php:314 admin/notice/index.php:325
+#: admin/notice/index.php:390
+msgid "Notice By"
+msgstr "Upozornění od"
+
+#: template/notice.php:188 template/notice.php:198 template/notice.php:269
+#: template/notice.php:276 template/notice.php:388
+#: admin/notice/add-notice.php:60 admin/notice/index.php:316
+#: admin/notice/index.php:327 admin/notice/index.php:405
+msgid "Notice Comment"
+msgstr "Upozornění Komentář"
+
+#: admin/mail-tempate/index.php:545
+msgid "Notice Content"
+msgstr "Obsah upozornění"
+
+#: translation_string.php:151
+msgid "Notice Details"
+msgstr "Podrobnosti upozornění"
+
+#: template/notice.php:406 admin/mail-tempate/index.php:544
+#: admin/notice/add-notice.php:77
+msgid "Notice End Date"
+msgstr "Datum ukončení oznámení"
+
+#: admin/notice/add-notice.php:43
+msgid "Notice Information"
+msgstr "Upozornění Informace"
+
+#: admin/notice/index.php:240
+msgid "Notice List"
+msgstr "Seznam upozornění"
+
+#: admin/mail-tempate/index.php:546 admin/mail-tempate/index.php:1502
+msgid "Notice Page Link"
+msgstr "Odkaz na stránku upozornění"
+
+#: template/notice.php:397 admin/mail-tempate/index.php:543
+#: admin/notice/add-notice.php:68
+msgid "Notice Start Date"
+msgstr "Datum zahájení oznámení"
+
+#: translation_string.php:152 template/notice.php:187 template/notice.php:197
+#: template/notice.php:262 admin/notice/index.php:315
+#: admin/notice/index.php:326 admin/notice/index.php:392
+msgid "Notice Start Date To End Date"
+msgstr "Oznámení Datum zahájení až datum ukončení"
+
+#: template/notice.php:185 template/notice.php:195 template/notice.php:258
+#: template/notice.php:376 admin/mail-tempate/index.php:542
+#: admin/notice/add-notice.php:50 admin/notice/index.php:313
+#: admin/notice/index.php:324 admin/notice/index.php:388
+msgid "Notice Title"
+msgstr "Název upozornění"
+
+#: translation_string.php:155
+msgid "Notifications"
+msgstr "Oznámení"
+
+#: translation_string.php:249 admin/report/expense_report.php:89
+#: admin/report/income_expense_netprofit.php:88
+#: admin/report/income_report.php:89
+msgid "Nov"
+msgstr "listopad"
+
+#: admin/report/activity_reoprt.php:12 admin/report/payment_report.php:5
+msgid "November"
+msgstr "listopad"
+
+#: template/check-in.php:407 admin/check-in/add_checkin.php:79
+msgid "Number Of Family Member"
+msgstr "Počet rodinných příslušníků"
+
+#: template/reservation.php:552 admin/venue/add_reservation.php:233
+msgid "Number of Participant"
+msgstr "Počet účastníků"
+
+#: template/view_member.php:222 admin/member/add_member.php:287
+#: admin/member/view_member.php:212 admin/pastoral/add_pastoral.php:596
+#: admin/payment/add_income.php:663 admin/payment/add_transaction.php:619
+#: admin/pledges/add_pledges.php:636
+msgid "Occupation"
+msgstr "obsazení"
+
+#: template/check-in.php:298 admin/check-in/index.php:383
+msgid "Occupied"
+msgstr "Obsazený"
+
+#: translation_string.php:248 admin/report/expense_report.php:89
+#: admin/report/income_expense_netprofit.php:88
+#: admin/report/income_report.php:89
+msgid "Oct"
+msgstr "Oct"
+
+#: admin/report/activity_reoprt.php:11 admin/report/payment_report.php:5
+msgid "Octomber"
+msgstr "října"
+
+#: admin/general-settings.php:149
+msgid "Official Phone Number"
+msgstr "Oficiální telefonní číslo"
+
+#: admin/venue/index.php:193
+msgid "On this Date and time already booked reservation"
+msgstr "V tento den a čas již rezervovaná rezervace"
+
+#: template/sermon-list.php:156 template/songs.php:162
+#: template/spiritual-gift.php:250 admin/sermon/add_sermon.php:29
+#: admin/songs/add_song.php:15 admin/spiritual-gift/add_gift.php:60
+msgid "Only audio formats files are allowed!"
+msgstr "Jsou povoleny pouze soubory audio formátů!"
+
+#: admin/member/index.php:507
+msgid "Only CSV file are allow."
+msgstr "Povoleny jsou pouze soubory CSV."
+
+#: translation_string.php:197 admin/document/add_document.php:13
+msgid "Only Document , PDF , PPT and XML File Allowed."
+msgstr "Povoleny jsou pouze soubory Document, PDF, PPT a XML."
+
+#: template/sermon-list.php:147 template/spiritual-gift.php:241
+#: admin/sermon/add_sermon.php:21 admin/spiritual-gift/add_gift.php:52
+msgid "Only image files are allowed!"
+msgstr "Jsou povoleny pouze obrazové soubory!"
+
+#: admin/accountant/index.php:193
+msgid "Only image formats are allow."
+msgstr "Jsou povoleny pouze obrazové formáty."
+
+#: template/account.php:94 template/familymember.php:150
+#: template/familymember.php:289 admin/family/index.php:166
+#: admin/family/index.php:304 admin/group/index.php:218
+#: admin/member/index.php:498
+msgid "Only jpeg ,jpg ,png and gif files are allowed!."
+msgstr "Povoleny jsou pouze soubory jpeg, jpg, png a gif!."
+
+#: translation_string.php:187
+msgid "Only jpeg jpg png and gif files are allowed!."
+msgstr "Povoleny jsou pouze soubory jpeg, jpg, png a gif!."
+
+#: translation_string.php:189
+msgid "Only JPG , PNG , JPEG , GIF file are allowed."
+msgstr "Povoleny jsou pouze soubory JPG, PNG, JPEG, GIF."
+
+#: admin/ministry/index.php:215
+msgid "Only jpg jpeg png and gif files are allowed!."
+msgstr "Povoleny jsou pouze soubory jpg, jpeg, png a gif!."
+
+#: translation_string.php:188
+msgid "Only jpg,jpeg,png and gif files are allowed!."
+msgstr "Povoleny jsou pouze soubory jpg, jpeg, png a gif!."
+
+#: template/sermon-list.php:165 template/spiritual-gift.php:259
+#: admin/sermon/add_sermon.php:37 admin/spiritual-gift/add_gift.php:68
+msgid "Only PDF files are allowed!"
+msgstr "Jsou povoleny pouze soubory PDF!"
+
+#: template/sermon-list.php:138 template/spiritual-gift.php:232
+#: admin/sermon/add_sermon.php:12 admin/spiritual-gift/add_gift.php:43
+msgid "Only video formats files are allowed!"
+msgstr "Jsou povoleny pouze soubory ve formátu videa!"
+
+#: admin/service/add_service.php:221
+msgid "Other"
+msgstr "jiný"
+
+#: admin/service/index.php:165
+msgid "Other End Time should be greater than Start Time"
+msgstr "Jiný čas ukončení by měl být větší než čas zahájení"
+
+#: admin/service/add_service.php:205
+msgid "Other Informaiton"
+msgstr "Další informace"
+
+#: template/account.php:382 admin/activity/add_activity.php:577
+msgid "Other Information"
+msgstr "Jiná informace"
+
+#: admin/general-settings.php:208
+msgid "Other Logo"
+msgstr "Jiné Logo"
+
+#: admin/mail-tempate/index.php:608 admin/service/add_service.php:229
+msgid "Other Service Date"
+msgstr "Jiné servisní datum"
+
+#: admin/mail-tempate/index.php:610
+msgid "Other Service End Time"
+msgstr "Čas ukončení jiné služby"
+
+#: admin/mail-tempate/index.php:609
+msgid "Other Service Start Time"
+msgstr "Čas zahájení jiné služby"
+
+#: admin/mail-tempate/index.php:607
+msgid "Other Service Type"
+msgstr "Jiný typ služby"
+
+#: translation_string.php:172
+#, fuzzy
+#| msgid "Other Start Time To End Time"
+msgid "Other Start Time To End time"
+msgstr "Jiný čas začátku do času ukončení"
+
+#: admin/mail-tempate/index.php:606 admin/service/add_service.php:212
+msgid "Other Title"
+msgstr "Jiný název"
+
+#: translation_string.php:105
+msgid "Other title"
+msgstr "Jiný titul"
+
+#: translation_string.php:175
+msgid "Out of"
+msgstr "Mimo"
+
+#: admin/access_right/Accountant.php:244
+#: admin/access_right/Family_member.php:237
+#: admin/access_right/Management.php:251 admin/access_right/Member.php:256
+msgid "OwnData"
+msgstr "OwnData"
+
+#: admin/mail-tempate/index.php:1326 admin/mail-tempate/index.php:1385
+msgid "Page Link"
+msgstr "Odkaz na stránku"
+
+#: template/payment.php:1056 template/payment.php:1383
+#: admin/payment/add_expense.php:64 admin/payment/add_income.php:386
+msgid "Paid"
+msgstr "Zaplaceno"
+
+#: template/payment.php:1058 template/payment.php:1385
+#: admin/payment/add_expense.php:66 admin/payment/add_income.php:388
+msgid "Part Paid"
+msgstr "Část zaplacena"
+
+#: translation_string.php:30
+msgid "Participant Capacity"
+msgstr "Kapacita účastníka"
+
+#: translation_string.php:194
+msgid "Participant value must be less than or equals to the capacity"
+msgstr "Hodnota účastníka musí být menší nebo rovna kapacitě"
+
+#: template/familymember.php:1107 admin/accountant/add_accountant.php:204
+#: admin/family/add_family.php:264 admin/mail-tempate/index.php:364
+#: admin/member/add_member.php:459 admin/pastoral/add_pastoral.php:774
+#: admin/payment/add_income.php:841 admin/payment/add_transaction.php:797
+#: admin/pledges/add_pledges.php:814
+msgid "Password"
+msgstr "Heslo"
+
+#: admin/admin.php:92 admin/admin.php:161
+#: admin/access_right/Accountant.php:1157
+#: admin/access_right/Family_member.php:1108
+#: admin/access_right/Management.php:583 admin/access_right/Member.php:1219
+#: admin/member/view_member.php:91
+msgid "Pastoral"
+msgstr "Pastorální"
+
+#: admin_template.php:1396 translation_string.php:63 template/pastoral.php:232
+#: template/pastoral.php:242 template/pastoral.php:308
+#: template/pastoral.php:438 template/view_member.php:692
+#: template/view_member.php:702 template/view_member.php:762
+#: admin/mail-tempate/index.php:1443 admin/member/view_member.php:668
+#: admin/member/view_member.php:678 admin/member/view_member.php:738
+#: admin/pastoral/add_pastoral.php:411 admin/pastoral/index.php:240
+#: admin/pastoral/index.php:251 admin/pastoral/index.php:315
+msgid "Pastoral Date"
+msgstr "Pastorační datum"
+
+#: admin/mail-tempate/index.php:1445
+msgid "Pastoral Description"
+msgstr "Pastorační popis"
+
+#: translation_string.php:61
+msgid "Pastoral Details"
+msgstr "Pastorační detaily"
+
+#: admin/pastoral/add_pastoral.php:337
+msgid "Pastoral Information"
+msgstr "Pastorační informace"
+
+#: admin_template.php:1378 template/view_member.php:114
+#: admin/member/view_member.php:127
+msgid "Pastoral List"
+msgstr "Pastorační seznam"
+
+#: admin/mail-tempate/index.php:1446
+msgid "Pastoral Page Link"
+msgstr "Odkaz na pastorační stránku"
+
+#: translation_string.php:64 template/pastoral.php:233
+#: template/pastoral.php:243 template/pastoral.php:320
+#: template/pastoral.php:445 template/pastoral.php:464
+#: template/view_member.php:693 template/view_member.php:703
+#: template/view_member.php:764 admin/mail-tempate/index.php:1444
+#: admin/member/view_member.php:669 admin/member/view_member.php:679
+#: admin/member/view_member.php:739 admin/pastoral/add_pastoral.php:418
+#: admin/pastoral/index.php:241 admin/pastoral/index.php:252
+#: admin/pastoral/index.php:328
+msgid "Pastoral Time"
+msgstr "Pastorační čas"
+
+#: admin_template.php:1395 translation_string.php:62 template/pastoral.php:230
+#: template/pastoral.php:240 template/pastoral.php:302
+#: template/pastoral.php:305 template/pastoral.php:400
+#: template/view_member.php:691 template/view_member.php:701
+#: template/view_member.php:760 admin/mail-tempate/index.php:1442
+#: admin/member/view_member.php:667 admin/member/view_member.php:677
+#: admin/member/view_member.php:736 admin/pastoral/add_pastoral.php:344
+#: admin/pastoral/index.php:238 admin/pastoral/index.php:249
+#: admin/pastoral/index.php:311
+msgid "Pastoral Title"
+msgstr "Pastorační titul"
+
+#: admin/report/download_report.php:196
+msgid "Pay Method"
+msgstr "Způsob platby"
+
+#: admin_template.php:995 admin_template.php:1004 admin/admin.php:80
+#: admin/admin.php:155 admin/access_right/Accountant.php:932
+#: admin/access_right/Family_member.php:928
+#: admin/access_right/Management.php:1033 admin/access_right/Member.php:992
+#: admin/report/payment_report.php:29 admin/report/payment_report.php:50
+msgid "Payment"
+msgstr "Způsob platby"
+
+#: translation_string.php:205
+msgid "payment"
+msgstr "Způsob platby"
+
+#: admin/report/index.php:69
+msgid "Payment Data"
+msgstr "Platební údaje"
+
+#: admin/mail-tempate/index.php:1094
+msgid "Payment Link"
+msgstr "Platební odkaz"
+
+#: translation_string.php:86 template/view_member.php:499
+#: template/view_member.php:510 template/view_member.php:576
+#: admin/member/view_member.php:485 admin/member/view_member.php:496
+#: admin/member/view_member.php:562
+msgid "Payment Method"
+msgstr "Způsob platby"
+
+#: translation_string.php:159
+msgid "Payment Prefix"
+msgstr "Předčíslí platby"
+
+#: translation_string.php:158
+msgid "Payment Prefix Setting"
+msgstr "Nastavení předčíslí platby"
+
+#: admin/mail-tempate/index.php:1123
+msgid "Payment Received Against Transaction Invoice Template"
+msgstr "Platba přijatá proti šabloně faktury transakce"
+
+#: admin/mail-tempate/index.php:1144
+msgid "Payment Received against Transaction Invoice Template"
+msgstr "Platba přijatá podle šablony faktury transakce"
+
+#: admin_template.php:984 admin/report/download_report.php:76
+#: admin/report/index.php:66
+msgid "Payment Report"
+msgstr "Zpráva o platbě"
+
+#: admin_template.php:1004 admin/report/payment_report.php:37
+msgid "Payment Report By Month"
+msgstr "Přehled plateb podle měsíce"
+
+#: translation_string.php:149 template/attendance.php:364
+#: template/attendance.php:881 template/payment.php:807
+#: template/payment.php:819 template/payment.php:909 template/payment.php:1193
+#: template/payment.php:1203 template/payment.php:1279
+#: admin/attendance/index.php:398 admin/payment/expense-list.php:61
+#: admin/payment/expense-list.php:72 admin/payment/expense-list.php:151
+#: admin/payment/income_list.php:77 admin/payment/income_list.php:90
+#: admin/payment/income_list.php:182 admin/report/expense_report.php:320
+#: admin/report/expense_report.php:329 admin/report/expense_report.php:405
+#: admin/report/income_report.php:323 admin/report/income_report.php:334
+#: admin/report/income_report.php:423
+msgid "Payment Status"
+msgstr "Status platby"
+
+#: admin_template.php:1346
+msgid "Payment Type"
+msgstr "Způsob platby"
+
+#: admin/general-settings.php:357
+msgid "Paypal Email Id"
+msgstr "Paypal Email ID"
+
+#: admin/general-settings.php:332
+msgid "PAYPAL PAYMENT SETTING"
+msgstr "NASTAVENÍ PLATBY PAYPAL"
+
+#: template/sermon-list.php:689 template/spiritual-gift.php:1036
+#: admin/sermon/add_sermon.php:99 admin/spiritual-gift/add_gift.php:138
+msgid "PDF"
+msgstr "PDF"
+
+#: translation_string.php:202
+msgid "pdf"
+msgstr "pdf"
+
+#: template/attendance.php:148 template/attendance.php:675
+#: admin/attendance/index.php:168 admin/attendance/ministry-attendence.php:65
+#: admin/report/attendance_report.php:190
+#: admin/report/attendance_report.php:333 admin/report/expense_report.php:207
+#: admin/report/income_expense_netprofit.php:229
+#: admin/report/income_report.php:208 admin/report/payment_data.php:65
+#: admin/report/Untitled-3.php:171
+msgid "Period"
+msgstr "Doba"
+
+#: admin/member/add_member.php:182 admin/pastoral/add_pastoral.php:486
+#: admin/payment/add_income.php:553 admin/payment/add_transaction.php:509
+#: admin/pledges/add_pledges.php:526
+msgid "Personal Information"
+msgstr "Osobní informace"
+
+#: template/familymember.php:859 admin/accountant/add_accountant.php:53
+#: admin/family/add_family.php:58
+msgid "Personal Information "
+msgstr "Osobní informace"
+
+#: admin/general-settings.php:397
+msgid "Philippine Peso"
+msgstr "filipínské peso"
+
+#: template/account.php:509 template/accountant.php:350
+#: template/familymember.php:1051 admin/accountant/add_accountant.php:159
+#: admin/accountant/view_accountant.php:134 admin/family/add_family.php:208
+#: admin/member/add_member.php:367 admin/pastoral/add_pastoral.php:683
+#: admin/payment/add_income.php:750 admin/payment/add_transaction.php:706
+#: admin/pledges/add_pledges.php:723
+msgid "Phone"
+msgstr "Telefon"
+
+#: template/familymember.php:728 template/view_member.php:255
+#: admin/family/view_family.php:149 admin/member/view_member.php:246
+#: admin/service/view_service.php:153
+msgid "Phone No"
+msgstr "Telefonní číslo"
+
+#: template/accountant.php:109 template/accountant.php:120
+#: template/familymember.php:360 template/group.php:191 template/group.php:199
+#: template/member.php:212 template/member.php:222 template/ministry.php:186
+#: template/ministry.php:194 template/view_member.php:1069
+#: admin/accountant/index.php:268 admin/accountant/index.php:280
+#: admin/family/index.php:370 admin/family/index.php:383
+#: admin/group/index.php:299 admin/group/index.php:308
+#: admin/member/index.php:614 admin/member/index.php:627
+#: admin/member/view_member.php:1020 admin/member/view_member.php:1031
+#: admin/ministry/index.php:291 admin/ministry/index.php:300
+msgid "Photo"
+msgstr "Fotografie"
+
+#: admin/pastoral/add_pastoral.php:305
+msgid "Please at least one member"
+msgstr "Prosím alespoň jednoho člena"
+
+#: template/account.php:146
+msgid "Please Enter Confirm Password."
+msgstr "Zadejte prosím Potvrdit heslo."
+
+#: template/account.php:135
+msgid "Please Enter New Password."
+msgstr "Zadejte nové heslo."
+
+#: template/songs.php:155 admin/songs/add_song.php:10
+msgid "please fill in the required fields"
+msgstr "vyplňte prosím požadovaná pole"
+
+#: template/donate.php:321 template/donate.php:557 template/pastoral.php:155
+#: template/payment.php:632 template/payment.php:994
+#: template/spiritual-gift.php:273 admin/payment/add_income.php:311
+#: admin/payment/add_transaction.php:312 admin/pledges/add_pledges.php:330
+#: admin/spiritual-gift/sell_gift.php:30
+msgid "Please fill out all the required fields"
+msgstr "Vyplňte prosím všechna povinná pole"
+
+#: admin/setupform/index.php:42
+msgid "Please provide correct Envato purchase key."
+msgstr "Uveďte prosím správný nákupní klíč Envato."
+
+#: template/attendance.php:471 admin/attendance/index.php:495
+msgid "Please Select Activity"
+msgstr "Vyberte Aktivitu"
+
+#: translation_string.php:196 template/familymember.php:281
+#: admin/accountant/index.php:201 admin/activity/index.php:272
+#: admin/check-in/index.php:213 admin/document/index.php:180
+#: admin/family/index.php:297 admin/group/index.php:227
+#: admin/member/index.php:535 admin/member/index.php:544
+#: admin/ministry/index.php:222 admin/notice/index.php:231
+#: admin/pastoral/index.php:172 admin/payment/index.php:275
+#: admin/pledges/index.php:203 admin/sermon/index.php:165
+#: admin/service/index.php:235 admin/songs/index.php:187
+#: admin/spiritual-gift/index.php:239 admin/venue/index.php:291
+msgid "Please select at least one record."
+msgstr "Vyberte prosím alespoň jeden záznam."
+
+#: template/account.php:212
+msgid "Please Select atleast One Image."
+msgstr "Vyberte prosím alespoň jeden obrázek."
+
+#: admin/message/view_message.php:182 template/message/view_message.php:190
+msgid "Please select atleast one users to reply"
+msgstr "Vyberte prosím alespoň jednoho uživatele, kterému chcete odpovědět"
+
+#: template/attendance.php:1005 admin/attendance/ministry-attendence.php:365
+msgid "Please Select Ministry"
+msgstr "Vyberte prosím ministerstvo"
+
+#: translation_string.php:143 template/pledges.php:221 template/pledges.php:233
+#: template/pledges.php:301 admin/pledges/index.php:272
+#: admin/pledges/index.php:285 admin/pledges/index.php:354
+msgid "Pledge Invoice Number"
+msgstr "Číslo zástavní faktury"
+
+#: admin_template.php:825 admin/admin.php:68 admin/admin.php:149
+#: admin/access_right/Accountant.php:797
+#: admin/access_right/Family_member.php:793
+#: admin/access_right/Management.php:898 admin/access_right/Member.php:857
+#: admin/member/view_member.php:97
+msgid "Pledges"
+msgstr "Závazky"
+
+#: admin/mail-tempate/index.php:976
+msgid "Pledges Amount"
+msgstr "Částka příslibů"
+
+#: translation_string.php:176
+msgid "Pledges Details"
+msgstr "Podrobnosti o příslibech"
+
+#: admin/mail-tempate/index.php:975
+msgid "Pledges End Date"
+msgstr "Datum ukončení příslibů"
+
+#: translation_string.php:46
+msgid "Pledges Entries"
+msgstr "Příspěvky do slibů"
+
+#: admin/mail-tempate/index.php:977
+msgid "Pledges frequecy"
+msgstr "Frekvence slibů"
+
+#: admin/pledges/add_pledges.php:357
+msgid "Pledges Information"
+msgstr "Informace o příslibech"
+
+#: translation_string.php:164 template/view_member.php:126
+#: admin/member/view_member.php:132
+msgid "Pledges List"
+msgstr "Seznam slibů"
+
+#: admin/mail-tempate/index.php:979 admin/mail-tempate/index.php:1038
+msgid "Pledges Page Link"
+msgstr "Odkaz na stránku slibů"
+
+#: admin/mail-tempate/index.php:974
+msgid "Pledges Start Date"
+msgstr "Datum zahájení slibů"
+
+#: admin/mail-tempate/index.php:978
+msgid "Pledges Total Amount"
+msgstr "Celková částka příslibů"
+
+#: admin/general-settings.php:399
+msgid "Polish Zloty"
+msgstr "polský zlotý"
+
+#: admin/general-settings.php:401
+msgid "Pound Sterling"
+msgstr "Libra šterlinků"
+
+#: admin_template.php:857 admin_template.php:924 class/church-management.php:35
+#: template/attendance.php:539 template/attendance.php:605
+#: template/attendance.php:621 template/attendance.php:1028
+#: template/attendance.php:1083 template/attendance.php:1097
+#: admin/attendance/index.php:564 admin/attendance/index.php:636
+#: admin/attendance/index.php:652 admin/attendance/ministry-attendence.php:388
+#: admin/attendance/ministry-attendence.php:450
+#: admin/attendance/ministry-attendence.php:464
+#: admin/report/attendance_report.php:115
+#: admin/report/attendance_report.php:256 admin/report/download_report.php:11
+#: admin/report/Untitled-3.php:32 admin/report/Untitled-3.php:98
+#: admin/report/Untitled-3.php:215 admin/report/Untitled-3.php:259
+msgid "Present"
+msgstr "Současnost, dárek"
+
+#: translation_string.php:16
+msgid "Previous"
+msgstr "Předchozí"
+
+#: admin_template.php:1442
+msgid "Price"
+msgstr "Cena"
+
+#: translation_string.php:53 admin/report/expense_report.php:268
+#: admin/report/income_report.php:268
+msgid "Print"
+msgstr "Tisk"
+
+#: translation_string.php:10
+msgid "Processing..."
+msgstr "Zpracovává se..."
+
+#: template/spiritual-gift.php:1037 admin/spiritual-gift/add_gift.php:139
+msgid "Product"
+msgstr "Produkt"
+
+#: translation_string.php:203
+msgid "product"
+msgstr "produkt"
+
+#: template/familymember.php:1113 admin/accountant/add_accountant.php:210
+#: admin/family/add_family.php:270 admin/member/add_member.php:466
+#: admin/pastoral/add_pastoral.php:780 admin/payment/add_income.php:847
+#: admin/payment/add_transaction.php:803 admin/pledges/add_pledges.php:820
+msgid "Profile Image"
+msgstr "Profilový obrázek"
+
+#: template/account.php:158
+msgid "Profile picture updated successfully."
+msgstr "Profilový obrázek byl úspěšně aktualizován."
+
+#: template/sermon-list.php:295 template/sermon-list.php:402
+#: template/sermon-list.php:461 template/sermon-list.php:526
+#: template/sermon-list.php:594 template/sermon-list.php:720
+#: admin/sermon/add_sermon.php:127 admin/sermon/index.php:330
+#: admin/sermon/view_sermon.php:45 admin/sermon/view_sermon.php:104
+#: admin/sermon/view_sermon.php:167 admin/sermon/view_sermon.php:234
+msgid "Publish"
+msgstr "Publikovat"
+
+#: template/check-in.php:96 template/donate.php:301
+#: template/familymember.php:273 template/group.php:136 template/member.php:128
+#: template/ministry.php:132 template/payment.php:171
+#: template/reservation.php:133 template/spiritual-gift.php:171
+#: template/venue.php:114 admin/accountant/index.php:185
+#: admin/activity/index.php:264 admin/check-in/index.php:191
+#: admin/document/index.php:164 admin/family/index.php:289
+#: admin/group/index.php:201 admin/member/index.php:480
+#: admin/ministry/index.php:200 admin/notice/index.php:216
+#: admin/pastoral/index.php:164 admin/payment/index.php:267
+#: admin/pledges/index.php:189 admin/sermon/index.php:156
+#: admin/service/index.php:228 admin/songs/index.php:173
+#: admin/spiritual-gift/index.php:224 admin/transactions/index.php:76
+#: admin/venue/index.php:284
+msgid "Record deleted successfully"
+msgstr "Záznam byl úspěšně smazán"
+
+#: translation_string.php:112 admin/activity/add_activity.php:590
+msgid "Record End Time"
+msgstr "Čas konce záznamu"
+
+#: admin/activity/index.php:194
+msgid "Record End Time should be greater than Start Time."
+msgstr "Čas konce záznamu by měl být větší než čas zahájení."
+
+#: template/check-in.php:75 template/donate.php:281
+#: template/familymember.php:255 template/group.php:120 template/member.php:111
+#: template/ministry.php:115 template/pastoral.php:78 template/payment.php:151
+#: template/pledges.php:89 template/reservation.php:113
+#: template/sermon-list.php:95 template/songs.php:97
+#: template/spiritual-gift.php:150 template/venue.php:94
+#: admin/accountant/index.php:168 admin/activity/index.php:246
+#: admin/check-in/index.php:174 admin/document/index.php:149
+#: admin/family/index.php:272 admin/group/index.php:184
+#: admin/member/index.php:462 admin/ministry/index.php:183
+#: admin/notice/index.php:200 admin/pastoral/index.php:146
+#: admin/payment/index.php:249 admin/pledges/index.php:173
+#: admin/sermon/index.php:139 admin/service/index.php:211
+#: admin/songs/index.php:156 admin/spiritual-gift/index.php:209
+#: admin/transactions/index.php:61 admin/venue/index.php:269
+msgid "Record inserted successfully"
+msgstr "Záznam byl úspěšně vložen"
+
+#: template/notice.php:104
+msgid "Record inserted successfully."
+msgstr "Záznam byl úspěšně vložen."
+
+#: translation_string.php:111 admin/activity/add_activity.php:583
+msgid "Record Start Time"
+msgstr "Zaznamenat čas začátku"
+
+#: admin/mail-tempate/index.php:203
+msgid "Record Updated successfully"
+msgstr "Záznam byl úspěšně aktualizován"
+
+#: admin/general-settings.php:47 template/check-in.php:85
+#: template/donate.php:291 template/familymember.php:264
+#: template/pastoral.php:88 template/payment.php:161 template/pledges.php:99
+#: template/sermon-list.php:106 template/songs.php:108
+#: template/spiritual-gift.php:160 admin/accountant/index.php:175
+#: admin/family/index.php:279
+msgid "Record updated successfully"
+msgstr "Záznam byl úspěšně aktualizován"
+
+#: admin/access_right/index.php:46
+msgid "Record Updated Successfully."
+msgstr "Záznam byl úspěšně aktualizován."
+
+#: template/account.php:112 template/group.php:127 template/member.php:119
+#: template/ministry.php:123 template/notice.php:114
+#: template/reservation.php:123 template/venue.php:104
+#: admin/activity/index.php:255 admin/check-in/index.php:182
+#: admin/document/index.php:155 admin/group/index.php:191
+#: admin/member/index.php:470 admin/ministry/index.php:191
+#: admin/notice/index.php:207 admin/pastoral/index.php:155
+#: admin/payment/index.php:258 admin/pledges/index.php:180
+#: admin/sermon/index.php:147 admin/service/index.php:219
+#: admin/songs/index.php:164 admin/spiritual-gift/index.php:215
+#: admin/transactions/index.php:67 admin/venue/index.php:275
+msgid "Record updated successfully."
+msgstr "Záznam byl úspěšně aktualizován."
+
+#: admin/activity/add_activity.php:524
+msgid "Recurrence"
+msgstr "Opakování"
+
+#: translation_string.php:68
+msgid "Registration"
+msgstr "Registrace"
+
+#: translation_string.php:69
+msgid "Registration complete.Your account active after admin can approve."
+msgstr ""
+"Registrace dokončena. Váš účet je aktivní poté, co jej může schválit "
+"administrátor."
+
+#: admin/mail-tempate/index.php:237
+msgid "Registration Email Template"
+msgstr "Šablona registračního e-mailu"
+
+#: admin/mail-tempate/index.php:216
+msgid "Registration Email Template "
+msgstr "Šablona registračního e-mailu"
+
+#: translation_string.php:88
+msgid "Regular Member"
+msgstr "Řádný člen"
+
+#: admin/service/add_service.php:220
+msgid "Rehearsal"
+msgstr "Zkouška"
+
+#: template/familymember.php:364 template/familymember.php:415
+#: template/familymember.php:524 template/familymember.php:686
+#: template/familymember.php:986 template/view_member.php:1073
+#: template/view_member.php:1114 admin/family/add_family.php:143
+#: admin/family/index.php:375 admin/family/index.php:388
+#: admin/family/index.php:438 admin/family/view_family.php:105
+#: admin/member/view_member.php:1024 admin/member/view_member.php:1035
+#: admin/member/view_member.php:1076 admin/service/view_service.php:119
+msgid "Relation"
+msgstr "Vztah"
+
+#: admin/member/add_member.php:389 admin/pastoral/add_pastoral.php:706
+#: admin/payment/add_income.php:773 admin/payment/add_transaction.php:729
+#: admin/pledges/add_pledges.php:746
+msgid "Religion Information"
+msgstr "Informace o náboženství"
+
+#: admin/activity/add_activity.php:561 admin/activity/add_activity.php:566
+msgid "Repeat Date"
+msgstr "Opakovat datum"
+
+#: admin/message/view_message.php:236 template/message/view_message.php:245
+msgid "Reply"
+msgstr "Odpověď"
+
+#: admin/message/view_message.php:130 template/message/view_message.php:136
+msgid "Reply By : "
+msgstr "Odpovědět od:"
+
+#: admin/message/view_message.php:133 template/message/view_message.php:139
+msgid "Reply To : "
+msgstr "Odpovědět :"
+
+#: translation_string.php:153 admin/admin.php:100 admin/admin.php:165
+#: admin/access_right/Accountant.php:1112
+#: admin/access_right/Management.php:1078 admin/access_right/Member.php:1173
+msgid "Report"
+msgstr "Zpráva"
+
+#: translation_string.php:298
+msgid "Reports"
+msgstr "Zprávy"
+
+#: template/venue.php:289 template/venue.php:300 template/venue.php:363
+#: template/venue.php:511 admin/activity/add_activity.php:673
+#: admin/venue/add_reservation.php:340 admin/venue/add_venue.php:96
+#: admin/venue/index.php:358 admin/venue/index.php:370
+#: admin/venue/index.php:436
+msgid "Request Before Days"
+msgstr "Žádost před dny"
+
+#: admin_template.php:812 admin/access_right/Accountant.php:617
+#: admin/access_right/Management.php:718 admin/access_right/Member.php:677
+#: admin/member/view_member.php:94
+msgid "Reservation"
+msgstr "Rezervace"
+
+#: translation_string.php:73
+msgid "Reservation Details"
+msgstr "Podrobnosti rezervace"
+
+#: template/reservation.php:543 admin/venue/add_reservation.php:225
+msgid "Reservation End Time*"
+msgstr "Čas ukončení rezervace*"
+
+#: admin/venue/add_reservation.php:156
+msgid "Reservation Information"
+msgstr "Informace o rezervaci"
+
+#: admin_template.php:1291 template/venue-reservation.php:37
+msgid "Reservation List"
+msgstr "Seznam rezervací"
+
+#: template/reservation.php:525 admin/venue/add_reservation.php:208
+msgid "Reservation Start Time*"
+msgstr "Čas zahájení rezervace*"
+
+#: translation_string.php:295
+msgid "Reservations"
+msgstr "Rezervace"
+
+#: template/reservation.php:535
+msgid "Reserve End Date"
+msgstr "Datum ukončení rezervace"
+
+#: admin/venue/add_reservation.php:218
+msgid "Reserve End Date*"
+msgstr "Datum ukončení rezervace*"
+
+#: template/reservation.php:518 admin/venue/add_reservation.php:201
+msgid "Reserve Start Date"
+msgstr "Datum zahájení rezervace"
+
+#: template/venue-reservation.php:51 template/venue-reservation.php:60
+#: admin/venue/reservation-list.php:142
+msgid "Reserved By"
+msgstr "Rezervováno uživatelem"
+
+#: template/venue-reservation.php:50 template/venue-reservation.php:59
+msgid "Reserved Date"
+msgstr "Rezervované datum"
+
+#: template/reservation.php:315 admin/venue/reservation-list.php:140
+msgid "Reserved End Date"
+msgstr "Rezervované datum ukončení"
+
+#: admin/mail-tempate/index.php:1325
+msgid "Role Of User"
+msgstr "Role Uživatele"
+
+#: translation_string.php:42
+msgid "Room History"
+msgstr "Historie místnosti"
+
+#: admin/check-in/add_room.php:34
+msgid "Room Information"
+msgstr "Informace o pokoji"
+
+#: admin/check-in/index.php:223
+msgid "Room List"
+msgstr "Seznam místností"
+
+#: template/check-in.php:213 template/check-in.php:223
+#: template/check-in.php:294 template/check-in.php:384
+#: admin/check-in/add_checkin.php:56 admin/check-in/add_room.php:42
+#: admin/check-in/index.php:304 admin/check-in/index.php:315
+#: admin/check-in/index.php:379 admin/mail-tempate/index.php:733
+#: admin/mail-tempate/index.php:792
+msgid "Room Title"
+msgstr "Název místnosti"
+
+#: admin/general-settings.php:489 template/account.php:549
+#: template/check-in.php:434 template/donate.php:756 template/group.php:332
+#: template/news_letter.php:142 template/sermon-list.php:728
+#: template/songs.php:434 template/spiritual-gift.php:1065
+#: template/spiritual-gift.php:1065 template/spiritual-gift.php:1388
+#: template/venue.php:575 admin/access_right/Accountant.php:1291
+#: admin/access_right/Family_member.php:1242
+#: admin/access_right/Management.php:1396 admin/access_right/Member.php:1353
+#: admin/accountant/add_accountant.php:252 admin/activity/add_activity.php:773
+#: admin/mail-tempate/index.php:254 admin/mail-tempate/index.php:313
+#: admin/mail-tempate/index.php:375 admin/mail-tempate/index.php:434
+#: admin/mail-tempate/index.php:493 admin/mail-tempate/index.php:556
+#: admin/mail-tempate/index.php:621 admin/mail-tempate/index.php:687
+#: admin/mail-tempate/index.php:747 admin/mail-tempate/index.php:806
+#: admin/mail-tempate/index.php:866 admin/mail-tempate/index.php:925
+#: admin/mail-tempate/index.php:989 admin/mail-tempate/index.php:1048
+#: admin/mail-tempate/index.php:1104 admin/mail-tempate/index.php:1160
+#: admin/mail-tempate/index.php:1222 admin/mail-tempate/index.php:1279
+#: admin/mail-tempate/index.php:1336 admin/mail-tempate/index.php:1395
+#: admin/mail-tempate/index.php:1456 admin/mail-tempate/index.php:1512
+#: admin/member/add_member.php:512 admin/member/add_member.php:555
+#: admin/member/add_member.php:600 admin/member/index.php:837
+#: admin/ministry/add_ministry.php:81 admin/news-letter/index.php:178
+#: admin/pastoral/add_pastoral.php:858 admin/payment/add_income.php:917
+#: admin/payment/add_transaction.php:873 admin/pledges/add_pledges.php:891
+#: admin/songs/add_song.php:120 admin/songs/add_song.php:192
+#: admin/spiritual-gift/add_gift.php:171
+msgid "Save"
+msgstr "Uložit"
+
+#: translation_string.php:272 admin/activity/add_activity.php:621
+msgid "Save Activity"
+msgstr "Uložit aktivitu"
+
+#: template/attendance.php:639 template/attendance.php:1116
+#: admin/attendance/index.php:669 admin/attendance/ministry-attendence.php:483
+msgid "Save Attendance"
+msgstr "Uložit docházku"
+
+#: translation_string.php:282 admin/document/add_document.php:106
+msgid "Save Document"
+msgstr "Uložit dokument"
+
+#: template/payment.php:1485 admin/payment/add_expense.php:171
+msgid "Save Expense"
+msgstr "Ušetřete náklady"
+
+#: template/familymember.php:1159 admin/family/add_family.php:312
+msgid "Save Family"
+msgstr "Zachraňte rodinu"
+
+#: admin/group/add_group.php:78 admin/pastoral/add_pastoral.php:911
+#: admin/pastoral/add_pastoral.php:911 admin/payment/add_income.php:965
+#: admin/payment/add_income.php:965 admin/payment/add_transaction.php:922
+#: admin/payment/add_transaction.php:922 admin/pledges/add_pledges.php:941
+#: admin/pledges/add_pledges.php:941
+msgid "Save Group"
+msgstr "Uložit skupinu"
+
+#: template/payment.php:1154 admin/payment/add_income.php:493
+msgid "Save Income"
+msgstr "Ušetřete příjem"
+
+#: admin/pastoral/add_pastoral.php:805 admin/payment/add_income.php:872
+#: admin/payment/add_transaction.php:828 admin/pledges/add_pledges.php:845
+msgid "Save Member"
+msgstr "Uložit člena"
+
+#: template/notice.php:415 admin/notice/add-notice.php:86
+msgid "Save Notice"
+msgstr "Uložit oznámení"
+
+#: translation_string.php:276 template/pastoral.php:482
+#: admin/pastoral/add_pastoral.php:435
+msgid "Save Pastoral"
+msgstr "Uložit pastorační"
+
+#: translation_string.php:286 template/pledges.php:506
+#: admin/pledges/add_pledges.php:474
+msgid "Save Pledge"
+msgstr "Uložit slib"
+
+#: translation_string.php:266 template/check-in.php:434
+#: template/reservation.php:618 admin/check-in/add_checkin.php:105
+#: admin/venue/add_reservation.php:286
+msgid "Save Reservation"
+msgstr "Uložit rezervaci"
+
+#: translation_string.php:280 admin/check-in/add_room.php:106
+msgid "Save Room"
+msgstr "Uložit místnost"
+
+#: translation_string.php:292 admin/spiritual-gift/sell_gift.php:128
+msgid "Save Sell Gift"
+msgstr "Uložit Prodám dárek"
+
+#: translation_string.php:284 template/sermon-list.php:728
+#: admin/sermon/add_sermon.php:136
+msgid "Save Sermon"
+msgstr "Uložit kázání"
+
+#: translation_string.php:274 admin/service/add_service.php:250
+msgid "Save Service"
+msgstr "Uložit službu"
+
+#: translation_string.php:290
+msgid "Save Spiritual Gift"
+msgstr "Uložit duchovní dar"
+
+#: translation_string.php:288 template/payment.php:765
+#: admin/payment/add_transaction.php:464
+#: admin/transactions/add_transaction.php:93
+msgid "Save Transaction"
+msgstr "Uložit transakci"
+
+#: translation_string.php:264 translation_string.php:278 template/venue.php:575
+#: admin/activity/add_activity.php:719 admin/venue/add_reservation.php:382
+#: admin/venue/add_venue.php:150
+msgid "Save Venue"
+msgstr "Uložit místo"
+
+#: template/account.php:370
+msgid "Saves"
+msgstr "Uloží"
+
+#: template/reservation.php:165 template/venue.php:144
+#: admin/activity/add_activity.php:25
+msgid "Search for Equipment..."
+msgstr "Hledat vybavení..."
+
+#: admin/venue/add_reservation.php:24 admin/venue/add_venue.php:25
+msgid "Search for equipment..."
+msgstr "Hledat vybavení..."
+
+#: admin/activity/add_activity.php:40 admin/member/add_member.php:64
+#: admin/pastoral/add_pastoral.php:41 admin/payment/add_income.php:39
+#: admin/payment/add_transaction.php:42 admin/pledges/add_pledges.php:50
+#: admin/service/add_service.php:23
+msgid "Search for group..."
+msgstr "Hledat skupinu..."
+
+#: admin/member/add_member.php:49 admin/pastoral/add_pastoral.php:26
+#: admin/payment/add_income.php:24 admin/payment/add_transaction.php:27
+#: admin/pledges/add_pledges.php:36
+msgid "Search for ministry..."
+msgstr "Hledat ministerstvo..."
+
+#: admin/message/view_message.php:170
+msgid "Search for Users..."
+msgstr "Hledat uživatele..."
+
+#: template/message/view_message.php:178
+msgid "Search for users..."
+msgstr "Hledat uživatele..."
+
+#: translation_string.php:171 template/accountant.php:66
+#: template/activity.php:86 template/attendance.php:236
+#: template/attendance.php:753 template/check-in.php:204
+#: template/document.php:85 template/donate.php:347
+#: template/familymember.php:319 template/group.php:163 template/member.php:162
+#: template/ministry.php:159 template/notice.php:176 template/pastoral.php:221
+#: template/payment.php:212 template/payment.php:250 template/payment.php:285
+#: template/pledges.php:211 template/sermon-list.php:210
+#: template/services.php:81 template/songs.php:144
+#: template/spiritual-gift.php:426 template/spiritual-gift.php:1123
+#: template/venue.php:268 template/view_member.php:482
+#: template/view_member.php:682 template/view_member.php:867
+#: template/view_member.php:1055 template/view_member.php:1179
+#: admin/accountant/index.php:235 admin/activity/index.php:305
+#: admin/attendance/index.php:270 admin/attendance/ministry-attendence.php:143
+#: admin/check-in/index.php:270 admin/document/index.php:214
+#: admin/family/index.php:337 admin/group/index.php:265
+#: admin/member/index.php:580 admin/member/view_member.php:468
+#: admin/member/view_member.php:653 admin/member/view_member.php:831
+#: admin/member/view_member.php:1006 admin/member/view_member.php:1129
+#: admin/message/inbox.php:45 admin/message/sendbox.php:46
+#: admin/ministry/index.php:258 admin/notice/index.php:279
+#: admin/pastoral/index.php:204 admin/payment/expense-list.php:25
+#: admin/payment/income_list.php:40 admin/payment/index.php:360
+#: admin/pledges/index.php:237 admin/report/expense_report.php:284
+#: admin/report/income_expense_netprofit.php:358
+#: admin/report/income_report.php:286 admin/report/payment_data.php:121
+#: admin/sermon/index.php:218 admin/service/index.php:268
+#: admin/songs/index.php:216 admin/spiritual-gift/index.php:330
+#: admin/spiritual-gift/sell_gift_list.php:26 admin/venue/index.php:322
+#: admin/venue/reservation-list.php:92 template/message/inbox.php:39
+#: template/message/sendbox.php:34
+msgid "Search..."
+msgstr "Vyhledávání..."
+
+#: translation_string.php:11
+msgid "Search:"
+msgstr "Vyhledávání:"
+
+#: template/attendance.php:137 template/attendance.php:664
+#: admin/attendance/index.php:157 admin/attendance/ministry-attendence.php:54
+#: admin/report/attendance_report.php:179
+#: admin/report/attendance_report.php:322 admin/report/expense_report.php:196
+#: admin/report/income_expense_netprofit.php:218
+#: admin/report/income_report.php:197 admin/report/payment_data.php:54
+#: admin/report/Untitled-3.php:160
+msgid "Select"
+msgstr "Vybrat"
+
+#: template/attendance.php:153 template/attendance.php:409
+#: admin/attendance/index.php:173 admin/attendance/index.php:444
+msgid "Select Activity"
+msgstr "Vyberte Aktivita"
+
+#: admin/activity/add_activity.php:370
+msgid "Select Activity Category"
+msgstr "Vyberte kategorii aktivity"
+
+#: template/attendance.php:157 template/attendance.php:413
+#: admin/attendance/index.php:177 admin/attendance/index.php:448
+msgid "Select Activity Name"
+msgstr "Vyberte Název aktivity"
+
+#: admin/accountant/index.php:365 admin/activity/index.php:516
+#: admin/check-in/index.php:448 admin/document/index.php:398
+#: admin/family/index.php:498 admin/group/index.php:392
+#: admin/member/index.php:723 admin/ministry/index.php:376
+#: admin/notice/index.php:461 admin/pastoral/index.php:374
+#: admin/payment/expense-list.php:204 admin/payment/income_list.php:234
+#: admin/payment/index.php:560 admin/pledges/index.php:427
+#: admin/sermon/index.php:384 admin/service/index.php:448
+#: admin/songs/index.php:374 admin/spiritual-gift/index.php:467
+#: admin/spiritual-gift/sell_gift_list.php:218 admin/venue/index.php:505
+#: admin/venue/reservation-list.php:276
+msgid "Select All"
+msgstr "Vybrat vše"
+
+#: template/reservation.php:161 template/venue.php:139
+#: admin/activity/add_activity.php:20 admin/activity/add_activity.php:35
+#: admin/member/add_member.php:44 admin/member/add_member.php:59
+#: admin/message/view_message.php:165 admin/pastoral/add_pastoral.php:21
+#: admin/pastoral/add_pastoral.php:36 admin/payment/add_income.php:19
+#: admin/payment/add_income.php:34 admin/payment/add_transaction.php:22
+#: admin/payment/add_transaction.php:37 admin/pledges/add_pledges.php:31
+#: admin/pledges/add_pledges.php:45 admin/service/add_service.php:19
+#: admin/venue/add_reservation.php:19 admin/venue/add_venue.php:20
+#: template/message/view_message.php:174
+msgid "Select all"
+msgstr "Vybrat vše"
+
+#: template/reservation.php:584 admin/venue/add_reservation.php:251
+msgid "Select Applicant"
+msgstr "Vyberte žadatel"
+
+#: template/news_letter.php:256 admin/news-letter/campaign.php:34
+msgid "Select Campaign"
+msgstr "Vyberte Kampaň"
+
+#: admin/member/index.php:827 admin/member/uploadmember.php:15
+msgid "Select CSV file"
+msgstr "Vyberte soubor CSV"
+
+#: admin/general-settings.php:363 admin/general-settings.php:365
+msgid "Select Currency"
+msgstr "Vyberte možnost Měna"
+
+#: admin/general-settings.php:253
+msgid "Select Date Format"
+msgstr "Vyberte Formát data"
+
+#: template/donate.php:677 template/payment.php:695
+#: admin/payment/add_transaction.php:394
+msgid "Select Donations Type"
+msgstr "Vyberte typ darů"
+
+#: template/reservation.php:160 template/venue.php:138
+#: admin/activity/add_activity.php:19 admin/venue/add_reservation.php:18
+#: admin/venue/add_venue.php:19
+msgid "Select Equipment"
+msgstr "Vyberte Zařízení"
+
+#: template/pledges.php:458 admin/pledges/add_pledges.php:430
+msgid "Select Frequency"
+msgstr "Vyberte možnost Frekvence"
+
+#: template/spiritual-gift.php:1357 admin/spiritual-gift/sell_gift.php:97
+msgid "Select Gift"
+msgstr "Vyberte Dárek"
+
+#: template/spiritual-gift.php:1032 admin/spiritual-gift/add_gift.php:134
+msgid "Select Gift Type"
+msgstr "Vyberte Typ dárku"
+
+#: admin/activity/add_activity.php:34 admin/member/add_member.php:58
+#: admin/pastoral/add_pastoral.php:35 admin/payment/add_income.php:33
+#: admin/payment/add_transaction.php:36 admin/pledges/add_pledges.php:44
+#: admin/service/add_service.php:18
+msgid "Select Group"
+msgstr "Vyberte Skupina"
+
+#: template/attendance.php:173 template/attendance.php:431
+#: admin/attendance/index.php:193 admin/attendance/index.php:466
+msgid "Select Group Name"
+msgstr "Vyberte Název skupiny"
+
+#: template/attendance.php:170 template/attendance.php:427
+#: admin/attendance/index.php:190 admin/attendance/index.php:462
+msgid "Select Group/Members"
+msgstr "Vyberte Skupina/Členové"
+
+#: template/news_letter.php:199 template/news_letter.php:240
+#: admin/news-letter/campaign.php:20 admin/news-letter/sync.php:50
+#: admin/news-letter/sync.php:108
+msgid "Select list"
+msgstr "Vyberte seznam"
+
+#: template/check-in.php:392 template/donate.php:613
+#: template/familymember.php:936 template/familymember.php:959
+#: template/pastoral.php:409 template/payment.php:663 template/payment.php:1025
+#: template/pledges.php:404 template/spiritual-gift.php:1322
+#: admin/check-in/add_checkin.php:64 admin/family/add_family.php:117
+#: admin/pastoral/add_pastoral.php:354 admin/pastoral/add_pastoral.php:385
+#: admin/payment/add_income.php:350 admin/payment/add_transaction.php:351
+#: admin/pledges/add_pledges.php:379 admin/spiritual-gift/sell_gift.php:62
+#: admin/transactions/add_transaction.php:41
+msgid "Select Member"
+msgstr "Vyberte Člen"
+
+#: template/attendance.php:681 template/attendance.php:962
+#: admin/attendance/ministry-attendence.php:71
+#: admin/attendance/ministry-attendence.php:322 admin/member/add_member.php:43
+#: admin/pastoral/add_pastoral.php:20 admin/payment/add_income.php:18
+#: admin/payment/add_transaction.php:21 admin/pledges/add_pledges.php:30
+msgid "Select Ministry"
+msgstr "Vyberte Ministerstvo"
+
+#: template/attendance.php:684 template/attendance.php:965
+#: admin/attendance/ministry-attendence.php:74
+#: admin/attendance/ministry-attendence.php:325
+msgid "Select Ministry Name"
+msgstr "Vyberte Název ministerstva"
+
+#: template/donate.php:727
+msgid "Select Payment Method"
+msgstr "Vyberte způsob platby"
+
+#: translation_string.php:71
+msgid "Select Profile Picture"
+msgstr "Vyberte Profilový obrázek"
+
+#: template/familymember.php:989 admin/family/add_family.php:146
+msgid "Select Relation"
+msgstr "Vyberte položku Vztah"
+
+#: admin/report/download_report.php:72
+msgid "Select Report Type"
+msgstr "Vyberte Typ zprávy"
+
+#: template/sermon-list.php:685 admin/sermon/add_sermon.php:95
+msgid "Select Sermon Type"
+msgstr "Vyberte Typ kázání"
+
+#: admin/service/add_service.php:138
+msgid "Select Service Type"
+msgstr "Vyberte Typ služby"
+
+#: template/songs.php:365 admin/songs/add_song.php:54
+#: admin/songs/add_song.php:134
+msgid "Select Song Category"
+msgstr "Vyberte kategorii skladby"
+
+#: admin/message/view_message.php:290 template/message/view_message.php:296
+msgid "Select user to reply"
+msgstr "Vyberte uživatele, na kterého chcete odpovědět"
+
+#: admin/message/view_message.php:164 template/message/view_message.php:173
+msgid "Select users to reply"
+msgstr "Vyberte uživatele, na které chcete odpovědět"
+
+#: template/reservation.php:493 admin/activity/add_activity.php:416
+#: admin/venue/add_reservation.php:173
+msgid "Select Venue"
+msgstr "Vyberte Místo konání"
+
+#: admin/report/expense_report.php:33
+#: admin/report/income_expense_netprofit.php:31
+#: admin/report/income_report.php:31 admin/report/payment_report.php:80
+msgid "Selecte year"
+msgstr "Vyberte rok"
+
+#: translation_string.php:85
+msgid "Sell Date"
+msgstr "Datum prodeje"
+
+#: translation_string.php:47 template/spiritual-gift.php:1388
+msgid "Sell Gift"
+msgstr "Prodám dárek"
+
+#: translation_string.php:75
+msgid "Sell Gift Details"
+msgstr "Podrobnosti o prodeji dárku"
+
+#: admin/spiritual-gift/sell_gift.php:56
+msgid "Sell Gift Information"
+msgstr "Informace o prodeji dárků"
+
+#: admin_template.php:1424
+msgid "Sell Gift List"
+msgstr "Prodejní seznam dárků"
+
+#: template/spiritual-gift.php:372
+msgid "Sell Gifts"
+msgstr "Prodej dárků"
+
+#: template/spiritual-gift.php:353 admin/spiritual-gift/index.php:280
+msgid "Sell Gifts List"
+msgstr "Prodejní seznam dárků"
+
+#: admin/mail-tempate/index.php:1007 admin/mail-tempate/index.php:1028
+msgid "Sell Spiritual Gift Template"
+msgstr "Prodám šablonu duchovního dárku"
+
+#: admin_template.php:1441
+msgid "Selling Date"
+msgstr "Datum prodeje"
+
+#: admin/message/view_message.php:280 admin/message/view_message.php:325
+#: template/message/view_message.php:287 template/message/view_message.php:330
+msgid "Send"
+msgstr "Poslat"
+
+#: template/news_letter.php:271 admin/news-letter/campaign.php:51
+msgid "Send Campaign"
+msgstr "Odeslat kampaň"
+
+#: admin/message/composemail.php:50 template/message/composemail.php:93
+msgid "Send Message"
+msgstr "Poslat zprávu"
+
+#: template/message.php:97 admin/message/index.php:143
+msgid "Sent"
+msgstr "Odesláno"
+
+#: admin/message/index.php:102
+msgid "Sent Item"
+msgstr "Odeslaná položka"
+
+#: translation_string.php:247 admin/report/expense_report.php:89
+#: admin/report/income_expense_netprofit.php:88
+#: admin/report/income_report.php:89
+msgid "Sep"
+msgstr "září"
+
+#: admin/report/activity_reoprt.php:10 admin/report/payment_report.php:5
+msgid "September"
+msgstr "září"
+
+#: admin/mail-tempate/index.php:853
+msgid "Sermon Added By"
+msgstr "Kázání přidal"
+
+#: template/sermon-list.php:697 admin/sermon/add_sermon.php:105
+msgid "Sermon Content"
+msgstr "Obsah kázání"
+
+#: template/sermon-list.php:676 admin/sermon/add_sermon.php:85
+msgid "Sermon Content Type"
+msgstr "Typ obsahu kázání"
+
+#: admin/mail-tempate/index.php:855
+msgid "Sermon Description"
+msgstr "Popis kázání"
+
+#: admin/admin.php:60 admin/admin.php:145 admin/access_right/Accountant.php:707
+#: admin/access_right/Family_member.php:703
+#: admin/access_right/Management.php:808 admin/access_right/Member.php:767
+#: admin/sermon/index.php:173
+msgid "Sermon List"
+msgstr "Seznam kázání"
+
+#: admin/mail-tempate/index.php:857
+msgid "Sermon Page Link"
+msgstr "Odkaz na stránku kázání"
+
+#: template/sermon-list.php:219 template/sermon-list.php:228
+#: template/sermon-list.php:290 template/sermon-list.php:376
+#: template/sermon-list.php:435 template/sermon-list.php:500
+#: template/sermon-list.php:569 template/sermon-list.php:660
+#: admin/mail-tempate/index.php:854 admin/sermon/add_sermon.php:72
+#: admin/sermon/index.php:252 admin/sermon/index.php:262
+#: admin/sermon/index.php:325 admin/sermon/view_sermon.php:19
+#: admin/sermon/view_sermon.php:78 admin/sermon/view_sermon.php:141
+#: admin/sermon/view_sermon.php:209
+msgid "Sermon Title"
+msgstr "Název kázání"
+
+#: template/sermon-list.php:220 template/sermon-list.php:229
+#: template/sermon-list.php:292 template/sermon-list.php:386
+#: template/sermon-list.php:445 template/sermon-list.php:510
+#: template/sermon-list.php:578 admin/sermon/index.php:253
+#: admin/sermon/index.php:263 admin/sermon/index.php:327
+#: admin/sermon/view_sermon.php:29 admin/sermon/view_sermon.php:88
+#: admin/sermon/view_sermon.php:151 admin/sermon/view_sermon.php:218
+msgid "Sermon Type"
+msgstr "Typ kázání"
+
+#: template/spiritual-gift.php:1038 admin/spiritual-gift/add_gift.php:140
+msgid "Service"
+msgstr "Servis"
+
+#: translation_string.php:204
+msgid "service"
+msgstr "servis"
+
+#: translation_string.php:72
+msgid "Service Details"
+msgstr "Podrobnosti o službě"
+
+#: admin/mail-tempate/index.php:603 admin/service/add_service.php:184
+msgid "Service End Date"
+msgstr "Datum ukončení služby"
+
+#: translation_string.php:191 admin/mail-tempate/index.php:605
+msgid "Service End Time"
+msgstr "Čas ukončení služby"
+
+#: translation_string.php:270 admin/service/add_service.php:198
+msgid "Service End Time*"
+msgstr "Čas ukončení služby*"
+
+#: admin/service/add_service.php:128
+msgid "Service Information"
+msgstr "Servisní informace"
+
+#: admin_template.php:1251
+msgid "Service Name"
+msgstr "Název služby"
+
+#: admin/mail-tempate/index.php:612
+msgid "Service Page Link"
+msgstr "Odkaz na stránku služby"
+
+#: admin/mail-tempate/index.php:602 admin/service/add_service.php:176
+msgid "Service Start Date"
+msgstr "Datum zahájení služby"
+
+#: translation_string.php:190 admin/mail-tempate/index.php:604
+msgid "Service Start Time"
+msgstr "Čas zahájení služby"
+
+#: translation_string.php:269 admin/service/add_service.php:191
+msgid "Service Start Time*"
+msgstr "Čas zahájení služby*"
+
+#: template/services.php:90 template/services.php:100 template/services.php:169
+#: admin/mail-tempate/index.php:601 admin/service/add_service.php:168
+#: admin/service/index.php:302 admin/service/index.php:313
+#: admin/service/index.php:383
+msgid "Service Title"
+msgstr "Název služby"
+
+#: template/services.php:91 template/services.php:101 template/services.php:171
+#: admin/service/add_service.php:136 admin/service/index.php:303
+#: admin/service/index.php:314 admin/service/index.php:396
+msgid "Service Type"
+msgstr "Typ služby"
+
+#: translation_string.php:25
+msgid "Service Type Name"
+msgstr "Název typu služby"
+
+#: admin_template.php:743 admin_template.php:1241 admin/admin.php:40
+#: admin/admin.php:135 admin/access_right/Accountant.php:392
+#: admin/access_right/Family_member.php:433
+#: admin/access_right/Management.php:446 admin/access_right/Member.php:452
+msgid "Services"
+msgstr "Služby"
+
+#: template/news_letter.php:102 admin/news-letter/index.php:144
+msgid "Setting"
+msgstr "Nastavení"
+
+#: template/news_letter.php:15 admin/news-letter/index.php:64
+msgid "Setting saved successfully."
+msgstr "Nastavení bylo úspěšně uloženo."
+
+#: admin_template.php:770
+msgid "Settings"
+msgstr "Nastavení"
+
+#: translation_string.php:8
+msgid "Show _MENU_ entries"
+msgstr "Zobrazit položky _MENU_"
+
+#: translation_string.php:6
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "Zobrazuje se 0 až 0 z 0 záznamů"
+
+#: translation_string.php:5
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "Zobrazeno _START_ až _END_ z _TOTAL_ záznamů"
+
+#: admin/general-settings.php:404
+msgid "Singapore Dollar"
+msgstr "Singapurský dolar"
+
+#: template/familymember.php:997 admin/family/add_family.php:154
+msgid "Sister"
+msgstr "Sestra"
+
+#: template/accountant.php:356 admin/accountant/add_accountant.php:175
+#: admin/accountant/view_accountant.php:158
+msgid "Skyp Id"
+msgstr "ID Skypu"
+
+#: template/account.php:534 template/view_member.php:279
+#: admin/member/add_member.php:383 admin/member/view_member.php:270
+#: admin/pastoral/add_pastoral.php:700 admin/payment/add_income.php:767
+#: admin/payment/add_transaction.php:723 admin/pledges/add_pledges.php:740
+msgid "Skype Id"
+msgstr "Skype ID"
+
+#: template/familymember.php:995 admin/family/add_family.php:152
+msgid "Son"
+msgstr "Syn"
+
+#: template/songs.php:412 admin/songs/add_song.php:98
+#: admin/songs/add_song.php:177
+msgid "Song"
+msgstr "Píseň"
+
+#: admin/mail-tempate/index.php:911
+msgid "Song Added By"
+msgstr "Píseň přidal"
+
+#: template/songs.php:211 template/songs.php:219 template/songs.php:280
+#: template/songs.php:361 template/songs.php:471
+#: admin/mail-tempate/index.php:913 admin/songs/add_song.php:50
+#: admin/songs/add_song.php:131 admin/songs/index.php:251
+#: admin/songs/index.php:260 admin/songs/index.php:323
+#: admin/songs/view_song.php:26
+msgid "Song Category"
+msgstr "Kategorie písní"
+
+#: admin/mail-tempate/index.php:914
+msgid "Song Description"
+msgstr "Popis písně"
+
+#: admin/songs/add_song.php:44
+msgid "Song Information"
+msgstr "Informace o skladbě"
+
+#: template/songs.php:210 template/songs.php:218 template/songs.php:278
+#: template/songs.php:394 template/songs.php:462
+#: admin/mail-tempate/index.php:912 admin/songs/add_song.php:83
+#: admin/songs/add_song.php:161 admin/songs/index.php:250
+#: admin/songs/index.php:259 admin/songs/index.php:321
+#: admin/songs/view_song.php:16
+msgid "Song Name"
+msgstr "Název skladby"
+
+#: admin/mail-tempate/index.php:915
+msgid "Song Page Link"
+msgstr "Odkaz na stránku písně"
+
+#: admin_template.php:838 admin/admin.php:64 admin/admin.php:147
+#: admin/access_right/Accountant.php:752
+#: admin/access_right/Family_member.php:748
+#: admin/access_right/Management.php:943 admin/access_right/Member.php:812
+msgid "Songs"
+msgstr "Písně"
+
+#: admin/general-settings.php:407
+msgid "South African Rand"
+msgstr "Jihoafrický Rand"
+
+#: translation_string.php:3
+msgid "Speaker Name"
+msgstr "Jméno mluvčího"
+
+#: admin/admin.php:76 admin/admin.php:153 admin/access_right/Accountant.php:887
+#: admin/access_right/Family_member.php:883
+#: admin/access_right/Management.php:853 admin/access_right/Member.php:947
+msgid "Spiritual Gift"
+msgstr "Duchovní dar"
+
+#: translation_string.php:132
+msgid "Spiritual Gifts"
+msgstr "Duchovní dary"
+
+#: template/spiritual-gift.php:317 admin/spiritual-gift/index.php:248
+msgid "Spiritual Gifts List"
+msgstr "Seznam duchovních darů"
+
+#: admin_template.php:386 admin_template.php:1252 template/pledges.php:435
+#: template/view_member.php:881 template/view_member.php:892
+#: template/view_member.php:961 admin/member/view_member.php:845
+#: admin/member/view_member.php:856 admin/member/view_member.php:925
+#: admin/pledges/add_pledges.php:406 admin/report/download_report.php:83
+#: admin/report/Untitled-3.php:331
+msgid "Start Date"
+msgstr "Datum zahájení"
+
+#: translation_string.php:104 template/activity.php:97
+#: template/activity.php:178 template/pledges.php:222 template/pledges.php:234
+#: template/pledges.php:303 template/reservation.php:304
+#: template/reservation.php:384 template/services.php:92
+#: template/services.php:102 template/services.php:173
+#: admin/activity/index.php:341 admin/activity/index.php:424
+#: admin/pledges/index.php:273 admin/pledges/index.php:286
+#: admin/pledges/index.php:356 admin/service/index.php:304
+#: admin/service/index.php:315 admin/service/index.php:398
+#: admin/venue/reservation-list.php:128 admin/venue/reservation-list.php:223
+msgid "Start Date To End Date"
+msgstr "Datum zahájení do data ukončení"
+
+#: template/activity.php:111 template/reservation.php:316
+#: template/venue-reservation.php:52 template/venue-reservation.php:61
+#: admin/activity/index.php:356 admin/service/add_service.php:236
+#: admin/venue/reservation-list.php:141
+msgid "Start Time"
+msgstr "Doba spuštění"
+
+#: template/activity.php:98 template/activity.php:192
+#: template/reservation.php:305 template/reservation.php:386
+#: template/services.php:93 template/services.php:103 template/services.php:175
+#: admin/activity/index.php:342 admin/activity/index.php:438
+#: admin/service/index.php:305 admin/service/index.php:316
+#: admin/service/index.php:400 admin/venue/reservation-list.php:129
+#: admin/venue/reservation-list.php:225
+msgid "Start Time To End Time"
+msgstr "Čas začátku do času konce"
+
+#: translation_string.php:173
+msgid "Start Time To End time"
+msgstr "Čas začátku Do času konce"
+
+#: admin/general-settings.php:133
+msgid "Starting Year"
+msgstr "Počáteční rok"
+
+#: template/familymember.php:704 template/familymember.php:1028
+#: admin/family/add_family.php:185 admin/family/view_family.php:123
+#: admin/service/view_service.php:137
+msgid "State"
+msgstr "Stát"
+
+#: template/attendance.php:565 template/attendance.php:571
+#: template/attendance.php:1047 template/attendance.php:1053
+#: template/check-in.php:214 template/check-in.php:224
+#: template/check-in.php:301 template/payment.php:1053
+#: template/payment.php:1380 template/sermon-list.php:221
+#: template/sermon-list.php:230 template/sermon-list.php:300
+#: template/sermon-list.php:395 template/sermon-list.php:454
+#: template/sermon-list.php:519 template/sermon-list.php:587
+#: template/sermon-list.php:711 admin/attendance/index.php:592
+#: admin/attendance/index.php:598 admin/attendance/ministry-attendence.php:411
+#: admin/attendance/ministry-attendence.php:417 admin/check-in/index.php:305
+#: admin/check-in/index.php:316 admin/check-in/index.php:386
+#: admin/payment/add_expense.php:61 admin/payment/add_income.php:383
+#: admin/report/download_report.php:133 admin/sermon/add_sermon.php:118
+#: admin/sermon/index.php:254 admin/sermon/index.php:264
+#: admin/sermon/index.php:335 admin/sermon/view_sermon.php:38
+#: admin/sermon/view_sermon.php:97 admin/sermon/view_sermon.php:160
+#: admin/sermon/view_sermon.php:227
+msgid "Status"
+msgstr "Postavení"
+
+#: translation_string.php:139 translation_string.php:184
+msgid "Status :"
+msgstr "Stav:"
+
+#: admin/message/composemail.php:32 admin/message/inbox.php:81
+#: admin/message/inbox.php:159 admin/message/sendbox.php:57
+#: admin/message/sendbox.php:162 admin/message/view_message.php:69
+#: template/message/composemail.php:75 template/message/inbox.php:58
+#: template/message/inbox.php:130 template/message/sendbox.php:54
+#: template/message/sendbox.php:157 template/message/view_message.php:77
+msgid "Subject"
+msgstr "Předmět"
+
+#: admin/setupform/index.php:89
+msgid "Submit"
+msgstr "Předložit"
+
+#: translation_string.php:52
+msgid "Subtotal :"
+msgstr "Mezisoučet:"
+
+#: template/payment.php:1191 template/payment.php:1201
+#: template/payment.php:1275 template/payment.php:1375
+#: admin/payment/add_expense.php:56 admin/payment/expense-list.php:59
+#: admin/payment/expense-list.php:70 admin/payment/expense-list.php:146
+#: admin/report/expense_report.php:318 admin/report/expense_report.php:327
+#: admin/report/expense_report.php:400
+msgid "Supplier Name"
+msgstr "Jméno dodavatele"
+
+#: admin/general-settings.php:410
+msgid "Swedish Krona"
+msgstr "švédská koruna"
+
+#: admin/general-settings.php:412
+msgid "Swiss Franc"
+msgstr "švýcarský frank"
+
+#: template/news_letter.php:107 template/news_letter.php:214
+#: admin/news-letter/index.php:148 admin/news-letter/sync.php:67
+#: admin/news-letter/sync.php:120
+msgid "Sync Mail"
+msgstr "Synchronizovat poštu"
+
+#: template/news_letter.php:51 admin/news-letter/index.php:101
+msgid "Synchronize Mail Successfully"
+msgstr "Synchronizace pošty proběhla úspěšně"
+
+#: admin/general-settings.php:414
+msgid "Taiwan New Dollar"
+msgstr "Tchajwanský nový dolar"
+
+#: template/attendance.php:449 template/attendance.php:980
+#: admin/attendance/index.php:472 admin/attendance/ministry-attendence.php:340
+msgid "Take/View  Attendance"
+msgstr "Převzít/Zobrazit docházku"
+
+#: template/accountant.php:196 template/activity.php:258
+#: template/check-in.php:351 template/document.php:227 template/donate.php:532
+#: template/familymember.php:570 template/group.php:260 template/member.php:324
+#: template/ministry.php:254 template/notice.php:317 template/pastoral.php:362
+#: template/payment.php:606 template/payment.php:967 template/payment.php:1337
+#: template/pledges.php:364 template/reservation.php:442
+#: template/sermon-list.php:344 template/services.php:214
+#: template/songs.php:323 template/spiritual-gift.php:543
+#: template/spiritual-gift.php:1286 template/venue.php:442
+#: template/view_member.php:633 template/view_member.php:820
+#: template/view_member.php:1018 template/view_member.php:1144
+#: template/view_member.php:1306 admin/accountant/index.php:389
+#: admin/activity/index.php:540 admin/check-in/index.php:472
+#: admin/document/index.php:422 admin/family/index.php:522
+#: admin/group/index.php:416 admin/member/index.php:757
+#: admin/member/view_member.php:616 admin/member/view_member.php:793
+#: admin/member/view_member.php:978 admin/member/view_member.php:1102
+#: admin/member/view_member.php:1252 admin/message/sendbox.php:206
+#: admin/ministry/index.php:400 admin/notice/index.php:485
+#: admin/pastoral/index.php:398 admin/payment/expense-list.php:235
+#: admin/payment/income_list.php:265 admin/payment/index.php:591
+#: admin/pledges/index.php:451 admin/report/activity_reoprt.php:66
+#: admin/report/payment_data.php:239 admin/sermon/index.php:408
+#: admin/service/index.php:472 admin/songs/index.php:398
+#: admin/spiritual-gift/index.php:498
+#: admin/spiritual-gift/sell_gift_list.php:249 admin/venue/index.php:529
+#: admin/venue/reservation-list.php:300 template/message/sendbox.php:203
+msgid "Tap on above icon to add your first Record."
+msgstr "Klepnutím na výše uvedenou ikonu přidáte svůj první záznam."
+
+#: admin/member/index.php:765
+msgid "Tap on above icon to import CSV."
+msgstr "Klepnutím na ikonu nahoře importujete CSV."
+
+#: admin/general-settings.php:416
+msgid "Thai Baht"
+msgstr "thajský baht"
+
+#: admin/mail-tempate/index.php:424 admin/mail-tempate/index.php:666
+msgid "The Group Name"
+msgstr "Název skupiny"
+
+#: admin/mail-tempate/index.php:423 admin/mail-tempate/index.php:482
+msgid "The Member Name"
+msgstr "Jméno člena"
+
+#: admin/mail-tempate/index.php:483
+msgid "The Ministry Name"
+msgstr "Název ministerstva"
+
+#: translation_string.php:66 admin/report/download_report.php:164
+#: admin/report/download_report.php:227
+msgid "There is not enough data to generate report."
+msgstr "Pro vytvoření přehledu není dostatek dat."
+
+#: admin/setupform/index.php:34
+msgid ""
+"There seems to be some problem please try after sometime or contact us on "
+"sales@dasinfomeida.com"
+msgstr ""
+"Zdá se, že došlo k nějakému problému, zkuste to po nějaké době nebo nás "
+"kontaktujte na adrese sales@dasinfomeida.com"
+
+#: template/attendance.php:510 admin/attendance/index.php:535
+msgid "This group have no members."
+msgstr "Tato skupina nemá žádné členy."
+
+#: template/attendance.php:1132 admin/attendance/ministry-attendence.php:497
+msgid "This ministry have no members."
+msgstr "Toto ministerstvo nemá žádné členy."
+
+#: template/attendance.php:141 template/attendance.php:668
+#: admin/attendance/index.php:161 admin/attendance/ministry-attendence.php:58
+#: admin/report/attendance_report.php:183
+#: admin/report/attendance_report.php:326 admin/report/expense_report.php:200
+#: admin/report/income_expense_netprofit.php:222
+#: admin/report/income_report.php:201 admin/report/payment_data.php:58
+#: admin/report/Untitled-3.php:164
+msgid "This Month"
+msgstr "Tento měsíc"
+
+#: template/attendance.php:139 template/attendance.php:666
+#: admin/attendance/index.php:159 admin/attendance/ministry-attendence.php:56
+#: admin/report/attendance_report.php:181
+#: admin/report/attendance_report.php:324 admin/report/expense_report.php:198
+#: admin/report/income_expense_netprofit.php:220
+#: admin/report/income_report.php:199 admin/report/payment_data.php:56
+#: admin/report/Untitled-3.php:162
+msgid "This Week"
+msgstr "Tento týden"
+
+#: template/attendance.php:146 template/attendance.php:673
+#: admin/attendance/index.php:166 admin/attendance/ministry-attendence.php:63
+#: admin/report/attendance_report.php:188
+#: admin/report/attendance_report.php:331 admin/report/expense_report.php:205
+#: admin/report/income_expense_netprofit.php:227
+#: admin/report/income_report.php:206 admin/report/payment_data.php:63
+#: admin/report/Untitled-3.php:169
+msgid "This Year"
+msgstr "Tento rok"
+
+#: admin_template.php:382 admin_template.php:386
+msgid "Title Name"
+msgstr "Název titulu"
+
+#: translation_string.php:106 template/activity.php:178
+#: template/activity.php:188 template/notice.php:262 template/pledges.php:303
+#: template/reservation.php:384 template/reservation.php:386
+#: template/services.php:173 template/services.php:175
+#: admin/activity/index.php:424 admin/activity/index.php:434
+#: admin/message/view_message.php:78 admin/message/view_message.php:80
+#: admin/message/view_message.php:85 admin/notice/index.php:392
+#: admin/pledges/index.php:356 admin/service/index.php:398
+#: admin/service/index.php:400 admin/venue/reservation-list.php:223
+#: admin/venue/reservation-list.php:225 template/message/view_message.php:88
+#: template/message/view_message.php:91 template/message/view_message.php:94
+msgid "To"
+msgstr "Na"
+
+#: template/attendance.php:138 template/attendance.php:665
+#: admin/attendance/index.php:158 admin/attendance/ministry-attendence.php:55
+#: admin/report/attendance_report.php:180
+#: admin/report/attendance_report.php:323 admin/report/expense_report.php:197
+#: admin/report/income_expense_netprofit.php:219
+#: admin/report/income_report.php:198 admin/report/payment_data.php:55
+#: admin/report/Untitled-3.php:161
+msgid "Today"
+msgstr "Dnes"
+
+#: admin_template.php:799
+msgid "Today Attendance"
+msgstr "Dnes Účast"
+
+#: admin_template.php:1345 template/pledges.php:225 template/pledges.php:237
+#: template/pledges.php:322 template/pledges.php:496
+#: template/view_member.php:885 template/view_member.php:896
+#: template/view_member.php:979 admin/member/view_member.php:849
+#: admin/member/view_member.php:860 admin/member/view_member.php:943
+#: admin/pledges/add_pledges.php:465 admin/pledges/index.php:276
+#: admin/pledges/index.php:289 admin/pledges/index.php:377
+msgid "Total Amount"
+msgstr "Celková částka"
+
+#: admin/report/income_expense_netprofit.php:392
+#: admin/report/income_expense_netprofit.php:407
+msgid "Total Expense"
+msgstr "Celkové náklady"
+
+#: admin/report/income_expense_netprofit.php:391
+#: admin/report/income_expense_netprofit.php:406
+msgid "Total Income"
+msgstr "Celkový příjem"
+
+#: translation_string.php:99 template/group.php:193 template/group.php:201
+#: template/group.php:222 template/ministry.php:188 template/ministry.php:196
+#: template/ministry.php:217 admin/group/index.php:301
+#: admin/group/index.php:310 admin/group/index.php:345
+#: admin/ministry/index.php:293 admin/ministry/index.php:302
+#: admin/ministry/index.php:330
+msgid "Total Member"
+msgstr "Celkový člen"
+
+#: translation_string.php:166
+msgid "Total Members"
+msgstr "Celkový počet členů"
+
+#: translation_string.php:163
+msgid "Total Participant"
+msgstr "Celkový počet účastníků"
+
+#: translation_string.php:92 admin/member/view_member.php:100
+msgid "Transaction"
+msgstr "Transakce"
+
+#: template/donate.php:403 template/donate.php:414 template/donate.php:489
+#: template/donate.php:704 template/payment.php:439 template/payment.php:451
+#: template/payment.php:531 template/payment.php:725
+#: template/view_member.php:497 template/view_member.php:508
+#: template/view_member.php:572 admin/member/view_member.php:483
+#: admin/member/view_member.php:494 admin/member/view_member.php:558
+#: admin/payment/add_transaction.php:424 admin/payment/index.php:397
+#: admin/payment/index.php:410 admin/payment/index.php:492
+#: admin/report/download_report.php:194 admin/report/payment_data.php:133
+#: admin/report/payment_data.php:142 admin/report/payment_data.php:213
+#: admin/transactions/add_transaction.php:64 admin/transactions/index.php:140
+#: admin/transactions/index.php:149
+msgid "Transaction Date"
+msgstr "Datum transakce"
+
+#: translation_string.php:48
+msgid "Transaction Entries"
+msgstr "Transakční záznamy"
+
+#: admin/payment/add_transaction.php:342
+msgid "Transaction Information"
+msgstr "Informace o transakci"
+
+#: template/payment.php:322 admin/payment/index.php:284
+#: admin/transactions/index.php:97
+msgid "Transaction List"
+msgstr "Seznam transakcí"
+
+#: translation_string.php:252
+msgid "Transaction/Donation"
+msgstr "Transakce/darování"
+
+#: admin/report/index.php:88
+msgid "Transaction/Donation Report"
+msgstr "Zpráva o transakci/daru"
+
+#: translation_string.php:296
+msgid "Transactions"
+msgstr "Transakce"
+
+#: admin/general-settings.php:418
+msgid "Turkish Lira"
+msgstr "Turecká lira"
+
+#: admin/general-settings.php:420
+msgid "U.S. Dollar"
+msgstr "Americký dolar"
+
+#: template/view_member.php:211 admin/member/add_member.php:253
+#: admin/member/view_member.php:201 admin/pastoral/add_pastoral.php:558
+#: admin/payment/add_income.php:625 admin/payment/add_transaction.php:581
+#: admin/pledges/add_pledges.php:598
+msgid "Unmarried"
+msgstr "Svobodný"
+
+#: template/payment.php:1060 template/payment.php:1387
+#: admin/payment/add_expense.php:68 admin/payment/add_income.php:390
+msgid "Unpaid"
+msgstr "Nezaplaceno"
+
+#: admin/pastoral/add_pastoral.php:790
+msgid "Upload  image"
+msgstr "Nahrát obrázek"
+
+#: admin/general-settings.php:214 admin/member/add_member.php:545
+#: admin/member/add_member.php:590
+msgid "Upload Cover Image"
+msgstr "Nahrajte úvodní obrázek"
+
+#: admin/member/uploadmember.php:22
+msgid "Upload CSV File"
+msgstr "Nahrajte soubor CSV"
+
+#: admin/spiritual-gift/add_gift.php:154
+msgid "Upload Gift"
+msgstr "Nahrát dárek"
+
+#: admin/member/add_member.php:591
+msgid "Upload Group Image"
+msgstr "Nahrajte obrázek skupiny"
+
+#: admin/pastoral/add_pastoral.php:840 admin/pastoral/add_pastoral.php:895
+msgid "Upload Image"
+msgstr "Nahrát obrázek"
+
+#: admin/general-settings.php:192 template/group.php:305
+#: admin/payment/add_income.php:857 admin/payment/add_transaction.php:813
+#: admin/pledges/add_pledges.php:830
+msgid "Upload image"
+msgstr "Nahrát obrázek"
+
+#: admin/member/add_member.php:546
+msgid "Upload Ministry Image"
+msgstr "Nahrajte obrázek ministerstva"
+
+#: translation_string.php:213
+msgid "Upload Profile"
+msgstr "Nahrát profil"
+
+#: template/familymember.php:1119 admin/accountant/add_accountant.php:216
+#: admin/family/add_family.php:276 admin/member/add_member.php:472
+#: admin/pastoral/add_pastoral.php:786 admin/payment/add_income.php:853
+#: admin/payment/add_transaction.php:809 admin/pledges/add_pledges.php:826
+msgid "Upload Profile Image"
+msgstr "Nahrát profilový obrázek"
+
+#: admin/sermon/add_sermon.php:111
+msgid "Upload Sermon"
+msgstr "Nahrát kázání"
+
+#: template/sermon-list.php:704 admin/songs/add_song.php:106
+#: admin/songs/add_song.php:181
+msgid "Upload Song"
+msgstr "Nahrát skladbu"
+
+#: template/reservation.php:302 template/reservation.php:313
+#: template/reservation.php:380 template/reservation.php:484
+#: template/venue-reservation.php:49 template/venue-reservation.php:58
+#: admin/venue/add_reservation.php:163 admin/venue/reservation-list.php:126
+#: admin/venue/reservation-list.php:138 admin/venue/reservation-list.php:205
+msgid "Usage Title"
+msgstr "Název použití"
+
+#: admin/general-settings.php:314
+msgid "Use Paymaster Payment Gateways"
+msgstr "Používejte platební brány Paymaster"
+
+#: admin_template.php:1308
+msgid "Use title : "
+msgstr "Použít název:"
+
+#: admin/general-settings.php:236
+msgid "User Can Change Profile Picture"
+msgstr "Uživatel může změnit obrázek profilu"
+
+#: template/familymember.php:1099 admin/accountant/add_accountant.php:196
+#: admin/family/add_family.php:256 admin/member/add_member.php:451
+#: admin/pastoral/add_pastoral.php:766 admin/payment/add_income.php:833
+#: admin/payment/add_transaction.php:789 admin/pledges/add_pledges.php:806
+msgid "User Name"
+msgstr "Uživatelské jméno"
+
+#: admin/mail-tempate/index.php:362
+msgid "User Role"
+msgstr "Uživatelská role"
+
+#: template/account.php:330 admin/mail-tempate/index.php:363
+msgid "Username"
+msgstr "uživatelské jméno"
+
+#: template/familymember.php:159 template/member.php:88
+#: admin/accountant/index.php:123 admin/family/index.php:175
+#: admin/member/index.php:130
+msgid "Username Or Emailid All Ready Exist."
+msgstr "Uživatelské jméno nebo e-mailové ID Vše připraveno existuje."
+
+#: translation_string.php:154
+msgid "Users"
+msgstr "Uživatelé"
+
+#: admin/admin.php:52 admin/admin.php:141 template/activity.php:99
+#: template/activity.php:199 template/activity.php:203
+#: template/reservation.php:303 template/reservation.php:314
+#: template/reservation.php:382 template/reservation.php:491
+#: admin/access_right/Accountant.php:572
+#: admin/access_right/Family_member.php:613
+#: admin/access_right/Management.php:673 admin/access_right/Member.php:632
+#: admin/activity/add_activity.php:414 admin/activity/index.php:343
+#: admin/activity/index.php:456 admin/venue/add_reservation.php:171
+#: admin/venue/reservation-list.php:127 admin/venue/reservation-list.php:139
+#: admin/venue/reservation-list.php:211 admin/venue/reservation-list.php:216
+msgid "Venue"
+msgstr "Místo"
+
+#: translation_string.php:127
+msgid "Venue Details"
+msgstr "Podrobnosti o místě konání"
+
+#: admin/activity/add_activity.php:646 admin/venue/add_reservation.php:313
+#: admin/venue/add_venue.php:69
+msgid "Venue Information"
+msgstr "Informace o místě konání"
+
+#: translation_string.php:29
+msgid "Venue Name"
+msgstr "Název místa konání"
+
+#: template/venue.php:287 template/venue.php:298 template/venue.php:360
+#: template/venue.php:492 admin/activity/add_activity.php:653
+#: admin/venue/add_reservation.php:320 admin/venue/add_venue.php:76
+#: admin/venue/index.php:356 admin/venue/index.php:368
+#: admin/venue/index.php:433
+msgid "Venue Title"
+msgstr "Název místa konání"
+
+#: translation_string.php:294
+msgid "Venues"
+msgstr "Místa konání"
+
+#: template/sermon-list.php:686 template/spiritual-gift.php:1033
+#: admin/sermon/add_sermon.php:96 admin/spiritual-gift/add_gift.php:135
+msgid "Video"
+msgstr "Video"
+
+#: translation_string.php:199
+msgid "video"
+msgstr "video"
+
+#: template/accountant.php:166 template/activity.php:230
+#: template/document.php:181 template/document.php:198
+#: template/familymember.php:446 template/familymember.php:450
+#: template/familymember.php:540 template/group.php:232 template/member.php:281
+#: template/member.php:287 template/member.php:293 template/ministry.php:227
+#: template/notice.php:289 template/pastoral.php:331
+#: template/reservation.php:398 template/sermon-list.php:312
+#: template/services.php:186 template/spiritual-gift.php:490
+#: template/venue.php:397 template/view_member.php:792
+#: admin/access_right/Accountant.php:245
+#: admin/access_right/Family_member.php:238
+#: admin/access_right/Management.php:252 admin/access_right/Member.php:257
+#: admin/accountant/index.php:330 admin/activity/index.php:480
+#: admin/document/add_document.php:70 admin/document/index.php:339
+#: admin/document/index.php:357 admin/family/index.php:463
+#: admin/group/index.php:357 admin/member/index.php:688
+#: admin/member/view_member.php:769 admin/ministry/index.php:341
+#: admin/notice/index.php:423 admin/pastoral/index.php:339
+#: admin/sermon/index.php:348 admin/service/index.php:411
+#: admin/spiritual-gift/index.php:425 admin/venue/index.php:470
+#: admin/venue/reservation-list.php:238
+msgid "View"
+msgstr "Pohled"
+
+#: template/attendance.php:180 template/attendance.php:699
+#: admin/attendance/index.php:200 admin/attendance/ministry-attendence.php:89
+msgid "View  Attendance"
+msgstr "Zobrazit docházku"
+
+#: translation_string.php:97 translation_string.php:267
+msgid "View Accountant"
+msgstr "Zobrazit účetní"
+
+#: template/check-in.php:324 admin/check-in/index.php:411
+msgid "View Check-in"
+msgstr "Zobrazit odbavení"
+
+#: template/document.php:99 template/document.php:110
+#: admin/document/index.php:252 admin/document/index.php:264
+msgid "View Document"
+msgstr "Zobrazit dokument"
+
+#: admin/mail-tempate/index.php:1212 admin/mail-tempate/index.php:1269
+msgid "View Donation Link"
+msgstr "Zobrazit odkaz na darování"
+
+#: template/payment.php:1294 admin/payment/expense-list.php:166
+msgid "View Expense"
+msgstr "Zobrazit náklady"
+
+#: translation_string.php:94
+msgid "View Family Member"
+msgstr "Zobrazit člena rodiny"
+
+#: template/spiritual-gift.php:346 admin/spiritual-gift/index.php:272
+msgid "View Gifts"
+msgstr "Zobrazit dárky"
+
+#: template/payment.php:925 admin/payment/income_list.php:198
+msgid "View income"
+msgstr "Zobrazit příjem"
+
+#: template/donate.php:503 template/payment.php:559 template/pledges.php:333
+#: template/spiritual-gift.php:382 template/spiritual-gift.php:1235
+#: template/view_member.php:605 template/view_member.php:990
+#: admin/member/view_member.php:592 admin/member/view_member.php:954
+#: admin/payment/index.php:329 admin/payment/index.php:524
+#: admin/pledges/index.php:389 admin/spiritual-gift/index.php:302
+#: admin/spiritual-gift/sell_gift_list.php:175 admin/transactions/index.php:176
+msgid "View Invoice"
+msgstr "Zobrazit fakturu"
+
+#: translation_string.php:91
+msgid "View Member"
+msgstr "Zobrazit člena"
+
+#: translation_string.php:258 admin/sermon/index.php:191
+msgid "View Sermon"
+msgstr "Zobrazit kázání"
+
+#: translation_string.php:131
+msgid "View Sermon List"
+msgstr "Zobrazit seznam kázání"
+
+#: template/songs.php:291 admin/songs/index.php:335
+msgid "view Song"
+msgstr "zobrazit píseň"
+
+#: translation_string.php:133
+msgid "View Spiritual Gift"
+msgstr "Zobrazit Duchovní dárek"
+
+#: translation_string.php:212 translation_string.php:231
+msgid "View Spiritual Gifts"
+msgstr "Zobrazit duchovní dary"
+
+#: admin/member/add_member.php:415 admin/member/add_member.php:418
+#: admin/pastoral/add_pastoral.php:731 admin/pastoral/add_pastoral.php:734
+#: admin/payment/add_income.php:798 admin/payment/add_income.php:801
+#: admin/payment/add_transaction.php:754 admin/payment/add_transaction.php:757
+#: admin/pledges/add_pledges.php:771 admin/pledges/add_pledges.php:774
+msgid "Volunteer"
+msgstr "Dobrovolník"
+
+#: translation_string.php:89 template/member.php:215 template/member.php:225
+#: template/member.php:256 admin/member/index.php:618
+#: admin/member/index.php:631 admin/member/index.php:668
+msgid "Volunteer Member"
+msgstr "Dobrovolný člen"
+
+#: translation_string.php:253 admin/general-settings.php:269
+msgid "Want to take past date attendance?"
+msgstr "Chcete vzít účast na minulém rande?"
+
+#: translation_string.php:261
+msgid "Wed"
+msgstr "St"
+
+#: template/pledges.php:461 admin/activity/add_activity.php:535
+#: admin/pledges/add_pledges.php:433
+msgid "Weekly"
+msgstr "Týdně"
+
+#: translation_string.php:259
+msgid "Welcome To Dashboard, Admin"
+msgstr "Vítejte na hlavním panelu, administrátore"
+
+#: template/familymember.php:991 admin/family/add_family.php:148
+msgid "Wife"
+msgstr "Manželka"
+
+#: admin_template.php:1484 admin_template.php:1503
+msgid "Wish"
+msgstr "Přání"
+
+#: translation_string.php:128
+msgid "Worship"
+msgstr "Uctívání"
+
+#: translation_string.php:257 admin/report/expense_report.php:29
+#: admin/report/income_expense_netprofit.php:27
+#: admin/report/income_report.php:27 admin/report/payment_report.php:76
+msgid "Year"
+msgstr "Rok"
+
+#: template/pledges.php:465 admin/activity/add_activity.php:537
+#: admin/pledges/add_pledges.php:437
+msgid "Yearly"
+msgstr "Roční"
+
+#: translation_string.php:180 template/member.php:256 template/venue.php:387
+#: admin/member/index.php:668 admin/venue/index.php:460
+msgid "Yes"
+msgstr "Ano"
+
+#: admin/mail-tempate/index.php:242 admin/mail-tempate/index.php:301
+#: admin/mail-tempate/index.php:360 admin/mail-tempate/index.php:422
+#: admin/mail-tempate/index.php:481 admin/mail-tempate/index.php:539
+#: admin/mail-tempate/index.php:599 admin/mail-tempate/index.php:664
+#: admin/mail-tempate/index.php:731 admin/mail-tempate/index.php:790
+#: admin/mail-tempate/index.php:851 admin/mail-tempate/index.php:909
+#: admin/mail-tempate/index.php:971 admin/mail-tempate/index.php:1033
+#: admin/mail-tempate/index.php:1092 admin/mail-tempate/index.php:1149
+#: admin/mail-tempate/index.php:1207 admin/mail-tempate/index.php:1266
+#: admin/mail-tempate/index.php:1323 admin/mail-tempate/index.php:1381
+#: admin/mail-tempate/index.php:1439 admin/mail-tempate/index.php:1499
+msgid "You can use following variables in the email template:"
+msgstr "V šabloně e-mailu můžete použít následující proměnné:"
+
+#: translation_string.php:65 admin/report/download_report.php:159
+#: admin/report/download_report.php:222
+msgid "Your file is ready. You can download it from"
+msgstr "Váš soubor je připraven. Můžete si jej stáhnout z"
+
+#: admin/check-in/add_room.php:88
+msgid "Youth"
+msgstr "Mládí"
+
+#: translation_string.php:219
+msgid "youth"
+msgstr "mládí"
+
+#: template/familymember.php:715 template/familymember.php:1037
+#: admin/family/add_family.php:194 admin/family/view_family.php:134
+#: admin/service/view_service.php:140
+msgid "Zip Code"
+msgstr "PSČ"
