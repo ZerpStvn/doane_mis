@@ -1,16 +1,16 @@
 <?php  
 /*
-Plugin Name: Church Management System
-Plugin URI: https://mojoomla.com/
-Description: Church Management System for wordpress plugin is ideal way to manage complete Church operation. It has different user roles like Member, Volunteer, Accountant and Admin users. 
+Plugin Name: Doane Church Management
+Plugin URI: https://doane.com
+Description: "Church Management For Doane". 
 Version: 2.1.0 (06-04-2024)
-Author: Mojoomla
-Author URI: https://codecanyon.net/search/mojoomla
+Author: "The Thesis Group
+Author URI: ""
 Text Domain: church_mgt
 Domain Path: /languages/
-License: GPLv2 or later
+License: Github GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Copyright 2015  Mojoomla  (email : sales@mojoomla.com)
+Copyright 2024  Thesis  (email : doane@gmail.com)
 */
 define( 'CMS_PLUGIN_BASENAME', plugin_basename( __FILE__ ) );
 
